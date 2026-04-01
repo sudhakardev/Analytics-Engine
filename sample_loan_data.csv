@@ -1,0 +1,1001 @@
+age,income,credit_score,loan_amount,employment_years,debt_ratio,num_credit_lines,marital_status,education,loan_approved
+56,125186,414,12239,26,0.39,12,Divorced,PhD,Rejected
+69,54674,622,11710,33,0.62,7,Married,High School,Rejected
+46,55854,339,26384,14,0.14,1,Divorced,Master,Rejected
+32,66271,339,26038,31,0.2,13,Divorced,High School,Rejected
+60,93688,588,45846,20,0.76,2,Divorced,Master,Approved
+25,58518,561,92983,4,0.18,9,Divorced,PhD,Rejected
+38,131076,515,72821,5,0.48,13,Divorced,Master,Rejected
+56,30267,446,42991,37,0.48,10,Single,Master,Rejected
+36,110825,635,84057,21,0.42,7,Married,Master,Rejected
+40,21062,467,11971,17,0.53,12,Single,High School,Rejected
+28,136664,391,34139,13,0.22,10,Divorced,Bachelor,Rejected
+28,70448,652,90445,9,0.46,7,Married,High School,Approved
+41,115462,662,82067,12,0.33,6,Single,Bachelor,Approved
+53,26229,644,85257,30,0.55,3,Single,High School,Rejected
+57,76793,469,89742,29,0.16,10,Divorced,PhD,Rejected
+41,134813,655,42711,2,0.48,3,Single,PhD,Approved
+20,67915,490,11530,29,0.19,2,Single,Master,Rejected
+39,24632,721,16116,5,0.26,11,Single,PhD,Rejected
+19,124592,306,70794,28,0.21,6,Single,Master,Rejected
+41,23596,432,5282,7,0.19,4,Single,Bachelor,Rejected
+61,129779,330,84473,32,0.67,5,Divorced,PhD,Rejected
+47,26168,834,6898,16,0.26,3,Divorced,Bachelor,Rejected
+55,128099,725,9135,10,0.75,6,Single,High School,Rejected
+19,27561,693,11629,12,0.78,11,Divorced,Bachelor,Rejected
+38,93794,662,90120,10,0.48,12,Divorced,High School,Approved
+50,102152,736,94087,30,0.16,3,Married,Bachelor,Approved
+29,145036,381,70031,27,0.33,14,Single,Bachelor,Approved
+39,144049,655,38380,5,0.65,14,Divorced,PhD,Rejected
+61,46734,557,22071,15,0.33,8,Divorced,Bachelor,Rejected
+42,26371,823,25074,3,0.12,9,Single,PhD,Rejected
+66,138894,594,95724,34,0.47,4,Married,PhD,Rejected
+44,46069,523,72843,25,0.68,9,Single,Master,Rejected
+59,99905,824,44901,11,0.65,12,Married,Master,Rejected
+45,32910,345,16205,10,0.18,7,Single,High School,Rejected
+33,93479,412,60661,36,0.55,3,Single,Bachelor,Rejected
+32,97735,532,10906,24,0.22,7,Single,High School,Rejected
+64,101264,316,7591,17,0.21,14,Single,Bachelor,Rejected
+68,43275,659,67987,18,0.71,1,Married,Master,Rejected
+61,92274,522,68370,22,0.24,3,Married,Master,Rejected
+69,101449,747,85685,37,0.25,6,Divorced,Bachelor,Rejected
+20,120776,664,59400,17,0.05,4,Single,Bachelor,Approved
+54,80004,625,30150,25,0.7,7,Married,Master,Rejected
+68,82981,766,36852,5,0.64,14,Married,Master,Rejected
+24,104659,713,47870,3,0.52,3,Married,High School,Rejected
+38,74553,754,57756,28,0.61,1,Single,Master,Rejected
+26,68447,532,61481,33,0.16,9,Divorced,Bachelor,Rejected
+56,54529,523,6283,16,0.39,6,Married,High School,Rejected
+35,146394,711,38691,15,0.31,8,Single,Bachelor,Approved
+21,95703,634,6125,1,0.12,3,Married,PhD,Rejected
+42,96090,521,72065,33,0.41,8,Married,High School,Rejected
+31,37260,336,31170,7,0.74,2,Divorced,Bachelor,Rejected
+67,132581,577,13438,12,0.08,12,Married,Master,Rejected
+26,23812,495,25095,7,0.27,4,Married,PhD,Rejected
+43,48024,783,21154,29,0.21,3,Single,Bachelor,Approved
+19,78656,541,13004,31,0.23,10,Single,High School,Approved
+37,136148,623,14752,35,0.73,1,Divorced,Bachelor,Rejected
+45,47285,491,60426,29,0.4,13,Single,PhD,Rejected
+64,112436,316,31819,0,0.4,13,Single,High School,Rejected
+24,136421,823,97051,38,0.62,7,Divorced,PhD,Rejected
+61,21605,700,29217,16,0.17,11,Married,Bachelor,Rejected
+25,91158,321,93708,19,0.42,10,Divorced,Master,Rejected
+64,92303,773,37994,23,0.37,2,Single,Master,Approved
+52,47139,419,20036,21,0.5,4,Divorced,Bachelor,Rejected
+31,97149,509,82275,28,0.8,9,Married,Bachelor,Rejected
+34,76138,605,54416,21,0.63,6,Divorced,Bachelor,Rejected
+53,138205,569,14587,8,0.35,8,Single,High School,Rejected
+67,96125,584,5645,36,0.67,2,Single,PhD,Approved
+57,33918,526,35930,9,0.18,7,Divorced,PhD,Rejected
+21,105655,680,86835,35,0.07,6,Married,PhD,Approved
+19,47446,759,35090,36,0.2,13,Divorced,Bachelor,Approved
+23,144040,306,92489,27,0.31,14,Married,PhD,Rejected
+59,33046,328,57142,27,0.43,9,Married,Bachelor,Rejected
+21,149922,332,31475,20,0.51,7,Divorced,High School,Rejected
+46,44818,378,23888,23,0.73,1,Married,Master,Rejected
+35,120894,758,48732,39,0.43,14,Single,Bachelor,Approved
+43,135751,837,86623,1,0.43,8,Divorced,Bachelor,Approved
+61,24324,781,51305,7,0.09,11,Married,Master,Rejected
+51,96323,729,51037,26,0.08,10,Single,Master,Approved
+27,29111,584,14346,21,0.46,3,Divorced,High School,Rejected
+53,58110,815,5587,36,0.38,14,Single,PhD,Approved
+31,36389,398,17763,26,0.68,2,Single,Bachelor,Rejected
+48,142177,696,64165,28,0.17,12,Single,PhD,Approved
+65,61427,788,74615,2,0.07,3,Married,Bachelor,Approved
+32,99579,338,41116,12,0.39,11,Divorced,High School,Rejected
+25,48746,570,90751,9,0.23,6,Divorced,Master,Rejected
+31,142883,456,96353,35,0.09,13,Married,High School,Rejected
+40,107886,374,95301,8,0.59,14,Divorced,Master,Rejected
+57,127141,429,30556,26,0.13,3,Single,PhD,Rejected
+38,20117,383,64042,33,0.51,10,Divorced,PhD,Rejected
+33,145808,321,23099,0,0.26,5,Married,High School,Rejected
+62,132221,758,50096,31,0.18,6,Single,Master,Approved
+35,104471,838,76986,24,0.33,8,Married,High School,Approved
+64,132613,681,18230,28,0.65,7,Single,Master,Rejected
+41,33234,739,34009,6,0.34,14,Single,Master,Rejected
+43,149597,320,75969,2,0.61,11,Divorced,PhD,Approved
+42,123864,602,38866,19,0.14,8,Single,PhD,Rejected
+62,73441,383,89246,19,0.63,3,Married,Master,Rejected
+58,20846,752,81975,29,0.23,4,Divorced,Master,Rejected
+46,30954,686,46855,34,0.56,6,Married,Master,Rejected
+32,99239,806,86557,34,0.47,11,Single,PhD,Approved
+62,133689,556,11416,38,0.75,7,Married,PhD,Rejected
+18,66514,826,77516,26,0.34,9,Married,Bachelor,Approved
+42,108236,461,60915,25,0.1,13,Single,Master,Rejected
+24,117579,462,23058,13,0.06,1,Divorced,Bachelor,Rejected
+26,148644,823,81637,16,0.67,13,Married,Master,Rejected
+41,26469,570,45718,17,0.44,8,Single,PhD,Rejected
+18,50105,791,37602,28,0.63,8,Divorced,Bachelor,Rejected
+61,62101,507,79658,19,0.23,6,Divorced,Bachelor,Rejected
+25,84323,838,83112,26,0.31,4,Divorced,High School,Approved
+41,111922,359,63067,17,0.07,3,Married,Master,Rejected
+28,78067,729,32516,3,0.77,11,Married,PhD,Rejected
+68,69376,608,92969,0,0.55,3,Married,High School,Rejected
+34,65587,819,6089,0,0.75,6,Divorced,High School,Rejected
+25,56976,326,42346,25,0.25,13,Married,Master,Rejected
+52,124587,498,79663,19,0.51,8,Single,High School,Rejected
+52,147534,686,15487,22,0.56,7,Married,Master,Rejected
+50,87584,648,5155,9,0.29,11,Married,High School,Rejected
+22,124537,835,72494,10,0.69,1,Divorced,Master,Rejected
+59,98477,677,81229,4,0.76,11,Married,PhD,Rejected
+56,130911,826,43547,0,0.71,6,Single,Master,Approved
+58,62533,452,33795,16,0.6,7,Divorced,Master,Rejected
+45,21828,505,60296,21,0.26,12,Single,Bachelor,Rejected
+24,21917,754,26447,33,0.26,7,Divorced,PhD,Rejected
+26,40618,572,41598,28,0.77,9,Divorced,PhD,Rejected
+25,52254,535,46814,3,0.06,11,Married,PhD,Rejected
+29,125292,820,95751,4,0.59,11,Single,High School,Rejected
+51,136714,800,80330,10,0.58,10,Divorced,Bachelor,Rejected
+50,67362,416,92960,20,0.52,5,Married,PhD,Rejected
+65,40128,685,68278,34,0.79,1,Divorced,High School,Rejected
+40,143781,643,60077,11,0.28,2,Divorced,High School,Rejected
+41,131281,694,76906,25,0.3,4,Divorced,High School,Rejected
+54,79383,363,14528,18,0.11,5,Divorced,Bachelor,Rejected
+52,85545,371,98812,6,0.38,9,Divorced,High School,Rejected
+61,102180,573,55100,6,0.25,11,Divorced,Bachelor,Rejected
+57,107958,619,13179,25,0.31,1,Married,Master,Rejected
+39,29865,637,53781,39,0.68,3,Divorced,High School,Rejected
+44,22219,665,60267,4,0.75,5,Single,PhD,Approved
+52,59809,794,87379,20,0.19,3,Married,High School,Approved
+18,136748,465,28952,13,0.33,4,Single,Master,Rejected
+52,25287,843,58798,3,0.75,14,Divorced,Master,Rejected
+54,146593,310,55939,22,0.1,3,Single,High School,Rejected
+64,54387,600,34516,19,0.12,4,Divorced,Master,Approved
+31,28512,401,61526,14,0.17,14,Divorced,Bachelor,Rejected
+20,21342,724,15449,28,0.5,13,Married,Bachelor,Rejected
+18,83076,691,55290,7,0.16,13,Married,High School,Approved
+22,128872,513,91661,18,0.78,1,Divorced,Bachelor,Rejected
+43,39216,387,77954,38,0.39,12,Married,Bachelor,Rejected
+31,137512,700,27746,27,0.43,8,Single,PhD,Approved
+56,136682,345,72990,26,0.23,4,Married,High School,Rejected
+44,113070,762,63810,3,0.4,7,Married,Master,Approved
+26,99767,609,88297,14,0.55,2,Single,High School,Rejected
+32,117829,385,20223,34,0.61,2,Married,Bachelor,Rejected
+32,46614,391,77237,36,0.62,6,Divorced,PhD,Rejected
+43,56258,541,7597,0,0.48,14,Single,High School,Rejected
+59,113789,301,70677,2,0.73,2,Divorced,High School,Rejected
+30,62078,524,7659,23,0.66,6,Single,Bachelor,Rejected
+68,126288,415,91516,26,0.62,11,Divorced,Bachelor,Approved
+49,103524,402,79567,39,0.09,2,Divorced,High School,Rejected
+56,116573,493,20037,35,0.06,4,Married,Bachelor,Rejected
+66,32219,465,51738,33,0.21,7,Divorced,Bachelor,Rejected
+69,20235,389,76678,28,0.55,8,Married,Bachelor,Rejected
+49,62929,421,17109,23,0.36,3,Single,Bachelor,Rejected
+21,147309,442,27010,23,0.35,14,Divorced,Bachelor,Rejected
+47,87444,405,13787,3,0.71,13,Divorced,PhD,Rejected
+54,28567,727,13472,2,0.72,9,Single,Bachelor,Rejected
+40,121834,604,28383,33,0.73,2,Single,Master,Rejected
+56,90792,616,66709,22,0.29,8,Divorced,High School,Rejected
+62,85441,308,74785,22,0.57,8,Single,PhD,Rejected
+32,104555,372,39518,4,0.25,13,Married,PhD,Rejected
+60,93698,658,58909,30,0.19,14,Single,Bachelor,Approved
+46,144450,522,23351,5,0.19,4,Single,High School,Rejected
+53,137248,715,74624,36,0.31,1,Divorced,Master,Approved
+30,25415,669,58330,9,0.37,13,Married,Bachelor,Rejected
+49,56159,563,20282,39,0.67,1,Single,High School,Approved
+24,63925,617,89866,6,0.14,2,Married,Bachelor,Approved
+68,146523,383,26778,38,0.6,14,Married,Bachelor,Rejected
+39,25951,617,29264,37,0.45,12,Married,Bachelor,Rejected
+45,107388,410,64675,20,0.27,14,Divorced,Bachelor,Rejected
+19,28007,550,10075,19,0.42,9,Single,Bachelor,Rejected
+59,146730,682,80948,2,0.27,13,Divorced,Bachelor,Approved
+62,61832,306,53454,21,0.5,2,Single,Bachelor,Rejected
+23,78596,758,33365,3,0.38,2,Single,Master,Approved
+45,141101,383,77766,27,0.17,6,Divorced,PhD,Rejected
+45,50523,507,53200,11,0.14,7,Married,Master,Rejected
+61,108861,689,16002,37,0.46,13,Married,Bachelor,Approved
+61,144194,613,18947,35,0.73,7,Single,Bachelor,Rejected
+37,106740,321,84222,4,0.31,13,Divorced,Master,Rejected
+47,35524,709,99840,12,0.6,9,Married,Master,Rejected
+28,149028,814,83610,22,0.54,6,Married,PhD,Rejected
+45,39282,426,57142,29,0.75,14,Single,Master,Rejected
+42,43930,313,61307,36,0.67,8,Single,PhD,Rejected
+56,20077,311,9493,24,0.47,11,Divorced,Bachelor,Rejected
+50,125881,386,55085,26,0.54,6,Single,High School,Rejected
+18,145501,823,39228,13,0.72,2,Married,High School,Rejected
+44,40611,836,84676,35,0.35,1,Married,High School,Approved
+69,36984,600,56875,38,0.3,5,Married,High School,Rejected
+30,34060,542,36655,15,0.06,14,Married,Bachelor,Rejected
+58,102985,421,48472,21,0.67,9,Divorced,High School,Rejected
+20,104056,446,54437,20,0.65,8,Divorced,Master,Rejected
+56,145329,655,54416,20,0.13,14,Single,Master,Approved
+23,63303,608,64711,7,0.48,13,Single,High School,Rejected
+25,79207,587,11816,15,0.4,4,Single,Master,Rejected
+44,95046,606,82175,30,0.14,5,Divorced,PhD,Rejected
+26,49287,848,69307,9,0.79,13,Married,Bachelor,Rejected
+54,113709,651,51733,31,0.21,5,Single,High School,Approved
+50,59711,611,16240,33,0.1,6,Married,High School,Rejected
+68,31954,358,97493,8,0.5,3,Single,Bachelor,Rejected
+59,93340,334,76363,16,0.6,5,Single,Master,Rejected
+61,92101,744,37762,10,0.07,2,Single,Bachelor,Approved
+41,91520,392,13259,31,0.54,10,Single,Bachelor,Rejected
+32,107062,506,55139,9,0.45,1,Single,Master,Rejected
+49,122974,652,19849,21,0.13,11,Married,Bachelor,Approved
+49,38574,631,86768,16,0.18,1,Single,Master,Rejected
+41,29184,458,94709,3,0.48,10,Married,Master,Rejected
+58,39096,323,59869,24,0.27,7,Divorced,Bachelor,Rejected
+69,87728,703,68095,20,0.75,2,Single,PhD,Rejected
+66,54016,815,75910,36,0.66,4,Married,Master,Rejected
+66,31246,663,91710,37,0.79,5,Divorced,Bachelor,Rejected
+69,65558,681,28567,0,0.24,7,Divorced,Master,Approved
+29,138721,831,40292,24,0.78,2,Divorced,PhD,Rejected
+56,38381,451,79813,35,0.37,14,Married,PhD,Rejected
+19,147796,719,56631,16,0.31,6,Single,High School,Approved
+20,56455,549,14885,23,0.09,1,Single,Master,Rejected
+66,112263,416,64659,1,0.09,7,Married,Master,Rejected
+54,24018,811,59306,39,0.57,9,Single,Bachelor,Rejected
+66,31302,634,71314,14,0.39,5,Married,Master,Rejected
+34,87506,717,70087,31,0.22,5,Single,High School,Approved
+66,61157,594,34165,38,0.51,4,Divorced,PhD,Rejected
+19,74917,670,63929,5,0.24,3,Single,PhD,Approved
+19,112738,485,72028,0,0.48,9,Married,High School,Rejected
+45,116646,545,54812,22,0.32,5,Married,Master,Rejected
+40,103122,567,55500,38,0.67,8,Divorced,Master,Rejected
+54,44519,536,84151,16,0.67,9,Married,High School,Rejected
+49,116809,829,63643,33,0.41,5,Single,Bachelor,Approved
+50,107487,320,49900,28,0.31,10,Single,PhD,Rejected
+18,76819,819,47946,8,0.32,9,Divorced,High School,Approved
+36,100910,399,12851,12,0.65,2,Married,High School,Rejected
+19,140430,777,21288,5,0.3,9,Divorced,Master,Approved
+61,91324,597,77692,5,0.21,11,Single,PhD,Rejected
+43,25408,825,72580,19,0.11,4,Divorced,Master,Rejected
+49,79379,633,12368,2,0.4,6,Married,High School,Rejected
+23,45053,301,90436,16,0.41,6,Divorced,Bachelor,Rejected
+49,29446,674,51403,11,0.68,6,Married,PhD,Approved
+21,20922,592,96170,0,0.22,2,Married,High School,Rejected
+28,118723,617,14168,16,0.34,7,Single,High School,Rejected
+34,71356,801,91497,2,0.66,13,Single,Bachelor,Rejected
+55,30789,680,54879,25,0.67,6,Single,High School,Rejected
+41,117720,313,64871,14,0.34,11,Married,High School,Rejected
+22,86656,803,94388,35,0.39,14,Divorced,PhD,Approved
+69,64028,530,37174,31,0.28,1,Married,PhD,Rejected
+51,84484,383,97491,31,0.75,2,Single,PhD,Rejected
+23,52154,429,11581,3,0.14,7,Single,Master,Approved
+39,102870,444,76853,17,0.75,1,Divorced,Bachelor,Rejected
+28,22336,327,69046,18,0.56,1,Single,PhD,Rejected
+65,123677,365,54678,34,0.45,1,Single,Master,Rejected
+33,87779,462,31649,39,0.07,8,Single,Master,Rejected
+50,39029,528,93668,13,0.41,4,Divorced,Bachelor,Rejected
+26,79201,560,87325,32,0.36,4,Married,Bachelor,Approved
+23,52265,748,19567,13,0.17,13,Single,High School,Rejected
+33,122916,723,85404,33,0.54,2,Divorced,Master,Rejected
+46,132250,759,94906,3,0.78,11,Single,PhD,Rejected
+20,136553,600,66944,23,0.47,11,Divorced,Bachelor,Rejected
+37,63872,602,83002,28,0.59,11,Single,Master,Rejected
+53,66197,586,33803,18,0.1,1,Divorced,PhD,Rejected
+36,145733,694,23230,5,0.36,12,Single,Master,Approved
+43,75180,309,22862,32,0.14,10,Married,Bachelor,Rejected
+20,43710,569,48355,39,0.51,9,Single,High School,Rejected
+36,49486,660,36259,18,0.75,7,Divorced,Master,Rejected
+37,91907,556,92445,0,0.55,4,Single,PhD,Rejected
+49,148876,432,35795,4,0.11,12,Married,Bachelor,Rejected
+24,91895,575,13770,26,0.32,6,Single,High School,Rejected
+69,84435,812,16093,15,0.46,14,Divorced,PhD,Approved
+58,60631,612,51571,5,0.35,2,Divorced,PhD,Rejected
+50,149038,583,5193,39,0.68,7,Married,PhD,Rejected
+57,121532,420,22569,12,0.66,2,Divorced,Master,Rejected
+56,40103,406,16190,34,0.51,10,Single,Bachelor,Rejected
+35,84772,503,67824,18,0.33,8,Single,PhD,Rejected
+57,146108,464,47752,11,0.24,8,Single,Master,Rejected
+18,34382,604,37327,15,0.13,1,Divorced,Bachelor,Rejected
+28,104291,796,47070,9,0.32,13,Single,Bachelor,Approved
+45,121195,455,90925,24,0.36,8,Single,Master,Rejected
+42,23756,666,45197,19,0.56,2,Single,Master,Rejected
+67,40609,550,7261,30,0.54,6,Married,PhD,Rejected
+40,134074,633,98905,3,0.1,13,Divorced,Bachelor,Rejected
+48,36478,810,31512,22,0.35,1,Divorced,High School,Rejected
+47,120978,592,11716,1,0.19,5,Divorced,Master,Rejected
+59,59666,319,91795,21,0.17,11,Married,Bachelor,Rejected
+52,95683,581,33933,36,0.67,7,Divorced,Bachelor,Rejected
+24,119097,300,9378,7,0.08,13,Married,PhD,Rejected
+33,144714,418,45583,6,0.36,10,Married,High School,Rejected
+43,120420,334,90371,13,0.18,1,Divorced,PhD,Rejected
+65,91315,497,34033,2,0.71,2,Single,High School,Rejected
+69,97834,784,29000,15,0.47,7,Single,High School,Approved
+66,146205,358,80868,18,0.22,6,Divorced,Master,Rejected
+19,34153,460,47604,17,0.43,3,Divorced,Bachelor,Rejected
+18,129415,505,73336,15,0.6,14,Married,Bachelor,Rejected
+65,96325,311,78869,7,0.77,10,Divorced,Bachelor,Rejected
+29,129701,789,10410,32,0.22,2,Married,High School,Approved
+22,32999,575,88375,11,0.71,10,Divorced,Bachelor,Rejected
+54,75318,541,61044,10,0.75,4,Single,Master,Rejected
+49,20814,515,68315,4,0.74,3,Single,High School,Rejected
+26,135033,550,76344,26,0.53,7,Divorced,High School,Rejected
+58,96077,425,11796,11,0.52,8,Married,High School,Rejected
+52,110474,516,91716,16,0.35,2,Single,High School,Rejected
+36,22443,605,59245,5,0.61,10,Married,Master,Rejected
+65,95993,484,48056,32,0.45,7,Divorced,Bachelor,Rejected
+33,95916,338,22709,4,0.56,8,Divorced,Master,Rejected
+20,93319,522,63557,27,0.37,6,Single,Bachelor,Rejected
+37,145885,483,22543,13,0.6,6,Divorced,Master,Rejected
+41,129777,794,42418,4,0.67,10,Single,PhD,Rejected
+50,37368,726,99611,32,0.16,1,Married,PhD,Rejected
+41,35328,477,21724,18,0.67,4,Single,PhD,Rejected
+69,76942,727,8828,21,0.46,14,Single,PhD,Approved
+28,111751,593,22087,4,0.68,1,Married,High School,Rejected
+66,119131,450,17605,1,0.37,4,Single,High School,Rejected
+25,47306,683,36337,29,0.33,2,Single,Master,Approved
+53,105451,607,10482,38,0.74,11,Divorced,Master,Rejected
+55,59915,635,70333,3,0.24,13,Married,PhD,Rejected
+57,57219,674,97541,32,0.68,5,Single,Bachelor,Rejected
+37,100879,307,93296,12,0.41,10,Married,PhD,Rejected
+52,131939,640,55952,19,0.44,14,Married,Master,Rejected
+65,84644,428,10463,6,0.28,9,Single,PhD,Approved
+42,80279,651,75448,14,0.48,11,Divorced,Master,Approved
+52,73028,657,9648,22,0.29,12,Married,PhD,Approved
+42,124263,816,38623,13,0.08,10,Single,Bachelor,Approved
+46,20126,794,64156,22,0.25,3,Married,PhD,Rejected
+35,72329,385,40634,18,0.05,8,Divorced,Bachelor,Rejected
+63,47632,474,49602,28,0.78,3,Divorced,Bachelor,Rejected
+35,127099,492,54334,19,0.77,6,Divorced,Master,Rejected
+19,85310,610,73648,28,0.35,4,Single,Bachelor,Rejected
+52,129945,418,27054,23,0.6,8,Single,High School,Rejected
+33,75176,517,75028,17,0.31,11,Divorced,High School,Rejected
+58,139797,726,27207,9,0.55,6,Single,High School,Rejected
+53,106066,713,85650,7,0.65,8,Divorced,Master,Rejected
+50,125500,413,86554,25,0.76,1,Single,High School,Rejected
+21,146413,444,26386,28,0.35,6,Divorced,Master,Rejected
+50,64327,837,88276,9,0.64,1,Married,Master,Rejected
+31,88904,602,64518,16,0.25,1,Divorced,High School,Rejected
+38,23797,644,57781,1,0.79,8,Divorced,Bachelor,Rejected
+65,67882,300,57780,5,0.07,7,Single,PhD,Rejected
+37,33718,446,66440,4,0.5,3,Single,Master,Rejected
+25,54560,586,49199,27,0.54,6,Single,High School,Rejected
+24,96589,352,66035,4,0.57,9,Single,Master,Rejected
+20,42116,603,13210,17,0.14,7,Single,Bachelor,Rejected
+34,56244,368,49363,25,0.75,12,Single,Bachelor,Rejected
+50,121721,660,83279,19,0.19,3,Married,High School,Approved
+65,21645,519,65348,26,0.52,14,Divorced,Master,Rejected
+29,67523,460,60284,11,0.22,14,Divorced,PhD,Rejected
+68,144085,388,77124,6,0.28,13,Divorced,PhD,Rejected
+39,137718,458,73847,2,0.46,6,Married,Master,Rejected
+39,39256,788,27432,9,0.36,11,Divorced,Master,Rejected
+63,121376,623,69089,33,0.17,4,Married,Master,Rejected
+47,120158,680,60398,24,0.18,14,Married,High School,Approved
+55,73173,401,8321,34,0.36,13,Married,Bachelor,Rejected
+55,57430,793,86348,15,0.62,3,Divorced,PhD,Rejected
+62,59282,318,42383,1,0.72,9,Married,High School,Rejected
+68,139719,753,83682,23,0.11,10,Divorced,Master,Approved
+25,83374,781,84190,9,0.34,2,Divorced,Master,Approved
+44,88244,696,57893,37,0.13,1,Single,Bachelor,Approved
+44,31694,578,40820,21,0.06,14,Single,Master,Rejected
+51,76264,664,71262,25,0.55,2,Married,High School,Rejected
+38,95060,630,8760,38,0.5,7,Married,High School,Rejected
+47,117416,643,27190,26,0.17,10,Divorced,Bachelor,Rejected
+50,77545,754,72411,28,0.23,1,Married,High School,Approved
+45,138195,364,28377,37,0.07,6,Married,PhD,Rejected
+64,59224,375,51737,19,0.68,14,Divorced,High School,Approved
+50,122516,442,74569,26,0.78,7,Married,High School,Rejected
+22,117945,772,43211,19,0.15,9,Married,High School,Approved
+65,33224,716,87909,18,0.22,14,Divorced,PhD,Rejected
+36,60738,604,8744,19,0.7,8,Divorced,Master,Approved
+21,45150,796,29995,34,0.74,6,Single,High School,Rejected
+52,83731,590,21977,1,0.36,3,Divorced,Bachelor,Rejected
+66,69688,401,39542,29,0.09,8,Single,PhD,Rejected
+34,119929,566,15651,33,0.08,7,Married,Bachelor,Rejected
+61,128618,302,83931,21,0.48,3,Divorced,High School,Rejected
+45,93509,384,21715,2,0.34,9,Divorced,Bachelor,Rejected
+47,28577,627,49409,5,0.07,12,Divorced,High School,Rejected
+46,28070,749,29306,14,0.49,2,Married,PhD,Rejected
+63,146161,753,24086,26,0.06,3,Single,Bachelor,Approved
+23,28666,520,19376,9,0.64,2,Married,Bachelor,Rejected
+52,77761,453,66350,8,0.28,13,Married,High School,Rejected
+58,141178,311,76425,32,0.08,1,Divorced,High School,Rejected
+54,56368,432,41636,31,0.49,4,Single,Master,Rejected
+41,26783,603,91120,5,0.35,5,Married,High School,Rejected
+46,131530,592,56649,35,0.78,13,Divorced,High School,Rejected
+66,61914,599,39610,1,0.46,6,Married,Master,Rejected
+63,90507,342,15058,28,0.26,5,Married,High School,Rejected
+48,147738,642,79637,3,0.58,1,Divorced,High School,Rejected
+52,99026,625,83033,0,0.25,3,Divorced,Master,Rejected
+50,135893,797,75194,18,0.73,1,Single,PhD,Rejected
+69,131255,663,81917,25,0.33,11,Married,PhD,Approved
+38,130616,726,69200,24,0.46,5,Divorced,High School,Approved
+49,87526,320,51619,9,0.09,5,Divorced,High School,Rejected
+40,90835,706,22154,14,0.37,12,Single,Master,Approved
+50,65765,635,24539,21,0.67,11,Single,Master,Rejected
+20,39956,416,65058,20,0.65,13,Divorced,PhD,Rejected
+35,107895,423,67068,21,0.22,6,Single,Bachelor,Rejected
+42,66240,698,82313,35,0.22,8,Divorced,High School,Approved
+59,141008,350,35373,33,0.66,10,Married,Bachelor,Rejected
+48,57148,623,38154,29,0.75,12,Single,Bachelor,Rejected
+20,114270,440,11031,24,0.12,1,Married,Master,Rejected
+57,147978,769,98533,27,0.39,4,Married,High School,Approved
+63,24757,633,76975,0,0.3,10,Married,High School,Rejected
+41,39097,672,27785,3,0.7,11,Divorced,Master,Rejected
+67,30395,793,83928,6,0.11,1,Married,Bachelor,Rejected
+49,36241,838,33669,8,0.21,9,Married,Master,Approved
+64,123892,455,99475,35,0.61,11,Married,PhD,Rejected
+39,47696,590,7282,18,0.09,7,Divorced,High School,Rejected
+40,135654,443,39624,0,0.42,7,Married,PhD,Rejected
+19,90480,405,53438,9,0.38,12,Married,Master,Rejected
+44,66163,719,94900,35,0.3,5,Single,High School,Approved
+59,39816,301,72534,8,0.35,7,Divorced,PhD,Rejected
+19,69840,389,36705,31,0.45,12,Married,PhD,Rejected
+43,122547,644,43244,31,0.17,2,Single,Bachelor,Rejected
+34,72853,649,79964,5,0.48,14,Divorced,High School,Rejected
+57,44917,758,42437,37,0.65,13,Divorced,PhD,Rejected
+50,116731,562,82872,16,0.62,4,Divorced,PhD,Rejected
+26,41566,650,79878,9,0.17,14,Divorced,Bachelor,Rejected
+60,95452,407,77982,26,0.16,14,Divorced,PhD,Rejected
+65,82823,338,55583,34,0.25,7,Divorced,PhD,Rejected
+56,141392,458,43392,20,0.32,3,Married,PhD,Rejected
+46,40806,611,12461,24,0.36,2,Married,Bachelor,Rejected
+59,95520,540,15516,27,0.56,10,Married,PhD,Rejected
+43,21759,744,84285,14,0.09,2,Married,PhD,Rejected
+52,146092,597,22514,3,0.08,13,Single,High School,Rejected
+67,61949,335,41268,28,0.34,1,Married,High School,Rejected
+42,112374,383,95486,8,0.57,5,Divorced,Bachelor,Rejected
+41,22482,751,41788,26,0.2,12,Married,Master,Rejected
+30,44442,684,80749,25,0.53,6,Married,High School,Rejected
+24,53719,471,66049,18,0.24,6,Divorced,Bachelor,Rejected
+53,78066,675,67493,27,0.71,9,Married,PhD,Rejected
+62,113501,661,41027,16,0.72,4,Married,PhD,Rejected
+37,22079,440,98547,19,0.27,1,Married,Bachelor,Rejected
+18,22717,417,47849,39,0.22,6,Single,PhD,Rejected
+25,79676,576,22858,38,0.36,5,Married,PhD,Rejected
+63,47952,519,89162,22,0.23,10,Divorced,Master,Rejected
+33,106444,325,84003,31,0.55,6,Divorced,PhD,Rejected
+31,62460,820,57395,32,0.67,3,Married,High School,Rejected
+29,110397,309,44758,4,0.55,2,Married,PhD,Rejected
+68,92847,677,59312,33,0.67,6,Married,Bachelor,Rejected
+40,113607,451,73670,39,0.35,13,Divorced,Master,Rejected
+32,109106,348,87279,10,0.17,1,Divorced,PhD,Rejected
+45,38449,453,20434,2,0.6,7,Single,Bachelor,Rejected
+51,53536,592,69047,32,0.32,7,Single,High School,Rejected
+19,84077,349,52775,10,0.55,10,Single,PhD,Rejected
+49,58258,830,80769,15,0.25,13,Divorced,Master,Approved
+40,68302,359,71677,17,0.11,7,Single,PhD,Rejected
+39,145937,466,88555,29,0.79,12,Married,Bachelor,Rejected
+68,48865,501,90920,9,0.17,11,Married,Master,Rejected
+42,26645,445,50734,17,0.79,10,Divorced,PhD,Approved
+39,139771,738,93503,37,0.78,1,Single,High School,Rejected
+39,58000,541,45603,18,0.65,4,Married,Master,Rejected
+66,46737,782,81708,35,0.54,13,Divorced,High School,Rejected
+69,31485,407,86926,12,0.48,7,Single,Bachelor,Rejected
+59,58565,525,73803,2,0.7,11,Married,PhD,Rejected
+23,45522,731,44332,9,0.27,9,Single,High School,Approved
+32,139614,718,96703,37,0.4,5,Divorced,Bachelor,Approved
+60,85155,754,26312,0,0.51,13,Single,PhD,Rejected
+54,75168,459,98376,26,0.36,2,Divorced,Bachelor,Rejected
+50,72487,822,89526,7,0.37,7,Single,High School,Approved
+25,149948,376,49179,16,0.3,10,Married,Bachelor,Rejected
+61,32342,808,76442,8,0.47,1,Divorced,Master,Rejected
+61,60806,740,45379,5,0.69,7,Divorced,PhD,Rejected
+22,68770,553,22297,24,0.2,6,Divorced,Bachelor,Approved
+56,98623,619,7011,38,0.75,7,Single,High School,Rejected
+21,123177,562,49014,27,0.57,14,Single,PhD,Rejected
+23,119785,673,16738,32,0.67,13,Married,Master,Rejected
+62,95629,466,99333,36,0.47,10,Divorced,PhD,Rejected
+49,140993,758,52498,8,0.63,3,Divorced,Master,Rejected
+69,72603,579,16120,17,0.06,3,Single,PhD,Rejected
+47,146944,601,13767,20,0.66,7,Single,Bachelor,Rejected
+64,132726,830,27852,1,0.08,13,Married,Bachelor,Approved
+52,101974,517,84239,37,0.72,2,Married,High School,Rejected
+57,125947,401,5929,39,0.79,1,Single,Master,Rejected
+69,46399,587,82487,35,0.27,9,Divorced,High School,Rejected
+33,148177,466,96575,36,0.21,9,Married,Bachelor,Rejected
+30,105382,335,22438,14,0.62,7,Single,Master,Rejected
+67,101244,652,53515,27,0.24,7,Single,High School,Approved
+59,129575,372,10744,17,0.7,3,Divorced,High School,Rejected
+47,135520,652,88820,33,0.13,10,Single,High School,Approved
+36,130904,369,47417,21,0.14,2,Single,High School,Rejected
+34,96534,724,12069,10,0.78,11,Married,High School,Rejected
+36,75106,816,47359,12,0.56,7,Single,Master,Rejected
+45,132599,727,24799,3,0.69,9,Single,High School,Rejected
+43,50678,838,98762,21,0.29,1,Married,Master,Approved
+54,96218,459,75188,6,0.56,13,Divorced,High School,Rejected
+43,83230,448,94859,23,0.5,14,Divorced,Bachelor,Rejected
+40,134684,529,12597,3,0.5,4,Married,Bachelor,Rejected
+26,94055,366,52093,27,0.56,6,Married,High School,Rejected
+29,76373,680,42226,14,0.48,7,Divorced,PhD,Approved
+18,51480,357,77127,0,0.37,10,Divorced,Bachelor,Rejected
+18,105230,558,96369,2,0.26,7,Divorced,Master,Rejected
+64,88836,641,82362,13,0.63,10,Divorced,High School,Rejected
+51,92258,429,31417,37,0.22,2,Divorced,Master,Rejected
+49,59986,471,23693,0,0.57,14,Married,PhD,Approved
+65,44160,508,84674,37,0.22,4,Single,High School,Rejected
+42,105595,653,58161,37,0.52,5,Divorced,Bachelor,Approved
+57,121358,770,7169,20,0.61,14,Divorced,Master,Rejected
+62,99111,415,89092,28,0.21,12,Single,Bachelor,Rejected
+18,84929,563,27052,4,0.09,1,Single,Bachelor,Rejected
+33,93506,741,76849,9,0.15,1,Single,High School,Approved
+56,54911,847,78851,27,0.5,10,Single,Master,Rejected
+22,107127,752,13036,20,0.69,3,Single,PhD,Rejected
+39,51821,776,36778,6,0.08,10,Single,Bachelor,Approved
+46,95039,586,32734,2,0.6,3,Married,High School,Rejected
+20,80535,602,28173,19,0.31,12,Single,High School,Rejected
+29,133453,610,35403,18,0.41,8,Single,PhD,Rejected
+43,104458,507,71321,34,0.75,9,Married,High School,Rejected
+33,32175,745,76675,3,0.3,14,Single,Bachelor,Rejected
+68,139235,354,11344,4,0.4,11,Divorced,High School,Rejected
+54,74771,311,23800,0,0.06,12,Divorced,Master,Rejected
+39,126660,699,30372,3,0.11,1,Single,Master,Approved
+46,147157,814,66516,11,0.24,14,Married,Bachelor,Approved
+31,141300,841,25538,26,0.07,11,Divorced,Master,Approved
+45,106925,536,68918,22,0.52,2,Married,PhD,Rejected
+22,133374,578,19973,24,0.37,10,Divorced,High School,Approved
+64,86358,647,76155,20,0.46,2,Single,Bachelor,Rejected
+66,37327,403,64500,23,0.18,4,Married,PhD,Rejected
+47,67057,816,41575,24,0.27,2,Married,High School,Approved
+63,26150,547,47261,31,0.55,7,Married,PhD,Rejected
+69,24425,663,32716,31,0.77,13,Divorced,Bachelor,Rejected
+22,143654,620,8236,4,0.09,9,Divorced,Bachelor,Rejected
+29,36032,585,20848,35,0.72,7,Divorced,PhD,Rejected
+33,22198,448,7352,38,0.48,12,Single,High School,Rejected
+43,80500,383,6932,15,0.47,6,Divorced,Master,Rejected
+43,73394,705,81449,32,0.43,10,Single,Master,Approved
+65,40079,755,13556,20,0.1,1,Married,PhD,Approved
+38,56220,460,91836,8,0.12,11,Married,Bachelor,Rejected
+56,61874,759,10498,5,0.5,10,Single,High School,Rejected
+53,33859,849,81118,34,0.31,9,Divorced,High School,Rejected
+50,70460,799,55098,38,0.74,5,Single,Bachelor,Rejected
+47,51419,808,69386,21,0.35,11,Married,Master,Approved
+54,138865,780,14569,4,0.16,5,Married,High School,Approved
+40,28705,413,61882,22,0.59,6,Single,PhD,Rejected
+27,62880,660,75393,16,0.27,9,Divorced,Master,Approved
+22,149838,640,5340,11,0.44,13,Divorced,PhD,Rejected
+53,43236,748,48949,22,0.57,8,Single,Master,Rejected
+51,107955,479,87302,15,0.73,8,Single,Bachelor,Rejected
+69,105514,706,67443,2,0.64,14,Divorced,PhD,Rejected
+48,123145,495,96668,29,0.56,8,Married,PhD,Rejected
+27,35358,765,79027,21,0.56,1,Single,Bachelor,Rejected
+36,119713,610,5138,8,0.76,1,Divorced,PhD,Rejected
+49,114914,561,5358,28,0.27,8,Divorced,Master,Rejected
+18,122870,718,80250,36,0.05,5,Married,High School,Approved
+22,96918,705,90376,22,0.25,9,Married,High School,Approved
+62,139179,442,35654,12,0.21,2,Married,Bachelor,Rejected
+21,136243,641,30879,31,0.55,9,Married,Master,Rejected
+33,34596,615,86532,22,0.53,12,Married,PhD,Approved
+41,53572,400,60778,16,0.5,14,Single,PhD,Rejected
+33,98757,543,42772,39,0.06,8,Divorced,High School,Rejected
+19,21279,789,63478,20,0.6,9,Single,PhD,Rejected
+66,83197,311,69353,1,0.29,4,Single,High School,Rejected
+45,131496,538,31762,36,0.55,1,Single,Bachelor,Approved
+49,82516,341,18283,5,0.47,1,Single,PhD,Rejected
+44,27083,728,68922,17,0.31,5,Single,Master,Rejected
+37,140674,457,44420,29,0.15,2,Married,PhD,Rejected
+41,140307,515,60568,21,0.12,14,Married,High School,Rejected
+29,146457,761,90090,32,0.67,8,Divorced,Bachelor,Rejected
+67,129397,433,25219,29,0.74,10,Single,High School,Rejected
+52,37771,366,62169,16,0.54,11,Divorced,PhD,Rejected
+50,49975,306,79965,31,0.13,5,Married,High School,Rejected
+50,65648,825,51840,13,0.35,5,Married,High School,Approved
+68,145641,372,49695,9,0.6,2,Married,Bachelor,Rejected
+60,68285,698,89754,35,0.63,7,Single,Master,Rejected
+54,39063,704,82988,33,0.14,13,Single,PhD,Rejected
+29,87642,429,63342,8,0.05,8,Married,Bachelor,Rejected
+20,110093,765,23951,27,0.58,10,Divorced,Master,Rejected
+18,134390,505,6307,10,0.32,13,Divorced,High School,Approved
+50,106143,565,85388,13,0.24,1,Married,Master,Rejected
+57,57599,836,95768,38,0.06,2,Divorced,High School,Approved
+27,71920,552,40428,18,0.46,10,Married,High School,Rejected
+60,48529,588,97021,14,0.69,4,Divorced,Bachelor,Rejected
+61,55954,463,80774,27,0.77,5,Married,High School,Rejected
+46,47856,394,43975,23,0.47,13,Divorced,Bachelor,Rejected
+30,22573,409,6140,7,0.44,2,Single,Master,Approved
+29,98344,635,29842,8,0.11,1,Married,Master,Rejected
+48,55367,537,31421,32,0.46,9,Married,High School,Rejected
+63,122337,680,6708,32,0.33,14,Divorced,Bachelor,Approved
+19,126732,735,8630,18,0.51,1,Married,High School,Rejected
+68,119608,782,24595,2,0.34,13,Married,Bachelor,Approved
+67,80774,324,81021,9,0.23,4,Married,Bachelor,Rejected
+52,43752,416,33308,39,0.12,2,Single,Bachelor,Rejected
+40,75029,781,49789,0,0.29,11,Single,Master,Approved
+34,37685,691,60690,28,0.12,4,Divorced,Bachelor,Approved
+43,71693,836,31086,33,0.18,8,Single,Master,Approved
+25,136739,378,21859,12,0.79,8,Divorced,Bachelor,Rejected
+46,75961,472,12684,0,0.38,11,Single,Master,Rejected
+43,126937,311,96088,33,0.45,12,Divorced,PhD,Approved
+27,144956,427,6207,28,0.71,9,Single,Master,Rejected
+43,96908,391,51099,12,0.8,13,Single,Master,Rejected
+51,145537,842,72496,28,0.49,11,Divorced,High School,Approved
+68,146678,831,71093,38,0.66,12,Married,Bachelor,Rejected
+58,94532,746,34689,23,0.3,5,Married,PhD,Approved
+24,101994,689,53651,25,0.28,7,Single,High School,Approved
+21,76133,342,18893,16,0.35,3,Divorced,Bachelor,Rejected
+67,117425,553,71418,6,0.55,10,Married,PhD,Rejected
+62,145055,429,65011,12,0.56,4,Divorced,PhD,Rejected
+28,81268,359,43635,4,0.29,10,Married,PhD,Rejected
+46,112201,766,61115,25,0.15,9,Divorced,Bachelor,Approved
+53,58243,586,83405,2,0.52,10,Single,PhD,Rejected
+42,77384,816,77702,6,0.15,10,Divorced,PhD,Approved
+38,51653,766,83518,38,0.48,14,Married,High School,Approved
+53,46657,644,77805,0,0.57,12,Single,Master,Rejected
+27,59952,681,63954,16,0.58,1,Divorced,Bachelor,Rejected
+54,42180,552,33064,24,0.62,2,Married,Master,Rejected
+26,117432,355,84063,2,0.7,5,Single,High School,Rejected
+41,141829,762,7454,14,0.42,3,Divorced,Master,Approved
+52,148377,756,25878,28,0.6,2,Married,PhD,Rejected
+66,98411,382,56098,31,0.51,1,Divorced,PhD,Rejected
+52,21622,398,67154,25,0.19,10,Divorced,Bachelor,Rejected
+65,68756,448,17991,15,0.07,3,Single,Bachelor,Rejected
+53,60809,628,73344,24,0.26,1,Single,Bachelor,Rejected
+35,36725,455,41593,27,0.38,12,Married,High School,Rejected
+66,81396,489,41304,8,0.51,1,Single,Bachelor,Rejected
+56,71226,793,35386,0,0.69,12,Married,High School,Rejected
+49,126296,562,60220,28,0.2,1,Divorced,PhD,Rejected
+41,101182,379,74338,21,0.14,8,Divorced,Master,Rejected
+40,102565,699,99289,15,0.77,3,Married,PhD,Rejected
+49,49402,559,26083,6,0.13,11,Divorced,PhD,Rejected
+54,24263,400,23354,13,0.41,1,Single,PhD,Rejected
+29,143489,658,27190,28,0.49,7,Divorced,Bachelor,Approved
+66,116523,679,11142,18,0.46,10,Single,Bachelor,Approved
+30,66828,520,33398,18,0.11,3,Married,Bachelor,Rejected
+40,140824,719,56971,1,0.09,8,Married,Master,Approved
+42,67924,423,46862,14,0.13,4,Divorced,Bachelor,Rejected
+52,94182,721,58410,2,0.49,4,Divorced,High School,Approved
+58,113065,530,24503,10,0.46,5,Single,PhD,Rejected
+47,79052,362,53456,29,0.23,6,Single,Master,Rejected
+34,31664,784,87035,39,0.53,7,Divorced,Master,Rejected
+66,55737,782,13016,17,0.67,14,Divorced,Master,Rejected
+37,121332,818,7384,1,0.08,14,Married,Master,Approved
+65,109563,454,67320,31,0.42,4,Married,Master,Approved
+42,49373,391,20072,7,0.57,8,Married,High School,Rejected
+39,137369,825,85018,21,0.24,13,Divorced,PhD,Approved
+30,56397,754,45510,5,0.28,6,Divorced,Master,Approved
+36,148575,809,53933,11,0.51,14,Divorced,PhD,Rejected
+66,106145,482,26826,39,0.72,1,Married,Bachelor,Rejected
+53,121371,685,73026,35,0.66,1,Divorced,Master,Rejected
+29,58709,704,30518,14,0.49,9,Single,Master,Approved
+58,136074,545,29045,27,0.6,10,Divorced,PhD,Rejected
+36,81120,770,55876,17,0.32,6,Divorced,Master,Approved
+29,39250,722,97446,1,0.53,10,Divorced,Master,Rejected
+26,41172,364,95102,12,0.4,8,Divorced,Master,Rejected
+24,31555,312,56919,14,0.19,13,Divorced,High School,Rejected
+45,107410,512,32103,19,0.58,7,Single,High School,Rejected
+31,98617,541,41188,28,0.47,12,Single,Master,Rejected
+48,73276,792,10845,28,0.32,6,Divorced,High School,Approved
+69,77492,512,91698,2,0.73,4,Married,Bachelor,Rejected
+36,73002,637,41674,18,0.07,7,Divorced,Master,Rejected
+64,140103,472,24337,2,0.29,9,Divorced,Bachelor,Rejected
+33,144938,463,27313,13,0.09,14,Divorced,PhD,Rejected
+22,109599,764,31943,39,0.62,11,Married,Bachelor,Approved
+52,92355,796,82949,3,0.58,10,Married,PhD,Rejected
+29,111248,694,5276,10,0.3,10,Married,Master,Approved
+42,44762,607,56151,30,0.56,14,Single,PhD,Rejected
+69,31046,482,22611,31,0.35,7,Married,PhD,Rejected
+38,116999,809,16944,26,0.62,1,Single,Bachelor,Rejected
+53,144130,845,57887,29,0.39,10,Single,Bachelor,Approved
+40,136021,526,86442,1,0.36,9,Married,Bachelor,Rejected
+33,48769,735,54847,8,0.75,13,Married,Master,Rejected
+56,73302,721,63653,27,0.24,4,Married,Master,Approved
+62,43150,320,91072,30,0.14,3,Single,Bachelor,Rejected
+59,88247,696,61622,33,0.49,4,Divorced,Master,Approved
+56,24853,404,32810,14,0.78,4,Married,Master,Rejected
+31,114613,491,82842,24,0.33,13,Married,PhD,Rejected
+48,140900,316,15503,35,0.1,10,Married,PhD,Rejected
+22,109399,419,89761,7,0.3,11,Single,Bachelor,Rejected
+52,41792,692,41976,8,0.43,2,Single,Master,Approved
+40,79129,724,16590,36,0.17,14,Divorced,PhD,Approved
+46,126019,428,15886,38,0.54,12,Married,High School,Rejected
+60,94478,429,17866,31,0.8,14,Single,Master,Rejected
+28,133811,328,71624,16,0.39,1,Divorced,High School,Rejected
+35,134130,396,73899,34,0.32,12,Married,Bachelor,Rejected
+64,87298,309,37792,36,0.35,10,Single,Master,Rejected
+29,51987,541,14764,18,0.14,12,Married,Bachelor,Rejected
+26,35850,531,91156,28,0.71,1,Married,Bachelor,Rejected
+27,32112,583,47727,6,0.36,13,Single,Bachelor,Rejected
+61,141789,499,83471,27,0.34,14,Single,Bachelor,Rejected
+34,44058,378,13068,8,0.54,8,Single,Bachelor,Rejected
+55,65420,472,12295,27,0.38,14,Married,Master,Rejected
+24,58890,766,46160,5,0.54,2,Married,High School,Rejected
+63,86017,715,16390,28,0.1,12,Divorced,Master,Approved
+30,67304,748,25131,16,0.66,10,Married,Master,Rejected
+57,52921,386,99754,15,0.76,5,Single,Master,Rejected
+59,125921,400,80969,22,0.54,12,Married,PhD,Rejected
+26,21524,307,20038,30,0.77,4,Divorced,PhD,Rejected
+67,120424,499,57327,2,0.16,8,Divorced,Master,Rejected
+44,35048,804,98718,20,0.41,2,Single,High School,Rejected
+19,55111,386,82064,25,0.5,10,Single,Master,Rejected
+22,57904,342,26281,35,0.49,9,Divorced,Bachelor,Rejected
+46,74912,684,59189,36,0.35,7,Divorced,PhD,Approved
+54,54008,734,53511,21,0.3,13,Divorced,PhD,Approved
+55,20060,707,13605,11,0.15,7,Single,Master,Rejected
+36,94666,782,6381,12,0.34,1,Divorced,Master,Approved
+25,103559,316,71634,10,0.17,14,Divorced,High School,Rejected
+65,75337,447,24810,15,0.6,12,Single,High School,Rejected
+62,130616,576,29322,7,0.21,2,Married,Bachelor,Rejected
+18,33350,531,46869,39,0.09,4,Married,Master,Rejected
+39,44354,665,37955,39,0.46,4,Divorced,Master,Approved
+69,65186,527,66388,1,0.5,11,Married,Master,Rejected
+34,48145,735,15207,29,0.7,14,Married,PhD,Rejected
+24,54020,698,92329,29,0.48,3,Married,Bachelor,Approved
+42,106123,510,72628,11,0.31,7,Married,High School,Rejected
+62,126667,690,33220,9,0.65,12,Divorced,PhD,Rejected
+21,95186,798,89050,10,0.46,8,Married,PhD,Approved
+53,105469,839,79085,14,0.11,2,Married,PhD,Approved
+23,40581,790,27031,15,0.47,4,Single,PhD,Approved
+48,108929,741,75721,16,0.73,14,Divorced,Bachelor,Rejected
+36,43051,560,85807,25,0.35,3,Single,Master,Rejected
+61,71474,649,76312,1,0.27,2,Single,High School,Rejected
+56,111748,651,64766,11,0.16,12,Divorced,High School,Approved
+44,145995,819,17449,25,0.16,13,Married,PhD,Approved
+27,134618,619,94833,22,0.37,14,Single,PhD,Rejected
+43,89626,437,61699,17,0.5,6,Divorced,Bachelor,Rejected
+36,26960,849,86253,31,0.11,13,Married,PhD,Rejected
+56,55772,667,51092,37,0.75,4,Divorced,High School,Rejected
+20,41520,519,68671,2,0.62,6,Single,High School,Rejected
+62,69481,636,15350,37,0.49,2,Married,Master,Rejected
+30,56408,522,73487,2,0.67,12,Married,Master,Rejected
+67,114006,659,22622,29,0.11,4,Divorced,High School,Approved
+45,148496,628,75263,0,0.41,11,Married,High School,Rejected
+37,77134,762,58117,29,0.52,6,Single,Bachelor,Rejected
+45,40491,681,63394,31,0.67,14,Single,Bachelor,Rejected
+25,21341,468,28782,27,0.64,5,Single,High School,Rejected
+58,64623,516,33454,20,0.26,3,Divorced,PhD,Rejected
+56,110327,677,72904,12,0.76,8,Married,Master,Rejected
+18,20338,418,20592,26,0.14,7,Married,High School,Rejected
+20,91431,489,27173,35,0.71,3,Married,PhD,Rejected
+30,32254,669,38204,6,0.78,6,Single,High School,Rejected
+45,71860,448,40596,21,0.18,4,Married,Master,Rejected
+66,31344,787,39324,9,0.59,11,Single,Master,Rejected
+42,21750,673,66202,38,0.08,5,Married,Bachelor,Rejected
+50,74756,459,94400,14,0.35,11,Single,Bachelor,Rejected
+55,87957,650,35750,14,0.44,5,Married,Bachelor,Rejected
+23,125423,587,81112,3,0.49,7,Divorced,Bachelor,Rejected
+61,78053,587,21566,31,0.75,11,Divorced,Master,Rejected
+62,90855,525,12190,22,0.55,5,Single,PhD,Rejected
+49,35896,822,93607,5,0.41,11,Single,PhD,Rejected
+62,75761,821,43333,23,0.66,3,Married,PhD,Approved
+64,82552,572,85905,19,0.76,10,Married,High School,Approved
+38,140075,701,94571,36,0.07,5,Divorced,Bachelor,Approved
+33,97454,482,6589,19,0.79,7,Married,Bachelor,Rejected
+38,146522,787,30235,11,0.11,5,Single,Master,Approved
+28,138681,423,5159,32,0.66,5,Single,Master,Rejected
+54,110600,713,17145,27,0.26,9,Single,High School,Approved
+53,142732,471,85909,7,0.15,3,Single,High School,Rejected
+52,132153,587,36921,0,0.38,13,Single,PhD,Rejected
+36,142926,734,21237,36,0.53,6,Divorced,Master,Rejected
+37,47935,412,13244,21,0.34,1,Divorced,Bachelor,Approved
+35,57641,421,19743,5,0.09,10,Single,PhD,Rejected
+64,49711,843,51101,20,0.5,5,Married,Bachelor,Rejected
+58,90342,521,89227,31,0.73,8,Single,PhD,Rejected
+66,126896,338,61378,34,0.34,5,Divorced,Bachelor,Rejected
+31,32182,796,76126,14,0.21,9,Single,High School,Rejected
+32,107833,532,61071,4,0.38,11,Divorced,PhD,Rejected
+48,76276,829,76121,5,0.09,6,Divorced,Bachelor,Approved
+18,39541,448,79763,24,0.67,8,Single,Bachelor,Rejected
+20,114457,696,98814,39,0.67,10,Single,Master,Rejected
+33,102310,601,17237,28,0.49,8,Married,PhD,Rejected
+40,64813,659,20649,6,0.31,13,Divorced,Bachelor,Approved
+28,57198,537,42713,39,0.65,3,Married,Master,Rejected
+29,28820,535,78463,12,0.47,7,Single,Bachelor,Rejected
+27,44070,502,50409,37,0.67,14,Divorced,PhD,Rejected
+49,89768,555,53766,17,0.52,7,Married,High School,Rejected
+33,31122,534,51154,1,0.64,14,Married,PhD,Rejected
+25,100559,644,12016,7,0.5,10,Married,PhD,Rejected
+55,93543,833,84563,10,0.36,12,Single,Bachelor,Approved
+29,103441,765,53688,32,0.77,6,Single,Bachelor,Rejected
+41,61786,840,94678,37,0.46,12,Single,PhD,Approved
+45,114934,512,59238,26,0.5,7,Divorced,Master,Rejected
+25,119804,762,63608,19,0.22,14,Single,Master,Approved
+45,26737,735,94081,11,0.52,2,Divorced,Master,Rejected
+53,56062,582,36897,30,0.48,9,Married,Bachelor,Rejected
+43,74237,762,55961,26,0.19,10,Married,Bachelor,Approved
+25,71571,706,73703,31,0.09,10,Single,PhD,Approved
+67,45510,387,49757,9,0.5,1,Married,High School,Rejected
+45,39426,343,31917,2,0.62,1,Single,Bachelor,Rejected
+45,57265,760,27736,26,0.44,3,Divorced,PhD,Approved
+54,37850,577,32990,34,0.22,14,Married,PhD,Rejected
+58,138249,720,67551,30,0.55,3,Single,High School,Rejected
+53,86150,652,63161,14,0.11,1,Married,Master,Approved
+44,107312,814,84623,15,0.38,12,Married,PhD,Approved
+34,109613,318,27440,12,0.17,7,Single,PhD,Rejected
+26,94910,322,40205,34,0.19,4,Married,PhD,Rejected
+50,72375,712,85811,10,0.2,10,Married,Master,Approved
+37,141826,329,60103,20,0.34,13,Married,Master,Rejected
+30,55435,407,75812,10,0.09,2,Married,High School,Rejected
+45,116443,666,46627,29,0.35,10,Divorced,Bachelor,Approved
+65,77132,580,24008,34,0.43,5,Married,Master,Rejected
+46,98945,427,76274,21,0.41,6,Married,Bachelor,Rejected
+30,102050,528,37402,37,0.34,9,Single,Bachelor,Rejected
+63,149828,410,58384,30,0.68,4,Divorced,Master,Rejected
+52,115402,435,10793,13,0.16,2,Single,PhD,Rejected
+23,22983,661,10571,23,0.43,5,Single,High School,Rejected
+35,117241,485,21209,31,0.1,3,Single,Bachelor,Rejected
+68,40662,428,95930,35,0.1,2,Divorced,PhD,Rejected
+22,43510,560,48148,31,0.48,12,Single,Master,Rejected
+64,98187,814,96218,14,0.47,1,Single,Bachelor,Approved
+42,60998,748,7224,34,0.71,10,Single,Bachelor,Rejected
+19,76846,403,53695,2,0.47,2,Married,Bachelor,Approved
+27,114071,782,37441,15,0.77,6,Single,PhD,Rejected
+47,26640,523,44129,4,0.09,8,Divorced,PhD,Rejected
+67,64547,790,67368,20,0.12,13,Divorced,PhD,Approved
+62,74620,772,97122,9,0.08,3,Married,Bachelor,Approved
+22,35317,309,49760,18,0.19,11,Divorced,Bachelor,Rejected
+50,135608,704,28478,24,0.46,9,Divorced,High School,Approved
+18,27564,601,76854,3,0.53,12,Married,High School,Rejected
+35,47345,530,99230,28,0.08,9,Single,PhD,Rejected
+49,133824,365,90716,18,0.76,2,Married,PhD,Rejected
+64,114223,411,17180,1,0.68,8,Single,Master,Rejected
+66,143372,312,20372,9,0.27,10,Single,PhD,Rejected
+28,99273,692,34796,24,0.11,11,Divorced,High School,Approved
+38,94859,799,63272,19,0.18,12,Married,High School,Approved
+43,100765,533,94963,18,0.15,5,Divorced,High School,Rejected
+42,130017,613,98635,22,0.14,4,Divorced,Bachelor,Rejected
+39,94038,311,59040,23,0.44,10,Single,Bachelor,Rejected
+44,143618,508,80357,10,0.23,5,Divorced,PhD,Rejected
+66,72393,313,76368,33,0.32,4,Married,Master,Rejected
+30,86081,717,83356,27,0.79,8,Divorced,Master,Rejected
+50,145341,736,21211,4,0.56,4,Divorced,Master,Rejected
+51,122650,676,10842,4,0.76,13,Single,Bachelor,Rejected
+58,49430,319,68115,20,0.16,10,Married,High School,Rejected
+52,95532,369,71852,11,0.34,12,Divorced,High School,Rejected
+18,47788,510,50968,3,0.47,13,Single,Bachelor,Rejected
+38,115505,400,22508,19,0.11,14,Divorced,Master,Rejected
+65,68543,431,27005,37,0.05,6,Married,Master,Rejected
+23,33919,680,59575,24,0.55,2,Divorced,PhD,Rejected
+45,89346,431,85742,13,0.53,5,Divorced,PhD,Rejected
+34,116122,319,23971,10,0.36,6,Single,Master,Rejected
+22,59974,835,30599,31,0.42,5,Divorced,Bachelor,Approved
+48,127309,526,92592,10,0.36,12,Single,Master,Rejected
+22,36371,453,71914,17,0.07,2,Married,PhD,Approved
+55,65084,768,72055,26,0.3,14,Divorced,Master,Approved
+20,49629,704,92697,17,0.18,7,Married,Bachelor,Approved
+40,71184,501,10355,22,0.12,4,Married,High School,Rejected
+54,81916,337,59120,10,0.77,8,Divorced,Bachelor,Rejected
+54,147293,487,79619,20,0.5,7,Single,Bachelor,Rejected
+27,93972,356,43342,4,0.6,7,Married,PhD,Rejected
+27,82187,319,90992,22,0.29,9,Married,Bachelor,Rejected
+36,32984,572,83860,24,0.34,1,Divorced,Bachelor,Rejected
+34,53039,418,7257,9,0.23,10,Divorced,PhD,Rejected
+38,105431,815,32364,21,0.12,6,Divorced,PhD,Approved
+31,103691,520,29972,18,0.18,6,Divorced,High School,Rejected
+26,78606,825,31654,0,0.65,6,Divorced,Master,Rejected
+63,30616,814,85769,6,0.56,13,Divorced,Bachelor,Rejected
+18,122665,635,86423,3,0.46,12,Single,PhD,Rejected
+68,125373,354,34320,0,0.41,6,Married,High School,Rejected
+62,70072,799,25808,14,0.74,12,Single,Master,Rejected
+30,44574,835,57389,39,0.1,10,Single,PhD,Approved
+21,23430,461,39773,11,0.26,7,Divorced,Master,Rejected
+18,139123,458,56168,21,0.31,14,Married,Master,Rejected
+66,32676,487,32747,21,0.64,10,Single,Bachelor,Rejected
+57,30816,359,81396,16,0.79,6,Divorced,Bachelor,Rejected
+49,52733,618,88692,28,0.23,1,Divorced,PhD,Approved
+51,105680,510,62505,13,0.71,3,Married,Master,Rejected
+45,22050,705,90896,19,0.67,2,Single,PhD,Rejected
+48,129996,408,23135,32,0.22,6,Single,PhD,Rejected
+25,53933,375,95887,14,0.35,8,Single,Master,Rejected
+56,44951,841,52377,11,0.36,3,Divorced,PhD,Approved
+43,52413,613,28554,39,0.78,10,Married,Master,Rejected
+51,54801,416,67491,19,0.19,8,Married,Master,Rejected
+20,75619,318,60621,29,0.65,8,Single,Master,Rejected
+67,52913,731,63283,37,0.3,5,Divorced,Master,Approved
+29,132573,649,90140,2,0.6,8,Single,High School,Rejected
+18,139076,482,21923,27,0.37,6,Married,Master,Rejected
+61,60600,412,52591,25,0.48,5,Divorced,Bachelor,Rejected
+22,77775,482,67261,29,0.67,9,Single,Bachelor,Rejected
+47,110816,780,59336,12,0.65,14,Single,Bachelor,Rejected
+47,149972,445,79083,12,0.7,7,Divorced,Master,Rejected
+34,110093,412,65948,1,0.09,8,Married,Bachelor,Rejected
+65,132590,775,38002,36,0.57,1,Divorced,High School,Rejected
+64,55400,602,85098,37,0.15,11,Single,PhD,Rejected
+40,24494,417,78016,1,0.36,2,Single,Master,Rejected
+32,100688,460,31672,35,0.46,8,Single,Bachelor,Rejected
+54,142744,700,9213,25,0.35,12,Single,High School,Approved
+38,109431,497,15293,10,0.44,9,Married,PhD,Rejected
+31,94691,559,60860,7,0.8,4,Married,High School,Rejected
+19,117419,346,67507,39,0.15,12,Single,Bachelor,Rejected
+28,128730,698,62134,21,0.56,10,Married,High School,Rejected
+68,63001,377,7100,19,0.35,11,Married,PhD,Rejected
+56,87364,423,66997,7,0.15,10,Married,Bachelor,Rejected
+55,144988,374,33172,28,0.17,14,Single,PhD,Rejected
+51,65028,436,25132,39,0.76,9,Divorced,High School,Rejected
+55,127434,699,23199,25,0.71,4,Divorced,Master,Rejected
+67,117659,804,41609,29,0.73,10,Divorced,Master,Rejected
+51,57573,799,47965,16,0.79,10,Single,Master,Rejected
+35,20806,437,13016,19,0.21,10,Married,Master,Rejected
+47,144343,349,44779,15,0.32,9,Married,PhD,Rejected
+32,76638,553,36881,6,0.55,11,Single,Master,Approved
+44,148301,725,87594,15,0.41,7,Single,PhD,Approved
+68,146295,846,29472,26,0.36,2,Divorced,Bachelor,Approved
+51,126506,601,56813,22,0.32,9,Divorced,Master,Rejected
+69,49757,648,41021,23,0.5,4,Single,PhD,Rejected
+55,54636,348,59131,8,0.48,8,Divorced,Master,Rejected
+50,100097,373,29087,34,0.17,14,Married,Master,Rejected
+41,68280,560,17828,19,0.4,7,Single,Master,Approved
+32,44262,655,66610,36,0.47,13,Single,PhD,Approved
+47,100435,559,6401,16,0.48,7,Married,High School,Rejected
+59,82211,594,90179,30,0.21,8,Married,Master,Rejected
+68,74842,612,20193,7,0.61,1,Married,Master,Rejected
+34,148583,481,97389,14,0.07,5,Divorced,Bachelor,Rejected
+22,76979,663,49864,30,0.32,2,Single,High School,Approved
+46,134524,487,25307,29,0.64,2,Divorced,PhD,Rejected
+21,101470,842,24611,19,0.47,1,Married,Bachelor,Approved
+27,58197,847,48791,38,0.25,5,Divorced,Master,Approved
+34,61844,707,16950,11,0.57,2,Married,Bachelor,Rejected
+27,84754,713,81240,16,0.48,4,Divorced,Bachelor,Approved
+34,121868,641,82403,29,0.65,3,Divorced,Master,Rejected
+37,54157,519,7745,28,0.6,3,Married,High School,Rejected
+41,97129,462,60243,18,0.51,2,Divorced,High School,Rejected
+22,60042,519,8866,10,0.42,13,Single,Bachelor,Rejected
+51,81665,569,37245,33,0.15,6,Divorced,Master,Rejected
+23,135512,699,49724,6,0.25,2,Divorced,PhD,Approved
+19,136953,481,76354,33,0.36,14,Single,Bachelor,Rejected
+30,102856,504,56374,19,0.5,14,Married,PhD,Rejected
+60,47376,527,35116,37,0.44,8,Single,Bachelor,Rejected
+60,129049,549,86029,23,0.27,8,Divorced,Bachelor,Rejected
+65,75554,740,98574,9,0.05,13,Married,Master,Approved
+28,34199,832,25447,31,0.42,14,Divorced,Master,Rejected
+68,138533,495,35431,14,0.26,12,Divorced,PhD,Rejected
+64,101412,818,22908,36,0.6,5,Single,PhD,Rejected
+40,70948,369,34336,19,0.07,10,Single,High School,Rejected
+33,93781,698,45992,2,0.49,7,Married,Master,Approved
+48,92750,502,60350,36,0.76,4,Married,Bachelor,Rejected
+28,86262,447,74561,39,0.18,1,Married,Bachelor,Rejected
+33,137424,771,56955,7,0.4,11,Divorced,High School,Approved
+25,66600,498,66240,39,0.12,2,Single,Master,Rejected
+21,96898,725,25093,22,0.52,10,Single,Bachelor,Rejected
+57,82483,791,11155,39,0.46,10,Single,High School,Approved
+21,38297,441,51607,10,0.36,4,Married,High School,Rejected
+42,50448,612,38487,7,0.44,1,Single,Bachelor,Rejected
+20,46172,464,60668,28,0.72,13,Single,Bachelor,Rejected
+49,62874,613,25963,29,0.2,8,Single,PhD,Rejected
+20,27657,320,55124,9,0.07,9,Married,Master,Rejected
+44,104386,381,57870,38,0.7,4,Single,PhD,Rejected
+46,145617,430,61547,27,0.48,10,Married,High School,Rejected
+49,45425,604,69110,35,0.72,3,Single,Bachelor,Rejected
+67,46685,670,58554,12,0.5,2,Single,PhD,Rejected
+68,142000,683,25936,31,0.66,5,Single,High School,Rejected
+36,132855,744,9426,35,0.37,14,Married,Master,Approved
+38,44578,724,93839,36,0.61,3,Married,Bachelor,Rejected
+22,48831,460,32606,25,0.73,10,Single,PhD,Rejected
+35,27906,477,52832,21,0.48,7,Divorced,Master,Rejected
+45,81413,789,33151,3,0.19,11,Married,PhD,Approved
+59,74028,626,84303,30,0.25,6,Married,High School,Rejected
+39,27287,588,16308,17,0.2,1,Single,Master,Rejected
+38,53660,653,67522,37,0.24,12,Divorced,PhD,Approved
+23,95758,327,50671,23,0.28,8,Single,Master,Rejected
+18,80504,342,95306,22,0.47,2,Married,High School,Rejected
+22,79720,722,99108,21,0.49,5,Married,Master,Approved
+58,122979,476,7204,1,0.37,9,Single,PhD,Rejected
+29,54701,828,97769,30,0.51,8,Single,High School,Rejected
+43,103300,793,92265,10,0.11,2,Divorced,Bachelor,Approved
+63,130177,497,36131,27,0.12,9,Divorced,PhD,Rejected
+51,37674,816,57428,31,0.18,5,Married,PhD,Rejected
+66,103560,813,38870,4,0.44,10,Divorced,High School,Approved
+31,131543,321,54067,37,0.21,14,Divorced,High School,Rejected
+43,43874,411,63585,9,0.26,6,Married,Bachelor,Rejected
+62,63642,356,26607,39,0.35,13,Married,PhD,Rejected
+44,143867,365,29968,23,0.66,3,Married,High School,Rejected
+26,117820,397,16908,34,0.06,13,Married,Bachelor,Rejected
+43,85160,443,31423,22,0.54,3,Single,Bachelor,Rejected
+64,37602,734,79707,16,0.55,10,Married,High School,Rejected
+39,123320,385,83257,0,0.65,8,Married,PhD,Rejected
+64,108801,643,66215,30,0.75,11,Married,Master,Rejected
+47,45931,593,60835,30,0.07,10,Divorced,Master,Rejected
+60,114377,542,54429,33,0.17,10,Married,Bachelor,Rejected
+65,49192,331,87152,8,0.71,12,Single,Master,Rejected
+34,66542,690,43458,21,0.39,2,Single,Master,Approved
+43,147015,576,51169,12,0.47,11,Married,High School,Rejected
+53,62520,831,12659,24,0.55,12,Single,Bachelor,Rejected
+18,84772,453,65614,17,0.56,12,Divorced,PhD,Rejected
+25,78762,682,82240,11,0.75,2,Married,Bachelor,Rejected
+66,70106,367,37793,39,0.8,13,Single,High School,Rejected
+52,101121,513,51473,16,0.59,5,Single,Master,Rejected
+69,45559,675,94388,14,0.27,6,Married,PhD,Approved
+32,125595,512,93330,14,0.71,12,Single,Bachelor,Rejected
+64,53742,378,60751,14,0.09,2,Married,Master,Rejected
+39,89669,680,83915,38,0.22,5,Single,Bachelor,Approved
+31,100199,357,59254,12,0.72,7,Divorced,PhD,Rejected
+43,41754,325,12006,16,0.24,10,Single,Bachelor,Rejected
+45,23972,746,79218,31,0.22,10,Single,Bachelor,Rejected
+40,90831,365,70344,8,0.15,8,Married,Bachelor,Rejected
+31,132217,553,38840,39,0.69,12,Single,Master,Rejected
+41,61873,343,37430,19,0.43,7,Married,PhD,Rejected
+19,114661,396,28091,25,0.56,8,Divorced,PhD,Rejected
+62,126532,526,37983,26,0.23,14,Married,Master,Rejected
+43,146267,735,28989,20,0.62,12,Married,Master,Rejected
+31,29903,678,80451,17,0.62,9,Single,Master,Rejected
+68,23020,477,23990,12,0.28,5,Divorced,High School,Rejected
+24,61755,726,95270,15,0.36,13,Married,Bachelor,Approved
+20,105956,606,85360,8,0.21,5,Single,Bachelor,Rejected
+64,106988,803,41081,11,0.78,11,Single,PhD,Rejected
+40,65648,567,16033,37,0.53,10,Married,Bachelor,Rejected
+63,123537,307,21241,18,0.75,4,Single,High School,Rejected
+60,145991,807,10939,6,0.28,13,Married,Master,Approved
+64,29516,775,52562,34,0.64,9,Married,PhD,Rejected
+62,132863,596,40063,17,0.62,5,Married,PhD,Rejected
+35,135005,463,81721,15,0.57,14,Divorced,Bachelor,Rejected
+55,22396,784,32045,38,0.77,2,Married,PhD,Rejected

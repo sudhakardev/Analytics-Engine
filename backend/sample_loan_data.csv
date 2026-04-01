@@ -1,0 +1,2501 @@
+age,income,credit_score,loan_amount,loan_purpose,employment_years,debt_ratio,num_credit_lines,marital_status,education,loan_approved
+56,90285,676,25997,Education,35,0.71,4,Married,Bachelor,Rejected
+69,110476,785,51456,Home,40,0.36,5,Single,Bachelor,Approved
+46,83729,847,135865,Auto,25,0.17,7,Single,Bachelor,Approved
+32,53107,726,82988,Auto,10,0.1,4,Single,Bachelor,Rejected
+60,76567,794,85908,Business,40,0.29,11,Married,High School,Approved
+25,43994,804,82952,Business,5,0.18,7,Married,Bachelor,Approved
+38,81967,733,89784,Education,18,0.43,9,Married,Master,Rejected
+56,112124,736,63676,Home,37,0.43,3,Divorced,Bachelor,Approved
+36,110607,738,13373,Business,18,0.33,5,Married,PhD,Approved
+40,86999,670,99951,Auto,21,0.45,4,Divorced,Master,Rejected
+28,64888,753,31414,Home,6,0.36,9,Married,Master,Approved
+28,84913,674,122139,Business,10,0.63,5,Single,Master,Rejected
+41,94173,657,88872,Home,21,0.44,10,Divorced,Master,Approved
+70,107534,797,140772,Education,40,0.48,2,Married,Bachelor,Rejected
+53,70966,806,149973,Auto,32,0.13,10,Single,High School,Approved
+57,97765,814,95374,Home,36,0.17,1,Single,Bachelor,Approved
+41,73542,827,34493,Auto,19,0.42,7,Single,Bachelor,Approved
+20,29088,850,130074,Business,0,0.12,11,Married,High School,Approved
+39,67340,709,56224,Personal,20,0.26,1,Divorced,High School,Approved
+70,142653,682,36852,Home,40,0.53,8,Divorced,PhD,Approved
+19,50810,700,15932,Auto,0,0.25,9,Divorced,Master,Approved
+41,87997,850,93545,Home,22,0.17,7,Single,Master,Approved
+61,96626,726,38583,Business,39,0.45,9,Single,Bachelor,Approved
+47,87385,598,34865,Business,29,0.66,10,Single,High School,Rejected
+55,102034,850,148361,Auto,33,0.23,6,Divorced,High School,Approved
+19,25363,698,75270,Education,0,0.53,7,Single,High School,Rejected
+38,56829,850,90549,Home,19,0.21,3,Married,High School,Approved
+50,86423,804,142577,Home,32,0.33,14,Married,High School,Rejected
+29,67927,740,135768,Business,10,0.34,14,Married,Master,Rejected
+39,82149,801,49327,Home,19,0.23,9,Single,Bachelor,Approved
+61,89791,724,118209,Auto,40,0.48,3,Divorced,High School,Rejected
+42,47062,850,119889,Personal,23,0.12,6,Divorced,High School,Approved
+66,91995,850,23409,Business,40,0.38,4,Single,Bachelor,Approved
+44,65621,633,49533,Personal,26,0.51,9,Married,High School,Approved
+59,132229,794,20327,Home,40,0.47,1,Divorced,Master,Approved
+45,76574,686,60344,Education,27,0.42,9,Single,Bachelor,Approved
+33,57658,793,8671,Auto,12,0.59,12,Married,Bachelor,Rejected
+32,50111,828,96908,Home,12,0.32,4,Single,High School,Rejected
+64,73312,802,55756,Auto,40,0.12,10,Married,High School,Approved
+68,107985,802,29544,Home,40,0.37,5,Single,Bachelor,Approved
+61,89562,841,81347,Home,40,0.33,11,Married,Bachelor,Approved
+72,110671,850,23733,Home,40,0.05,13,Single,Bachelor,Approved
+69,81912,780,53093,Business,40,0.18,1,Married,High School,Approved
+74,95579,850,110424,Personal,40,0.16,14,Divorced,Bachelor,Approved
+20,47727,753,100595,Education,0,0.23,1,Married,Bachelor,Approved
+54,121939,746,42487,Personal,36,0.3,6,Married,Master,Approved
+68,93762,850,125931,Personal,40,0.3,10,Married,High School,Rejected
+24,36576,701,45849,Auto,3,0.23,13,Single,High School,Rejected
+38,75718,803,81400,Business,19,0.16,1,Single,Bachelor,Approved
+26,59323,726,134120,Business,7,0.41,13,Divorced,Bachelor,Rejected
+56,106480,789,95930,Home,38,0.37,2,Single,Bachelor,Approved
+35,66557,797,54699,Personal,17,0.37,13,Single,Bachelor,Approved
+21,56045,634,95470,Education,3,0.62,14,Married,Bachelor,Rejected
+42,88018,620,149779,Auto,24,0.37,3,Single,Master,Rejected
+31,69413,738,137996,Business,9,0.3,7,Single,Bachelor,Rejected
+67,127824,836,100023,Home,40,0.33,2,Divorced,Master,Approved
+26,72809,722,34018,Education,4,0.36,5,Divorced,Bachelor,Rejected
+43,96638,724,26031,Personal,21,0.44,9,Married,Master,Approved
+70,129090,828,109985,Education,40,0.34,12,Divorced,Master,Approved
+19,20000,843,73237,Business,0,0.06,12,Married,High School,Rejected
+37,93416,680,113426,Auto,16,0.28,10,Married,Master,Rejected
+45,80764,761,21719,Personal,26,0.35,8,Single,High School,Approved
+64,135047,722,14718,Auto,40,0.55,12,Single,Master,Approved
+24,50704,770,5056,Education,3,0.23,8,Married,Bachelor,Approved
+61,86581,761,126743,Education,40,0.1,11,Divorced,High School,Approved
+25,43104,795,52820,Home,6,0.36,2,Married,Bachelor,Rejected
+64,125019,752,73683,Personal,40,0.48,1,Single,PhD,Approved
+52,74743,811,74073,Education,30,0.29,9,Single,High School,Approved
+31,46985,722,5721,Business,13,0.71,10,Married,Bachelor,Rejected
+34,58317,671,45194,Business,14,0.67,12,Single,Bachelor,Rejected
+53,107395,700,84882,Auto,31,0.34,4,Married,Master,Approved
+67,105672,782,146983,Business,40,0.38,9,Single,Bachelor,Rejected
+57,78806,752,78072,Education,39,0.56,11,Single,High School,Rejected
+21,22161,733,128919,Business,3,0.34,14,Married,High School,Rejected
+19,34154,845,90968,Personal,0,0.23,12,Married,Bachelor,Approved
+23,50291,646,112251,Auto,5,0.48,11,Single,Bachelor,Rejected
+71,141297,842,49537,Personal,40,0.42,7,Single,Master,Approved
+59,100603,850,114254,Education,40,0.23,12,Married,High School,Approved
+21,47141,718,77941,Education,0,0.39,6,Single,Bachelor,Rejected
+71,95538,825,22645,Business,40,0.33,10,Married,High School,Approved
+46,77658,732,117661,Home,25,0.29,13,Divorced,High School,Rejected
+35,71256,767,76473,Home,13,0.23,9,Single,Bachelor,Approved
+43,79417,782,55734,Education,25,0.37,10,Divorced,Bachelor,Approved
+61,96544,791,132705,Education,40,0.31,4,Single,Bachelor,Rejected
+51,108247,761,65914,Auto,33,0.39,14,Married,Master,Rejected
+27,68542,748,22882,Education,9,0.47,1,Single,Bachelor,Approved
+53,121796,668,95860,Education,33,0.38,5,Divorced,PhD,Approved
+31,63953,748,149051,Auto,10,0.39,13,Single,Master,Approved
+48,71265,850,105513,Personal,29,0.27,6,Single,Bachelor,Approved
+65,118789,720,123751,Personal,40,0.53,6,Divorced,Master,Rejected
+32,52743,718,49828,Auto,12,0.22,12,Married,Bachelor,Approved
+25,34634,785,143300,Auto,6,0.11,1,Married,High School,Approved
+31,77562,713,125354,Personal,12,0.19,7,Single,Bachelor,Rejected
+40,62461,719,79217,Personal,22,0.51,8,Married,High School,Rejected
+74,97495,781,111500,Personal,40,0.42,12,Single,Bachelor,Rejected
+57,100587,737,78803,Personal,35,0.55,5,Single,Bachelor,Approved
+38,77709,804,75908,Business,19,0.15,2,Married,High School,Approved
+33,49793,649,43918,Auto,14,0.7,2,Single,High School,Rejected
+62,96444,823,146992,Home,40,0.31,11,Divorced,Master,Rejected
+35,71000,766,32785,Business,13,0.09,5,Divorced,Bachelor,Approved
+64,93464,709,87757,Home,40,0.68,7,Married,High School,Rejected
+70,105901,850,104490,Home,40,0.15,7,Married,Bachelor,Approved
+41,77308,726,76997,Education,23,0.29,13,Married,Bachelor,Approved
+43,69927,784,114768,Auto,22,0.32,4,Single,Bachelor,Rejected
+42,120149,802,19052,Business,20,0.42,11,Married,PhD,Approved
+62,86616,765,54383,Auto,40,0.23,14,Single,Bachelor,Approved
+58,80910,775,136399,Personal,36,0.51,3,Single,High School,Rejected
+46,94176,718,93301,Auto,25,0.46,9,Married,Master,Approved
+32,85034,792,75775,Home,11,0.35,12,Married,Master,Approved
+62,102356,687,80614,Personal,40,0.55,14,Divorced,High School,Approved
+18,27732,724,143110,Auto,0,0.34,14,Single,High School,Rejected
+42,63429,694,13048,Auto,21,0.31,7,Married,High School,Approved
+24,53779,662,19954,Home,4,0.65,2,Single,Bachelor,Rejected
+26,64533,743,117010,Personal,6,0.39,1,Married,Bachelor,Rejected
+41,83827,827,18225,Home,19,0.2,11,Married,Bachelor,Approved
+18,54615,784,110622,Auto,0,0.22,2,Married,Master,Rejected
+61,109379,781,149603,Business,40,0.35,13,Single,Bachelor,Rejected
+25,38332,748,14530,Business,3,0.05,12,Single,High School,Approved
+41,58840,834,29791,Education,20,0.26,3,Single,High School,Approved
+28,63737,739,110806,Business,10,0.33,5,Married,Bachelor,Rejected
+68,90201,824,137721,Personal,40,0.32,14,Divorced,High School,Rejected
+34,67578,793,149544,Education,14,0.16,3,Single,Bachelor,Approved
+25,53939,850,95721,Personal,5,0.28,10,Married,Master,Approved
+52,67320,691,32134,Business,31,0.53,9,Divorced,High School,Approved
+52,98177,698,148516,Business,30,0.5,10,Married,Bachelor,Rejected
+50,74894,687,134326,Auto,28,0.36,4,Married,Bachelor,Rejected
+22,52701,736,43217,Personal,2,0.34,7,Married,Bachelor,Rejected
+59,89185,850,136067,Home,40,0.33,4,Single,High School,Rejected
+56,106306,774,41189,Auto,34,0.39,3,Single,Bachelor,Approved
+58,91988,788,123903,Personal,37,0.37,10,Single,High School,Approved
+45,89967,796,32284,Education,23,0.4,1,Divorced,Master,Approved
+24,32267,716,29698,Personal,3,0.43,14,Divorced,High School,Rejected
+26,34144,848,24637,Education,6,0.17,12,Married,Bachelor,Approved
+25,48196,813,65405,Education,3,0.3,9,Single,Bachelor,Approved
+29,74298,699,66305,Business,8,0.38,13,Married,PhD,Approved
+51,74312,743,38556,Home,31,0.21,11,Single,High School,Approved
+50,70120,834,87176,Personal,31,0.25,1,Single,High School,Approved
+65,81233,818,125644,Home,40,0.32,11,Married,High School,Rejected
+72,101877,758,102012,Education,40,0.32,13,Divorced,High School,Rejected
+40,48737,711,8654,Business,21,0.38,1,Divorced,High School,Approved
+41,69869,760,45428,Home,23,0.22,1,Married,Bachelor,Approved
+54,71017,739,134814,Auto,32,0.5,14,Single,High School,Rejected
+52,71688,830,100379,Education,31,0.32,5,Single,High School,Rejected
+61,111232,832,70355,Auto,40,0.37,7,Single,Master,Approved
+57,84908,836,51257,Home,39,0.29,7,Married,High School,Approved
+39,61521,728,118435,Home,19,0.39,10,Married,High School,Rejected
+44,71198,796,110866,Home,23,0.6,1,Single,High School,Rejected
+52,130713,791,25311,Personal,33,0.29,6,Married,PhD,Approved
+18,20000,727,117695,Education,0,0.27,9,Single,High School,Rejected
+52,114801,742,59478,Education,34,0.23,6,Single,Master,Approved
+54,101918,761,13738,Education,35,0.34,4,Married,Bachelor,Approved
+64,83376,816,78424,Personal,40,0.34,10,Single,High School,Approved
+31,109676,659,67232,Home,12,0.36,9,Married,PhD,Approved
+20,40876,656,113400,Home,0,0.42,13,Divorced,High School,Rejected
+18,28169,683,10474,Auto,0,0.4,3,Married,High School,Approved
+22,55540,690,64026,Personal,1,0.35,13,Single,Master,Rejected
+43,99014,628,71024,Business,25,0.64,10,Single,Bachelor,Rejected
+72,104809,828,55974,Personal,40,0.45,4,Married,Bachelor,Approved
+31,44350,707,10622,Auto,9,0.19,4,Single,High School,Approved
+56,101224,850,102366,Auto,37,0.12,4,Single,Bachelor,Approved
+44,104031,818,44214,Auto,24,0.25,6,Married,Bachelor,Approved
+26,33834,702,98184,Home,4,0.37,13,Married,High School,Rejected
+32,44763,766,103233,Business,10,0.23,11,Married,High School,Approved
+32,38189,769,26865,Auto,11,0.26,11,Single,High School,Approved
+43,63605,790,48026,Education,25,0.35,7,Married,High School,Approved
+59,109686,850,94037,Home,40,0.3,14,Single,Master,Rejected
+30,54892,765,148488,Business,12,0.05,9,Single,Bachelor,Approved
+68,116900,702,30775,Education,40,0.51,14,Married,PhD,Approved
+49,83815,687,24374,Business,30,0.48,11,Married,High School,Approved
+56,103567,836,63451,Business,38,0.16,3,Divorced,Bachelor,Approved
+66,92391,771,87141,Education,40,0.36,8,Married,High School,Approved
+69,89475,850,20684,Personal,40,0.18,8,Divorced,High School,Approved
+49,77217,763,29002,Business,31,0.26,1,Divorced,High School,Approved
+21,49191,660,96551,Personal,2,0.42,5,Married,High School,Rejected
+47,77812,690,135704,Business,27,0.47,13,Married,Bachelor,Rejected
+54,125783,746,11309,Education,32,0.47,10,Married,PhD,Approved
+40,76229,792,89675,Business,19,0.39,5,Divorced,Bachelor,Rejected
+56,96919,719,73326,Auto,37,0.54,12,Married,High School,Approved
+62,94386,787,12826,Auto,40,0.26,8,Single,High School,Approved
+32,51389,708,148206,Business,11,0.29,8,Married,High School,Rejected
+60,90917,850,126840,Education,39,0.05,12,Single,Bachelor,Approved
+46,77410,680,140126,Education,27,0.34,2,Married,Bachelor,Rejected
+53,100831,739,110985,Home,35,0.44,3,Single,Master,Rejected
+30,21741,764,20569,Education,11,0.39,2,Married,High School,Rejected
+49,92471,786,11508,Personal,29,0.26,1,Divorced,Bachelor,Approved
+24,46883,664,94059,Business,3,0.48,2,Single,Bachelor,Rejected
+68,108990,827,102475,Auto,40,0.34,10,Single,Bachelor,Approved
+39,76854,664,135447,Education,21,0.46,6,Single,Bachelor,Rejected
+45,86404,653,135819,Auto,26,0.42,12,Married,Bachelor,Rejected
+19,58381,677,115648,Home,0,0.56,1,Single,Bachelor,Rejected
+59,90072,718,29520,Business,40,0.4,6,Single,High School,Approved
+62,111689,767,35932,Education,40,0.44,1,Single,Bachelor,Approved
+74,86977,803,24734,Auto,40,0.34,2,Married,High School,Approved
+70,113247,835,74363,Education,40,0.27,8,Single,Bachelor,Approved
+23,40103,696,55555,Home,5,0.42,14,Married,Bachelor,Rejected
+45,61124,722,21257,Auto,23,0.58,6,Single,Bachelor,Rejected
+45,121566,755,98550,Auto,27,0.26,9,Married,Master,Approved
+61,136863,836,58219,Business,39,0.31,1,Single,Master,Approved
+61,100544,724,138931,Business,40,0.35,5,Married,Master,Rejected
+37,68638,778,44840,Auto,16,0.45,7,Single,Bachelor,Approved
+47,86999,850,102392,Business,27,0.4,9,Married,Bachelor,Approved
+28,65729,701,64327,Auto,9,0.49,14,Divorced,Bachelor,Approved
+72,137392,792,118827,Personal,40,0.65,11,Divorced,Master,Rejected
+45,68885,850,39819,Education,23,0.25,9,Married,Bachelor,Approved
+42,94923,714,90621,Personal,20,0.44,4,Married,PhD,Approved
+56,116988,766,106272,Personal,38,0.4,13,Married,Master,Approved
+50,83364,728,46704,Education,32,0.35,4,Married,Bachelor,Approved
+18,20000,657,65379,Auto,0,0.44,4,Single,High School,Rejected
+74,87727,829,85987,Auto,40,0.31,3,Married,High School,Approved
+44,101575,664,116561,Business,22,0.4,8,Married,Master,Rejected
+74,89795,850,10274,Home,40,0.15,5,Single,High School,Approved
+69,126240,831,101462,Auto,40,0.27,7,Single,Master,Approved
+30,66310,726,24046,Education,11,0.51,10,Single,Bachelor,Approved
+58,88730,727,79210,Home,36,0.5,6,Married,Bachelor,Approved
+20,63680,746,123724,Education,2,0.39,14,Single,Master,Rejected
+56,86748,811,147575,Education,38,0.28,9,Single,Bachelor,Approved
+23,44380,717,53392,Education,3,0.47,14,Single,Bachelor,Rejected
+25,51504,721,66472,Home,4,0.54,3,Married,Bachelor,Rejected
+44,65988,716,75904,Personal,24,0.29,6,Married,High School,Rejected
+26,39590,764,94063,Education,5,0.13,3,Single,Bachelor,Approved
+54,71610,850,50335,Business,35,0.42,2,Single,High School,Approved
+50,109409,739,27487,Auto,31,0.49,3,Single,Master,Approved
+68,128273,684,41593,Auto,40,0.44,2,Divorced,Master,Approved
+59,84930,627,80927,Auto,38,0.58,2,Married,High School,Rejected
+61,100929,712,14874,Home,39,0.59,10,Married,Bachelor,Rejected
+41,88812,744,59822,Business,23,0.3,11,Single,Bachelor,Approved
+32,38779,693,58948,Business,11,0.38,7,Married,High School,Rejected
+71,152270,850,8608,Business,40,0.28,10,Married,PhD,Approved
+49,63047,796,100987,Business,31,0.2,3,Single,High School,Approved
+49,86984,850,110182,Business,31,0.21,8,Single,High School,Approved
+41,81891,736,32546,Personal,21,0.46,13,Single,Bachelor,Approved
+58,129101,753,120999,Business,40,0.4,2,Married,Bachelor,Approved
+69,93788,701,105804,Business,40,0.48,11,Divorced,Bachelor,Rejected
+66,81659,718,67496,Home,40,0.73,11,Married,Bachelor,Rejected
+66,117494,654,60186,Home,40,0.42,7,Married,Bachelor,Approved
+69,90286,850,141302,Business,40,0.23,3,Single,Bachelor,Approved
+29,51157,699,30720,Personal,10,0.51,9,Married,High School,Approved
+56,94321,846,48023,Business,35,0.23,7,Married,High School,Approved
+19,33797,645,72082,Business,0,0.61,9,Single,High School,Rejected
+20,32321,751,20050,Business,0,0.05,2,Divorced,High School,Approved
+66,109009,838,118353,Education,40,0.27,6,Single,Bachelor,Approved
+54,86374,790,57164,Personal,32,0.44,5,Single,High School,Approved
+66,95870,717,133470,Auto,40,0.53,14,Married,High School,Rejected
+73,77834,850,35134,Business,40,0.25,2,Married,High School,Approved
+34,97749,799,19284,Auto,13,0.22,4,Married,Master,Approved
+66,120511,809,65526,Personal,40,0.37,4,Single,Master,Rejected
+19,50183,594,139495,Business,0,0.64,8,Married,Bachelor,Rejected
+19,67109,850,33577,Auto,0,0.12,13,Married,Master,Approved
+45,95559,791,126867,Auto,26,0.3,7,Married,Bachelor,Rejected
+71,115521,831,123247,Personal,40,0.39,13,Divorced,Bachelor,Rejected
+40,62817,771,63900,Business,21,0.23,5,Married,High School,Approved
+54,99674,850,89606,Education,36,0.23,9,Single,Bachelor,Approved
+49,92586,757,11066,Personal,29,0.31,1,Married,Bachelor,Approved
+50,102500,712,109342,Education,31,0.39,4,Single,Bachelor,Rejected
+18,33873,819,13583,Business,0,0.32,5,Single,Bachelor,Approved
+36,73940,564,43057,Auto,15,0.57,8,Married,Bachelor,Rejected
+19,36136,846,31564,Personal,0,0.44,3,Divorced,Bachelor,Rejected
+70,138512,817,66429,Personal,40,0.41,14,Single,Master,Approved
+61,92173,724,103600,Personal,39,0.5,12,Married,High School,Rejected
+43,72339,757,93393,Home,21,0.41,5,Single,Bachelor,Rejected
+49,89787,823,120774,Business,27,0.28,3,Married,Bachelor,Approved
+23,52592,724,33941,Home,5,0.31,13,Married,Bachelor,Approved
+49,88398,850,42962,Personal,30,0.18,7,Married,Bachelor,Approved
+72,71907,786,126410,Personal,40,0.65,10,Single,High School,Rejected
+21,34758,820,63420,Education,0,0.49,3,Married,Bachelor,Rejected
+72,88595,831,87415,Home,40,0.05,7,Divorced,High School,Approved
+28,38616,687,87013,Auto,7,0.55,14,Married,Bachelor,Rejected
+73,99128,801,124012,Business,40,0.13,2,Married,Bachelor,Approved
+34,61001,667,142465,Auto,14,0.43,7,Divorced,Bachelor,Rejected
+55,71705,850,125198,Auto,33,0.05,9,Single,High School,Approved
+41,82723,760,38488,Business,20,0.29,12,Married,Bachelor,Approved
+22,24198,686,148626,Personal,2,0.55,5,Divorced,High School,Rejected
+69,120884,730,107330,Education,40,0.56,12,Single,Master,Rejected
+51,101468,797,10057,Personal,30,0.4,6,Married,Master,Approved
+23,76812,710,88026,Personal,2,0.47,13,Single,PhD,Rejected
+39,92564,850,10305,Home,21,0.14,10,Married,Bachelor,Approved
+28,61796,754,66276,Auto,10,0.43,11,Married,Bachelor,Rejected
+65,93730,695,142746,Auto,40,0.48,3,Single,High School,Rejected
+33,40345,621,95534,Auto,12,0.74,13,Married,High School,Rejected
+50,97761,794,116045,Education,31,0.26,10,Single,Bachelor,Rejected
+26,62839,755,92181,Education,8,0.35,5,Single,Bachelor,Rejected
+23,66376,779,115907,Education,1,0.36,13,Single,Master,Rejected
+33,35908,727,18987,Business,12,0.45,5,Divorced,High School,Approved
+46,91647,753,54915,Education,25,0.48,3,Single,Master,Approved
+20,60835,620,18543,Home,1,0.51,8,Divorced,Bachelor,Approved
+37,60622,683,32944,Home,15,0.5,6,Married,Bachelor,Approved
+53,93699,745,145216,Personal,32,0.13,13,Single,High School,Rejected
+36,51536,850,114418,Personal,18,0.05,3,Married,High School,Approved
+43,82482,824,43459,Personal,24,0.27,1,Married,Bachelor,Approved
+20,43128,660,35741,Personal,0,0.34,10,Married,Bachelor,Rejected
+36,47051,784,131077,Home,17,0.26,1,Single,High School,Approved
+37,65195,766,79627,Personal,19,0.28,13,Single,Bachelor,Approved
+49,93457,850,118372,Home,27,0.3,11,Single,Master,Rejected
+24,68980,660,74741,Education,5,0.44,10,Single,Master,Rejected
+69,128904,850,74177,Education,40,0.19,12,Single,Master,Approved
+58,90831,842,8543,Business,40,0.34,2,Single,High School,Approved
+50,77666,763,141663,Personal,32,0.34,10,Single,High School,Rejected
+57,115603,770,61395,Education,39,0.43,5,Single,Bachelor,Approved
+56,99413,780,34055,Education,36,0.52,7,Single,Bachelor,Approved
+35,47071,616,11116,Auto,15,0.6,1,Single,High School,Rejected
+57,74022,792,60485,Auto,36,0.24,1,Divorced,High School,Approved
+18,57704,821,138479,Home,0,0.05,4,Single,Bachelor,Approved
+28,37206,850,71421,Business,7,0.31,13,Married,High School,Rejected
+45,63214,813,40411,Auto,26,0.11,10,Single,High School,Approved
+74,83349,669,129115,Business,40,0.76,6,Divorced,High School,Rejected
+42,75141,850,104772,Education,22,0.22,9,Single,High School,Approved
+67,99270,803,95121,Home,40,0.43,1,Divorced,Bachelor,Approved
+40,81904,822,128671,Business,18,0.49,11,Married,Bachelor,Rejected
+48,83195,806,116670,Auto,27,0.4,10,Single,Bachelor,Rejected
+47,59916,664,109627,Education,28,0.66,5,Divorced,High School,Approved
+59,83675,778,17738,Personal,38,0.32,9,Married,High School,Approved
+52,95672,769,119183,Education,34,0.22,8,Single,Bachelor,Approved
+24,51348,705,20772,Auto,5,0.22,7,Married,Bachelor,Approved
+33,64600,727,70270,Auto,14,0.46,13,Divorced,Bachelor,Rejected
+43,58280,799,59979,Personal,21,0.32,10,Married,High School,Rejected
+65,112149,850,118585,Education,40,0.22,2,Single,Master,Approved
+74,90107,779,142300,Business,40,0.42,9,Married,High School,Rejected
+69,110409,850,29318,Business,40,0.46,12,Married,Bachelor,Rejected
+66,90374,713,63458,Education,40,0.39,13,Divorced,Bachelor,Approved
+19,59490,609,149867,Business,1,0.48,8,Married,Bachelor,Rejected
+18,20000,677,110856,Education,0,0.36,13,Single,High School,Rejected
+65,105752,819,90184,Education,40,0.26,11,Divorced,Bachelor,Approved
+29,64660,647,133789,Auto,10,0.47,10,Single,Bachelor,Rejected
+22,26966,835,26747,Home,2,0.22,10,Single,High School,Approved
+54,61241,789,16282,Auto,35,0.18,9,Married,High School,Approved
+49,72532,670,68073,Business,29,0.52,9,Married,High School,Approved
+72,121696,850,57900,Home,40,0.3,9,Single,Master,Approved
+26,26012,669,25929,Education,5,0.6,3,Married,High School,Rejected
+58,125198,782,40500,Business,39,0.48,7,Single,PhD,Approved
+52,104127,789,6872,Personal,33,0.29,12,Married,Bachelor,Approved
+36,103176,740,72505,Business,18,0.42,1,Married,PhD,Approved
+65,104913,607,30460,Home,40,0.73,9,Single,Master,Rejected
+33,71998,703,17155,Home,15,0.46,14,Single,Bachelor,Approved
+20,20694,646,147942,Education,0,0.44,9,Single,High School,Rejected
+37,50752,850,120006,Personal,19,0.26,3,Divorced,High School,Approved
+41,61976,738,98928,Education,20,0.63,5,Single,High School,Rejected
+71,106044,709,139789,Personal,40,0.55,12,Single,Bachelor,Rejected
+73,85973,820,131075,Personal,40,0.26,13,Married,High School,Approved
+50,68457,677,137446,Education,29,0.63,8,Married,High School,Rejected
+41,73992,850,120138,Business,21,0.37,6,Single,Bachelor,Rejected
+69,112194,850,149499,Auto,40,0.22,10,Married,Master,Approved
+28,55890,742,69442,Personal,10,0.26,10,Single,High School,Rejected
+66,74308,761,105671,Home,40,0.48,9,Divorced,High School,Rejected
+25,32091,693,21631,Education,3,0.22,14,Single,High School,Rejected
+53,91905,820,24887,Business,31,0.18,13,Single,Master,Approved
+55,108360,743,30259,Personal,36,0.28,3,Married,Bachelor,Approved
+57,80076,701,102932,Business,35,0.31,12,Single,High School,Rejected
+37,46433,850,62987,Education,18,0.25,7,Married,High School,Approved
+52,83350,792,24144,Home,31,0.28,13,Single,High School,Approved
+65,67080,712,49456,Personal,40,0.49,6,Single,High School,Approved
+42,94308,661,125250,Personal,21,0.39,14,Married,Master,Rejected
+52,101512,785,82735,Business,30,0.27,5,Married,Bachelor,Approved
+42,78295,769,16569,Education,21,0.29,4,Married,Bachelor,Rejected
+46,92434,808,130294,Auto,25,0.33,5,Single,Master,Rejected
+35,38578,703,88731,Personal,14,0.34,13,Single,High School,Rejected
+63,115825,765,101132,Home,40,0.34,4,Single,Bachelor,Approved
+35,90274,661,105497,Personal,14,0.48,3,Single,Master,Rejected
+19,23546,703,32003,Personal,0,0.38,7,Married,High School,Rejected
+71,98813,691,119432,Auto,40,0.38,6,Divorced,Bachelor,Rejected
+52,88367,668,107486,Auto,31,0.56,4,Single,High School,Rejected
+33,51816,691,139940,Education,11,0.63,9,Single,High School,Rejected
+58,69134,776,46274,Personal,38,0.17,1,Single,High School,Approved
+53,94042,850,43718,Personal,34,0.11,1,Single,Bachelor,Approved
+50,86174,829,46682,Business,29,0.3,9,Single,Bachelor,Approved
+21,63976,739,35653,Business,1,0.47,7,Divorced,Master,Approved
+50,90060,752,147609,Home,30,0.41,2,Married,Bachelor,Rejected
+31,68372,689,35401,Home,9,0.51,11,Divorced,Master,Approved
+38,88783,785,86690,Business,18,0.29,10,Divorced,Master,Approved
+65,85522,850,105613,Home,40,0.06,5,Married,High School,Approved
+37,106141,850,142702,Personal,18,0.14,13,Married,Bachelor,Approved
+73,91227,695,49293,Auto,40,0.43,4,Single,High School,Approved
+25,53853,641,18416,Personal,6,0.51,1,Married,Bachelor,Approved
+24,84428,764,121711,Business,4,0.06,12,Divorced,Master,Approved
+20,20000,697,120037,Education,1,0.56,13,Single,High School,Rejected
+34,61900,691,95935,Education,12,0.42,9,Divorced,Bachelor,Rejected
+50,83503,762,144701,Business,32,0.34,6,Single,Bachelor,Rejected
+65,111350,850,13360,Personal,40,0.26,11,Divorced,Bachelor,Approved
+29,41556,722,17011,Home,11,0.59,13,Divorced,High School,Rejected
+68,95800,825,45721,Home,40,0.48,14,Married,High School,Approved
+39,60580,695,41069,Education,17,0.42,12,Married,High School,Approved
+72,97803,697,58270,Business,40,0.24,6,Married,High School,Approved
+39,62245,661,16227,Business,18,0.59,4,Married,High School,Rejected
+63,102759,716,44587,Auto,40,0.35,13,Divorced,Bachelor,Approved
+47,55023,654,66720,Education,26,0.39,2,Married,High School,Rejected
+55,125590,830,73305,Business,37,0.36,8,Married,Master,Approved
+55,110090,767,81028,Auto,34,0.24,8,Married,Bachelor,Approved
+62,95621,733,58651,Home,40,0.4,3,Married,Bachelor,Approved
+68,112358,747,56332,Education,40,0.45,7,Married,Bachelor,Approved
+71,93296,850,73201,Education,40,0.28,14,Married,Bachelor,Approved
+25,68034,713,48552,Business,4,0.39,7,Married,Master,Approved
+44,68594,805,128938,Business,23,0.36,14,Single,High School,Rejected
+44,58737,704,122230,Personal,22,0.49,5,Single,High School,Rejected
+51,90950,705,98758,Home,30,0.31,5,Married,Bachelor,Rejected
+38,63982,682,62300,Home,17,0.38,8,Single,High School,Approved
+47,67905,745,31951,Auto,26,0.42,4,Single,High School,Approved
+50,69748,789,25264,Auto,31,0.3,1,Married,High School,Approved
+45,52262,826,24121,Personal,23,0.23,1,Single,High School,Approved
+64,101092,847,89351,Home,40,0.25,9,Single,Bachelor,Rejected
+50,60252,796,55539,Auto,28,0.41,4,Married,High School,Approved
+22,59226,700,34218,Home,2,0.31,1,Divorced,Master,Approved
+65,100347,850,49867,Home,40,0.31,13,Married,Bachelor,Approved
+36,75541,817,6316,Auto,15,0.44,2,Divorced,Bachelor,Approved
+21,45734,654,42972,Business,0,0.5,10,Married,Bachelor,Rejected
+52,130472,679,91924,Business,30,0.53,7,Single,Master,Approved
+66,69864,732,97700,Auto,40,0.26,2,Married,High School,Rejected
+34,85633,713,134079,Personal,15,0.49,1,Married,Master,Rejected
+61,100484,715,109082,Education,40,0.66,10,Single,Bachelor,Rejected
+45,69939,727,144151,Home,23,0.37,14,Single,Bachelor,Rejected
+47,82202,782,65887,Education,25,0.34,9,Married,Bachelor,Approved
+46,69453,707,40862,Auto,27,0.31,14,Single,High School,Approved
+63,115778,850,132677,Home,40,0.19,5,Married,Bachelor,Approved
+70,105912,735,78118,Education,40,0.48,14,Single,Bachelor,Approved
+23,30571,747,79548,Business,5,0.34,13,Married,High School,Rejected
+52,93342,790,109319,Personal,30,0.33,4,Married,Bachelor,Rejected
+58,81703,653,85066,Education,36,0.45,4,Single,High School,Rejected
+54,71245,782,50221,Personal,35,0.47,14,Single,High School,Approved
+41,60514,744,92189,Business,22,0.26,11,Married,High School,Approved
+46,68309,800,110812,Education,24,0.26,13,Married,High School,Approved
+66,105722,751,97326,Auto,40,0.26,1,Divorced,Bachelor,Approved
+63,93303,670,144972,Home,40,0.67,3,Married,High School,Rejected
+70,129735,751,18891,Business,40,0.57,13,Married,PhD,Rejected
+48,87176,681,113640,Personal,26,0.46,1,Single,Bachelor,Rejected
+52,76201,738,77083,Personal,30,0.29,5,Single,High School,Rejected
+50,89782,787,42964,Business,29,0.31,5,Single,Bachelor,Rejected
+69,120323,773,49739,Auto,40,0.4,9,Married,Master,Approved
+38,93760,670,121871,Auto,18,0.68,13,Single,Bachelor,Rejected
+49,87601,737,90799,Personal,31,0.39,8,Single,High School,Rejected
+40,91453,764,44459,Business,19,0.43,5,Married,Master,Approved
+50,81997,831,12045,Business,30,0.05,5,Married,Bachelor,Approved
+20,27076,743,48255,Home,0,0.39,7,Single,High School,Rejected
+35,67157,764,56965,Personal,14,0.14,12,Single,High School,Approved
+42,69370,749,6237,Auto,20,0.28,2,Married,Bachelor,Approved
+59,88342,817,135811,Education,40,0.36,13,Married,High School,Rejected
+48,98285,754,57195,Auto,27,0.3,7,Married,Master,Approved
+71,93678,771,122775,Auto,40,0.25,1,Single,High School,Approved
+20,55633,839,41326,Education,0,0.26,14,Married,Master,Rejected
+57,100768,788,141365,Personal,36,0.32,5,Divorced,Bachelor,Rejected
+63,85856,824,30274,Home,40,0.31,12,Single,High School,Approved
+41,74645,642,98920,Auto,21,0.35,12,Divorced,High School,Rejected
+67,98137,850,101529,Auto,40,0.34,6,Single,Bachelor,Rejected
+49,95276,843,83847,Personal,27,0.54,13,Single,Bachelor,Approved
+64,99148,850,61718,Personal,40,0.05,11,Married,Bachelor,Approved
+39,46962,811,73718,Business,17,0.39,14,Single,High School,Rejected
+40,54492,731,54615,Personal,21,0.36,10,Single,High School,Rejected
+19,20000,742,123548,Personal,0,0.33,1,Married,High School,Rejected
+44,86885,817,76296,Auto,25,0.24,9,Married,Bachelor,Approved
+59,73860,755,77796,Home,37,0.33,9,Divorced,High School,Rejected
+19,42920,790,137987,Auto,1,0.1,1,Married,Bachelor,Approved
+43,90116,700,79651,Personal,25,0.38,4,Single,Bachelor,Approved
+34,91293,708,12076,Business,16,0.41,8,Married,Master,Approved
+57,74183,850,85350,Home,39,0.24,2,Married,High School,Approved
+50,81105,594,58918,Business,32,0.64,13,Married,High School,Rejected
+26,68404,787,140865,Education,8,0.33,13,Married,Bachelor,Rejected
+60,98631,704,55528,Business,40,0.36,11,Divorced,Bachelor,Approved
+71,95135,744,122503,Business,40,0.55,13,Married,High School,Rejected
+65,108567,703,71798,Personal,40,0.67,8,Married,Master,Rejected
+56,120856,850,14319,Personal,38,0.18,10,Single,Master,Approved
+46,71812,780,149266,Personal,27,0.26,13,Divorced,High School,Approved
+59,96611,735,31998,Personal,40,0.33,12,Single,High School,Approved
+72,110991,845,8468,Personal,40,0.24,14,Single,Bachelor,Approved
+43,64465,830,117178,Business,22,0.48,13,Single,Bachelor,Rejected
+52,76365,810,148723,Education,30,0.22,9,Married,High School,Approved
+67,119529,694,9409,Personal,40,0.54,9,Married,Bachelor,Approved
+42,56146,706,71083,Education,22,0.44,14,Married,Bachelor,Rejected
+41,72669,711,90443,Education,22,0.52,1,Divorced,High School,Rejected
+30,76017,764,28426,Auto,10,0.22,9,Divorced,Bachelor,Approved
+24,54153,727,113025,Auto,6,0.29,4,Single,Master,Rejected
+74,83293,831,59757,Home,40,0.48,12,Single,High School,Approved
+53,83177,768,21490,Auto,32,0.46,12,Married,High School,Approved
+62,96138,794,57136,Personal,40,0.31,8,Divorced,Bachelor,Approved
+37,99145,751,27236,Education,17,0.33,13,Married,Master,Approved
+18,85588,750,149336,Home,0,0.28,14,Married,PhD,Rejected
+25,37150,768,72147,Auto,4,0.32,9,Single,Bachelor,Rejected
+63,97569,850,12928,Business,40,0.21,3,Married,Bachelor,Approved
+33,69198,774,61369,Home,11,0.18,6,Married,Bachelor,Approved
+31,65806,646,71403,Personal,9,0.5,3,Married,Bachelor,Rejected
+29,68684,719,102225,Education,11,0.32,1,Single,High School,Rejected
+68,81201,701,50213,Personal,40,0.52,10,Divorced,High School,Approved
+40,77592,651,103631,Personal,22,0.44,6,Married,High School,Rejected
+32,50860,799,8816,Business,10,0.4,5,Single,Bachelor,Approved
+45,72503,837,103162,Business,25,0.24,3,Married,High School,Approved
+51,115423,711,52838,Education,31,0.17,14,Married,Master,Approved
+19,20000,754,147645,Auto,1,0.28,14,Married,High School,Rejected
+49,79612,680,70364,Personal,27,0.58,4,Married,High School,Rejected
+40,87345,690,149229,Auto,19,0.48,2,Married,Bachelor,Rejected
+39,81458,653,14322,Education,17,0.27,12,Divorced,Bachelor,Approved
+68,110533,815,124024,Personal,40,0.28,10,Single,High School,Approved
+42,71151,803,7482,Auto,21,0.21,10,Single,High School,Approved
+39,98127,764,40867,Personal,19,0.12,13,Single,PhD,Approved
+39,69390,830,84211,Business,18,0.37,14,Married,High School,Rejected
+66,84060,755,100956,Business,40,0.61,4,Married,High School,Rejected
+69,120824,666,113052,Home,40,0.61,4,Divorced,Master,Rejected
+59,95317,807,84386,Education,38,0.44,3,Married,High School,Approved
+23,53980,733,11732,Auto,3,0.26,6,Married,Bachelor,Approved
+32,61511,850,39422,Personal,12,0.13,1,Divorced,High School,Approved
+71,114886,682,81964,Home,40,0.51,9,Single,High School,Approved
+60,75626,773,61284,Education,38,0.42,11,Married,High School,Approved
+54,74716,729,133575,Education,32,0.3,10,Married,High School,Rejected
+50,79663,749,16311,Education,31,0.28,3,Married,High School,Approved
+25,31368,608,134507,Auto,4,0.44,3,Married,High School,Rejected
+70,104242,775,81000,Business,40,0.23,12,Married,Bachelor,Approved
+61,97758,713,133259,Home,40,0.39,3,Single,High School,Rejected
+61,111429,773,50311,Auto,40,0.17,7,Married,Bachelor,Approved
+22,66973,637,15300,Personal,3,0.68,8,Married,Master,Rejected
+56,101977,721,70375,Auto,37,0.25,2,Married,Bachelor,Approved
+21,29261,712,39563,Personal,1,0.45,1,Married,High School,Rejected
+23,81545,833,126227,Personal,5,0.17,5,Divorced,Master,Approved
+62,106633,750,84244,Education,40,0.33,8,Married,High School,Approved
+49,82188,724,133161,Auto,28,0.48,14,Married,High School,Rejected
+69,93506,732,130307,Business,40,0.52,3,Married,Bachelor,Rejected
+47,85877,710,119687,Personal,29,0.46,6,Married,Bachelor,Rejected
+64,106996,669,21328,Education,40,0.33,3,Divorced,Bachelor,Approved
+52,70093,746,142286,Business,33,0.25,6,Married,High School,Rejected
+72,105790,850,40377,Auto,40,0.19,12,Married,Bachelor,Approved
+57,87222,729,95257,Business,38,0.58,4,Single,High School,Rejected
+69,130841,781,23610,Auto,40,0.37,14,Married,Master,Approved
+33,43017,630,60082,Personal,12,0.39,11,Single,High School,Rejected
+30,85133,717,28226,Home,9,0.52,7,Married,Master,Approved
+67,95426,723,32677,Home,40,0.44,11,Single,Bachelor,Approved
+59,111821,727,146370,Personal,40,0.33,10,Single,Master,Rejected
+47,78706,675,40848,Business,25,0.46,1,Single,Bachelor,Approved
+36,66478,802,104291,Auto,14,0.26,1,Single,Bachelor,Approved
+34,25334,812,129227,Home,13,0.12,5,Single,High School,Approved
+73,94592,784,68654,Auto,40,0.56,9,Divorced,High School,Rejected
+36,71093,829,22744,Personal,16,0.27,5,Married,High School,Approved
+45,105512,739,110850,Business,26,0.3,4,Married,Master,Rejected
+72,117893,810,53001,Auto,40,0.32,8,Married,Master,Approved
+43,70154,771,64633,Business,24,0.26,13,Single,Bachelor,Approved
+54,65869,658,53917,Home,36,0.52,5,Divorced,High School,Approved
+43,51069,681,84804,Auto,25,0.41,1,Single,High School,Rejected
+70,103691,805,5907,Education,40,0.3,7,Single,Bachelor,Approved
+40,94569,809,96295,Home,19,0.16,11,Married,Bachelor,Approved
+26,28329,717,149836,Business,7,0.4,4,Single,Bachelor,Rejected
+29,98502,825,144462,Personal,11,0.05,10,Married,PhD,Approved
+70,83222,748,35172,Education,40,0.38,5,Single,High School,Approved
+18,41645,767,128936,Auto,0,0.55,13,Married,Bachelor,Rejected
+18,35623,730,108512,Home,0,0.36,6,Married,Bachelor,Rejected
+64,76325,707,53196,Auto,40,0.53,13,Single,High School,Approved
+51,76256,846,73901,Auto,30,0.17,7,Married,High School,Approved
+49,76128,634,142023,Education,29,0.66,11,Single,High School,Rejected
+71,126683,753,20175,Education,40,0.51,2,Married,Master,Approved
+65,88147,791,147099,Education,40,0.42,14,Single,Bachelor,Rejected
+42,86739,812,112809,Education,22,0.26,1,Married,Bachelor,Approved
+57,125918,752,80630,Personal,38,0.24,12,Married,Master,Approved
+62,109244,850,93617,Business,40,0.34,3,Single,Bachelor,Approved
+70,85790,804,148239,Education,40,0.53,10,Divorced,High School,Rejected
+18,48084,850,132310,Home,0,0.15,12,Divorced,Bachelor,Approved
+33,64395,731,71556,Auto,14,0.35,1,Married,Bachelor,Approved
+56,105685,758,107148,Education,34,0.46,4,Married,Bachelor,Rejected
+22,41334,688,15485,Home,0,0.49,6,Single,Bachelor,Approved
+39,71580,693,108746,Personal,17,0.46,5,Married,Bachelor,Rejected
+46,50116,850,111255,Home,25,0.14,13,Single,High School,Rejected
+72,123052,707,13802,Home,40,0.52,11,Single,Master,Approved
+20,22504,756,38314,Personal,0,0.36,4,Divorced,High School,Rejected
+29,51624,762,24565,Personal,11,0.19,7,Married,High School,Approved
+43,70884,780,98153,Auto,22,0.35,13,Married,High School,Rejected
+33,40400,850,96145,Education,11,0.06,11,Single,High School,Approved
+68,90311,764,49233,Home,40,0.44,11,Married,High School,Approved
+54,114244,820,53384,Business,35,0.33,6,Single,Master,Approved
+39,93680,785,83253,Business,20,0.16,3,Single,Master,Approved
+74,97898,759,42669,Auto,40,0.31,9,Single,High School,Approved
+46,72590,850,147914,Business,24,0.24,5,Married,High School,Approved
+31,41201,807,69099,Auto,10,0.25,13,Married,High School,Approved
+45,83483,845,109012,Education,25,0.05,10,Single,High School,Approved
+22,42019,838,138154,Auto,3,0.1,1,Married,High School,Approved
+64,134051,750,129878,Personal,40,0.32,13,Single,Master,Rejected
+66,93467,834,14795,Personal,40,0.29,6,Married,High School,Approved
+47,86558,732,50309,Personal,25,0.5,5,Divorced,Bachelor,Approved
+63,88828,850,25180,Personal,40,0.26,10,Married,High School,Approved
+69,115562,850,51335,Personal,40,0.27,8,Divorced,Master,Approved
+22,54753,822,97887,Personal,0,0.28,4,Divorced,Bachelor,Approved
+29,79145,677,127352,Personal,11,0.32,12,Married,Master,Rejected
+33,63184,640,107267,Personal,13,0.36,1,Married,Bachelor,Approved
+43,54273,790,82402,Personal,23,0.29,11,Divorced,High School,Approved
+43,77051,742,115551,Education,21,0.44,2,Single,High School,Rejected
+65,106126,632,106010,Personal,40,0.7,8,Single,Bachelor,Rejected
+38,47732,741,85808,Auto,20,0.23,10,Divorced,High School,Rejected
+56,96814,722,125823,Education,34,0.41,8,Married,Bachelor,Rejected
+53,78990,839,125469,Business,34,0.35,13,Single,High School,Rejected
+50,74080,699,76922,Home,31,0.51,14,Married,High School,Rejected
+47,94262,681,75874,Education,29,0.38,5,Married,Bachelor,Approved
+54,92504,805,122253,Personal,33,0.24,6,Married,Bachelor,Approved
+40,68945,807,65361,Education,18,0.18,2,Married,Bachelor,Approved
+27,54124,656,78836,Home,7,0.44,11,Married,High School,Rejected
+71,87604,850,29641,Home,40,0.19,12,Married,Bachelor,Approved
+22,30986,731,74833,Personal,1,0.53,9,Married,High School,Rejected
+53,88788,731,125899,Personal,33,0.43,6,Married,High School,Rejected
+51,99269,692,118398,Auto,32,0.36,12,Married,Bachelor,Rejected
+69,100200,843,51129,Home,40,0.15,9,Married,High School,Approved
+48,92215,751,38808,Personal,28,0.45,11,Single,High School,Approved
+27,60489,554,83346,Home,9,0.59,10,Married,High School,Rejected
+36,43944,792,78524,Auto,17,0.29,3,Divorced,High School,Approved
+49,54392,783,61625,Business,27,0.24,6,Single,High School,Approved
+18,33268,728,45327,Home,0,0.34,10,Single,High School,Rejected
+73,76458,769,26483,Auto,40,0.42,5,Married,High School,Approved
+22,20000,714,136575,Auto,3,0.27,9,Married,High School,Rejected
+62,108162,741,75880,Auto,40,0.48,13,Single,Bachelor,Approved
+21,35670,615,13947,Education,0,0.64,10,Single,High School,Rejected
+33,69611,711,145605,Personal,15,0.4,1,Single,High School,Rejected
+41,67684,727,45916,Home,20,0.3,9,Married,High School,Approved
+33,82195,751,130468,Education,12,0.42,5,Single,Bachelor,Rejected
+72,123555,811,12012,Home,40,0.53,1,Single,Master,Approved
+19,33637,672,20213,Education,0,0.37,10,Married,Bachelor,Rejected
+66,113221,766,100660,Personal,40,0.42,8,Divorced,Bachelor,Approved
+45,94343,676,65188,Auto,24,0.46,7,Married,Bachelor,Approved
+49,95410,827,51576,Home,31,0.22,14,Single,Bachelor,Approved
+44,98505,751,15711,Auto,26,0.42,6,Married,Bachelor,Approved
+37,55767,781,14515,Personal,18,0.15,2,Divorced,High School,Approved
+41,63958,781,138496,Home,19,0.25,5,Married,High School,Approved
+29,44756,730,49344,Business,11,0.52,3,Divorced,High School,Rejected
+67,143790,675,64595,Business,40,0.48,2,Married,Master,Rejected
+52,101412,720,14200,Business,32,0.31,14,Single,Bachelor,Approved
+50,78832,722,139288,Personal,30,0.61,10,Married,Bachelor,Rejected
+50,93525,831,5016,Business,30,0.15,1,Single,High School,Approved
+68,97668,802,107974,Home,40,0.32,9,Married,Bachelor,Rejected
+60,90136,819,105927,Business,40,0.39,2,Single,High School,Rejected
+54,84183,850,83886,Home,33,0.05,13,Single,High School,Approved
+29,75999,831,119817,Personal,7,0.33,11,Divorced,Master,Rejected
+20,49837,820,137545,Auto,0,0.18,1,Single,Bachelor,Approved
+18,20000,797,30525,Education,0,0.18,14,Divorced,High School,Rejected
+50,111370,779,47028,Business,31,0.31,7,Single,Master,Approved
+57,96506,850,57047,Education,37,0.08,9,Single,High School,Approved
+27,97718,771,35110,Auto,8,0.23,6,Divorced,PhD,Approved
+60,73981,850,106040,Personal,38,0.08,8,Married,High School,Approved
+61,81943,720,124786,Personal,39,0.37,11,Married,High School,Rejected
+46,55554,772,97424,Auto,24,0.37,7,Single,High School,Rejected
+30,49898,743,138018,Education,11,0.3,9,Married,High School,Rejected
+29,26483,711,20740,Business,8,0.5,7,Married,High School,Approved
+48,74272,751,119988,Home,27,0.31,13,Married,Bachelor,Rejected
+63,113348,757,79712,Personal,40,0.35,6,Married,Master,Approved
+19,27032,775,100402,Auto,0,0.21,1,Divorced,Bachelor,Approved
+68,89722,850,42269,Education,40,0.05,9,Married,High School,Approved
+67,83935,771,43682,Business,40,0.33,10,Divorced,Bachelor,Approved
+52,81353,850,125359,Education,31,0.31,5,Married,High School,Rejected
+40,53029,743,37850,Business,18,0.61,13,Married,High School,Rejected
+34,59760,636,46132,Home,14,0.45,2,Single,Bachelor,Approved
+43,71892,739,141876,Home,21,0.29,14,Single,Bachelor,Rejected
+25,38396,731,90061,Auto,6,0.37,12,Divorced,High School,Rejected
+46,73428,741,57034,Auto,25,0.49,11,Single,High School,Approved
+43,121170,842,50061,Business,22,0.43,8,Single,PhD,Approved
+27,52139,667,83348,Business,8,0.6,13,Single,High School,Rejected
+43,103316,789,119892,Business,24,0.23,4,Single,Bachelor,Approved
+51,98252,670,50952,Business,31,0.5,14,Divorced,Bachelor,Approved
+68,91403,736,100996,Home,40,0.29,3,Divorced,High School,Rejected
+58,80929,766,130982,Auto,37,0.38,13,Married,High School,Rejected
+24,31762,850,64379,Auto,4,0.27,1,Single,High School,Approved
+21,54890,722,111120,Personal,3,0.33,5,Married,Bachelor,Rejected
+70,95005,751,132852,Auto,40,0.38,3,Married,Bachelor,Rejected
+67,107289,791,103111,Auto,40,0.44,4,Divorced,Bachelor,Approved
+62,134811,684,41516,Education,40,0.36,9,Married,PhD,Approved
+28,51219,830,76114,Education,9,0.05,11,Single,Bachelor,Approved
+46,70488,808,127078,Personal,24,0.34,14,Married,Bachelor,Rejected
+73,130247,690,134657,Business,40,0.57,7,Divorced,Bachelor,Rejected
+53,80534,846,66240,Personal,33,0.34,11,Married,Bachelor,Approved
+42,74322,723,46798,Personal,20,0.57,5,Married,Bachelor,Rejected
+38,82725,826,123371,Home,17,0.33,8,Single,Bachelor,Rejected
+74,110290,807,71473,Auto,40,0.11,6,Married,Bachelor,Approved
+53,77764,784,130811,Home,35,0.29,10,Married,High School,Approved
+27,45078,806,136496,Auto,8,0.27,2,Single,Bachelor,Approved
+54,80797,711,114806,Personal,33,0.32,7,Married,High School,Rejected
+26,20000,834,139123,Auto,8,0.17,1,Single,High School,Rejected
+41,63198,747,106209,Business,21,0.35,3,Single,High School,Rejected
+52,91848,834,101878,Business,31,0.3,12,Single,Bachelor,Rejected
+66,115701,746,82774,Personal,40,0.54,1,Single,Bachelor,Approved
+52,66566,850,32786,Education,32,0.17,14,Married,High School,Approved
+65,101765,716,100204,Business,40,0.39,1,Single,Bachelor,Approved
+53,97369,772,137339,Personal,32,0.41,5,Single,Bachelor,Rejected
+35,51555,637,24650,Home,13,0.47,6,Divorced,High School,Approved
+66,91573,831,12017,Education,40,0.3,12,Married,Bachelor,Approved
+56,95524,785,145921,Business,38,0.38,3,Married,Bachelor,Rejected
+49,100999,738,67453,Personal,28,0.4,14,Married,Bachelor,Approved
+41,77593,791,72762,Personal,20,0.1,3,Married,Bachelor,Approved
+40,58358,753,140460,Home,20,0.3,3,Single,Bachelor,Rejected
+49,80832,774,72958,Home,28,0.35,1,Married,High School,Approved
+54,65007,786,82568,Education,34,0.36,5,Single,High School,Rejected
+29,43429,831,77852,Business,11,0.36,1,Married,High School,Rejected
+66,140632,817,138915,Personal,40,0.42,10,Single,PhD,Approved
+72,102137,686,33015,Education,40,0.64,10,Married,High School,Rejected
+30,24620,795,51546,Education,12,0.26,3,Married,High School,Approved
+40,95615,781,56055,Home,19,0.41,13,Married,Master,Approved
+42,98617,666,107528,Personal,20,0.55,6,Single,Master,Rejected
+52,88929,850,108283,Auto,33,0.08,11,Married,Bachelor,Approved
+58,89409,695,54577,Home,39,0.39,6,Divorced,High School,Approved
+47,39980,806,34415,Personal,27,0.1,3,Married,High School,Approved
+34,20520,576,20963,Education,12,0.68,9,Single,High School,Rejected
+66,101085,759,67415,Education,40,0.43,8,Single,High School,Approved
+37,53111,709,61400,Business,19,0.41,11,Divorced,High School,Rejected
+65,101537,850,119731,Auto,40,0.07,3,Married,Bachelor,Approved
+42,98346,821,60450,Home,24,0.27,5,Married,Master,Rejected
+39,54840,780,91962,Business,19,0.28,5,Divorced,High School,Approved
+30,52413,700,123639,Business,8,0.61,14,Divorced,Bachelor,Rejected
+36,72944,797,33842,Auto,16,0.46,5,Married,Bachelor,Approved
+66,75044,850,21531,Home,40,0.1,3,Married,High School,Approved
+53,106099,746,138242,Home,33,0.42,5,Single,Bachelor,Rejected
+29,42697,832,126843,Education,10,0.12,5,Married,High School,Approved
+58,76943,847,143369,Home,38,0.11,4,Single,High School,Approved
+36,59097,779,9163,Business,17,0.42,4,Single,Bachelor,Approved
+29,43926,745,45794,Education,9,0.46,2,Single,High School,Rejected
+26,77936,680,46787,Home,4,0.42,9,Single,PhD,Approved
+24,20000,620,113248,Auto,2,0.63,7,Married,High School,Rejected
+45,73481,815,62219,Business,23,0.41,1,Married,Bachelor,Approved
+31,51908,706,106243,Personal,10,0.38,5,Married,Bachelor,Rejected
+48,87618,816,115224,Auto,30,0.17,2,Single,High School,Approved
+69,91304,793,29448,Auto,40,0.48,10,Divorced,High School,Approved
+36,86193,815,61437,Home,17,0.1,6,Single,Bachelor,Approved
+64,112900,776,33299,Education,40,0.65,7,Married,Master,Rejected
+33,75088,756,82093,Education,12,0.48,12,Divorced,Master,Rejected
+70,108865,630,130113,Business,40,0.77,2,Married,Bachelor,Rejected
+22,52541,681,104317,Home,1,0.41,11,Married,Bachelor,Rejected
+52,101709,760,143463,Education,33,0.49,6,Divorced,Bachelor,Rejected
+29,49621,748,79891,Personal,9,0.31,13,Single,Bachelor,Rejected
+42,72403,662,45286,Home,24,0.34,3,Married,Bachelor,Approved
+69,101445,797,96353,Home,40,0.19,9,Married,Bachelor,Approved
+38,100309,828,116027,Education,17,0.13,4,Single,Master,Approved
+53,72493,810,42595,Auto,35,0.38,3,Married,High School,Approved
+70,114730,847,133840,Home,40,0.34,13,Divorced,Master,Rejected
+40,80798,850,67740,Auto,19,0.19,11,Married,Bachelor,Approved
+33,54763,750,55929,Business,12,0.22,3,Single,High School,Rejected
+74,95554,772,37827,Business,40,0.35,2,Single,High School,Approved
+56,83308,826,31209,Education,35,0.19,12,Married,High School,Approved
+62,94348,688,102654,Business,40,0.4,9,Single,Bachelor,Rejected
+70,113092,847,113947,Education,40,0.19,8,Married,Master,Approved
+59,96764,762,78396,Education,37,0.39,5,Married,High School,Approved
+56,120236,850,149878,Auto,35,0.18,14,Married,Master,Approved
+31,64650,841,118254,Auto,12,0.18,14,Married,Master,Rejected
+48,79194,850,85000,Business,27,0.05,13,Married,High School,Approved
+22,76087,735,43865,Auto,2,0.33,9,Single,Master,Approved
+52,122038,725,142530,Home,31,0.57,13,Single,PhD,Rejected
+40,80762,652,14151,Personal,21,0.56,2,Married,Bachelor,Rejected
+46,95614,745,135759,Home,27,0.4,6,Married,Bachelor,Rejected
+60,128042,850,77024,Home,40,0.05,7,Married,PhD,Approved
+28,77295,695,129001,Education,6,0.48,6,Married,Bachelor,Rejected
+35,63230,728,48183,Personal,14,0.38,3,Divorced,High School,Approved
+64,125240,778,67323,Education,40,0.29,10,Single,Master,Rejected
+29,55154,632,128978,Auto,7,0.53,14,Single,Bachelor,Rejected
+26,57447,696,95254,Auto,5,0.44,10,Single,Bachelor,Rejected
+27,24897,676,147242,Personal,7,0.64,10,Married,High School,Rejected
+61,125820,762,52284,Business,40,0.14,9,Married,Bachelor,Approved
+34,63788,780,145332,Auto,15,0.15,14,Married,High School,Approved
+55,128640,850,143708,Home,36,0.18,12,Married,Master,Approved
+24,36307,734,107491,Personal,4,0.31,8,Divorced,High School,Rejected
+63,86397,725,41108,Personal,40,0.59,8,Divorced,High School,Rejected
+30,50256,850,20941,Auto,8,0.26,8,Single,Bachelor,Approved
+57,92135,823,77836,Auto,36,0.26,9,Married,High School,Approved
+59,99874,781,92719,Education,40,0.41,1,Married,Bachelor,Approved
+26,70126,650,12444,Education,8,0.48,8,Single,Master,Approved
+67,125463,850,96291,Home,40,0.05,2,Married,Master,Approved
+44,60906,713,93598,Personal,25,0.51,4,Married,High School,Rejected
+19,40439,799,71036,Business,0,0.25,1,Single,High School,Approved
+22,61322,796,9554,Business,1,0.33,12,Married,Master,Approved
+46,80918,701,30545,Personal,24,0.56,6,Married,Master,Rejected
+54,90799,804,135745,Home,35,0.32,10,Single,Bachelor,Rejected
+55,112081,751,66971,Education,36,0.12,1,Married,Bachelor,Approved
+36,43129,703,51059,Education,15,0.13,12,Single,High School,Rejected
+25,79440,788,142843,Education,7,0.35,5,Married,Master,Rejected
+65,106216,682,74468,Business,40,0.3,9,Single,Bachelor,Approved
+62,88282,801,31055,Business,40,0.36,1,Divorced,High School,Approved
+18,55125,731,8567,Home,0,0.29,9,Married,High School,Approved
+39,77157,759,31627,Business,20,0.54,4,Single,Master,Approved
+69,82598,795,84944,Auto,40,0.35,3,Married,High School,Rejected
+34,50765,850,100368,Business,14,0.09,8,Married,High School,Approved
+24,76657,684,45785,Education,5,0.47,6,Married,Bachelor,Approved
+42,59788,729,29204,Home,20,0.64,7,Married,High School,Rejected
+62,92742,706,21643,Personal,40,0.37,9,Married,High School,Approved
+21,58141,600,75561,Personal,1,0.38,5,Single,Master,Rejected
+53,113086,808,42126,Home,33,0.23,13,Single,Master,Approved
+23,64761,670,63126,Auto,5,0.31,2,Married,Master,Approved
+48,105953,741,87424,Personal,26,0.43,3,Married,Master,Approved
+36,75241,677,129453,Education,15,0.52,3,Single,Bachelor,Rejected
+61,117658,796,50258,Personal,40,0.42,4,Married,Master,Approved
+71,78745,666,39527,Personal,40,0.62,10,Single,High School,Rejected
+56,102935,795,28898,Education,38,0.36,7,Married,Bachelor,Approved
+44,128021,850,8794,Business,26,0.18,12,Single,PhD,Approved
+27,33733,774,148404,Auto,8,0.19,10,Single,High School,Approved
+43,64839,727,14593,Education,21,0.54,6,Divorced,High School,Approved
+36,55442,654,63132,Education,15,0.5,3,Single,Bachelor,Rejected
+56,75101,833,125973,Home,37,0.1,14,Married,High School,Approved
+20,46003,667,106633,Auto,2,0.32,7,Single,High School,Rejected
+62,126915,850,16036,Business,40,0.32,4,Married,Master,Approved
+30,96489,835,99097,Education,12,0.24,10,Divorced,PhD,Approved
+67,81782,850,58164,Business,40,0.14,11,Single,Bachelor,Approved
+45,58971,850,63413,Education,23,0.23,11,Married,High School,Approved
+37,63068,760,23059,Education,18,0.21,8,Married,High School,Approved
+45,81509,748,32188,Home,24,0.14,7,Married,Master,Approved
+25,50461,673,103591,Personal,6,0.47,7,Married,Bachelor,Rejected
+58,94666,793,86795,Auto,38,0.39,9,Divorced,High School,Approved
+56,86888,785,16829,Home,38,0.28,8,Single,Bachelor,Approved
+18,20000,700,78673,Business,0,0.05,12,Single,High School,Rejected
+20,33061,775,29502,Education,2,0.31,1,Divorced,Bachelor,Rejected
+30,79844,636,6265,Education,11,0.43,7,Married,Master,Approved
+45,78430,774,52457,Auto,26,0.24,3,Single,Bachelor,Approved
+74,113780,850,51875,Home,40,0.18,12,Married,Bachelor,Approved
+66,91210,801,65359,Home,40,0.33,4,Married,High School,Approved
+42,93805,796,111334,Business,20,0.4,6,Married,Bachelor,Rejected
+73,92625,850,127950,Home,40,0.05,5,Single,Bachelor,Approved
+50,79817,658,69102,Home,31,0.55,8,Married,High School,Approved
+55,92547,850,106827,Personal,37,0.16,2,Single,Bachelor,Approved
+70,96002,815,97688,Auto,40,0.29,5,Married,High School,Approved
+23,67199,602,64469,Home,4,0.53,5,Married,Master,Approved
+61,95068,698,100789,Business,40,0.37,3,Married,Bachelor,Rejected
+62,133428,757,18176,Education,40,0.51,14,Single,PhD,Approved
+49,71230,805,70036,Home,27,0.58,10,Single,High School,Rejected
+62,99006,799,12907,Home,40,0.13,13,Married,Bachelor,Approved
+64,112271,702,8372,Education,40,0.49,5,Married,Bachelor,Approved
+38,61689,712,29592,Personal,18,0.55,4,Single,Bachelor,Approved
+33,71910,695,149174,Auto,14,0.29,11,Married,High School,Rejected
+71,114536,850,113093,Personal,40,0.31,5,Single,Bachelor,Approved
+38,75487,794,8139,Business,18,0.06,10,Single,Bachelor,Approved
+28,73453,676,82179,Home,10,0.47,9,Single,High School,Rejected
+54,74907,825,23643,Personal,32,0.05,7,Single,High School,Rejected
+53,99113,777,109425,Auto,32,0.5,1,Single,Bachelor,Rejected
+52,96726,850,65117,Business,33,0.14,3,Married,Bachelor,Approved
+36,60474,651,111485,Personal,15,0.56,9,Divorced,High School,Rejected
+37,68961,775,118607,Home,16,0.41,4,Married,High School,Rejected
+74,95489,695,65332,Auto,40,0.5,4,Single,High School,Approved
+35,76417,832,35632,Home,14,0.23,10,Single,Bachelor,Approved
+64,99496,850,92157,Home,40,0.15,6,Single,Bachelor,Approved
+58,114938,850,41843,Business,38,0.09,3,Single,Master,Approved
+66,151382,751,43930,Auto,40,0.51,3,Married,PhD,Approved
+31,70468,660,110940,Education,13,0.45,9,Married,Bachelor,Rejected
+32,51983,711,63103,Home,13,0.45,13,Single,High School,Rejected
+48,62967,738,45770,Auto,27,0.39,5,Single,High School,Approved
+18,39665,675,116757,Home,0,0.43,14,Single,High School,Rejected
+70,112185,823,35158,Personal,40,0.31,7,Single,Master,Approved
+71,94238,781,93992,Personal,40,0.41,5,Married,Bachelor,Approved
+71,91149,850,52401,Auto,40,0.22,6,Single,High School,Approved
+20,20000,776,149064,Business,0,0.3,8,Married,High School,Rejected
+33,69110,604,50858,Education,12,0.81,8,Married,Bachelor,Rejected
+40,81769,774,143143,Personal,22,0.36,2,Divorced,Bachelor,Rejected
+74,86471,850,89811,Business,40,0.05,11,Divorced,High School,Approved
+28,82878,728,134970,Education,7,0.29,9,Married,PhD,Rejected
+29,57306,786,11586,Personal,9,0.19,10,Single,Bachelor,Approved
+27,31108,676,24703,Education,6,0.37,12,Married,High School,Approved
+49,108345,832,81177,Home,31,0.22,12,Married,Master,Approved
+33,47006,763,41735,Auto,13,0.32,12,Single,High School,Approved
+25,70124,788,103525,Personal,6,0.24,14,Married,Master,Approved
+55,125942,719,44648,Personal,35,0.38,6,Divorced,PhD,Approved
+29,54974,805,148201,Home,9,0.26,7,Married,Bachelor,Approved
+41,76284,745,41656,Personal,19,0.4,3,Single,Bachelor,Approved
+45,75310,726,149571,Personal,25,0.64,4,Single,High School,Rejected
+70,114752,830,80888,Personal,40,0.18,6,Married,Master,Approved
+25,54954,734,24654,Personal,4,0.46,7,Single,Bachelor,Approved
+45,89194,850,135117,Personal,26,0.05,6,Married,Bachelor,Approved
+53,95161,850,91613,Business,32,0.32,5,Married,Master,Approved
+43,117765,743,23982,Personal,22,0.38,14,Single,PhD,Approved
+25,91064,738,104970,Home,7,0.24,12,Divorced,Master,Rejected
+67,89119,850,86848,Personal,40,0.08,2,Married,High School,Approved
+45,107788,708,114577,Education,23,0.34,12,Single,PhD,Rejected
+45,77369,668,84874,Education,23,0.58,7,Married,Bachelor,Rejected
+54,120206,665,35173,Home,36,0.33,5,Married,Master,Approved
+58,108607,825,131765,Business,39,0.43,12,Married,Bachelor,Rejected
+53,65093,820,42525,Home,34,0.52,9,Divorced,High School,Approved
+44,55838,642,32328,Business,23,0.72,13,Married,High School,Rejected
+71,110073,850,147432,Auto,40,0.19,11,Divorced,Bachelor,Approved
+34,63049,796,121242,Education,13,0.21,4,Married,Bachelor,Approved
+26,28838,681,109419,Education,7,0.31,14,Married,High School,Rejected
+50,105002,793,27625,Education,30,0.44,10,Divorced,Bachelor,Approved
+70,82002,850,112576,Business,40,0.05,12,Married,High School,Approved
+37,85857,669,21471,Home,17,0.45,2,Single,Master,Approved
+30,58284,749,44883,Business,10,0.37,7,Married,Bachelor,Approved
+45,58213,773,7703,Education,26,0.27,7,Married,High School,Approved
+65,91849,832,70524,Education,40,0.41,1,Single,High School,Approved
+46,75921,719,20151,Education,28,0.48,11,Divorced,High School,Approved
+30,53823,690,54190,Education,9,0.5,14,Single,Bachelor,Rejected
+63,86638,850,61195,Auto,40,0.35,13,Single,High School,Approved
+52,81004,694,131559,Education,30,0.4,5,Divorced,High School,Rejected
+23,43248,728,69108,Business,2,0.39,3,Married,Master,Rejected
+35,74049,696,107241,Education,15,0.53,9,Single,Master,Rejected
+68,107134,749,110190,Personal,40,0.41,9,Married,Bachelor,Rejected
+22,71232,800,48050,Auto,1,0.45,7,Married,PhD,Approved
+64,84589,767,37976,Education,40,0.48,12,Single,High School,Approved
+42,90016,703,5599,Personal,24,0.64,9,Divorced,Bachelor,Rejected
+19,38666,790,64867,Business,0,0.26,12,Married,Bachelor,Approved
+27,75291,646,8709,Auto,7,0.59,2,Married,Bachelor,Rejected
+73,72454,755,54365,Education,40,0.72,11,Married,High School,Rejected
+47,60380,841,10723,Business,25,0.27,10,Married,Bachelor,Approved
+67,113789,799,117308,Personal,40,0.32,8,Single,Bachelor,Rejected
+62,95160,850,69120,Auto,40,0.29,10,Single,Bachelor,Approved
+22,20329,760,15316,Education,0,0.45,10,Married,High School,Rejected
+72,99847,850,111276,Business,40,0.07,10,Married,High School,Approved
+73,85027,785,26162,Auto,40,0.28,13,Single,High School,Approved
+50,82603,777,33833,Personal,29,0.31,1,Married,High School,Approved
+71,98895,841,131515,Education,40,0.3,3,Married,Bachelor,Rejected
+18,33625,751,125788,Auto,0,0.29,8,Single,High School,Approved
+35,77385,732,56747,Personal,15,0.28,11,Single,Master,Approved
+49,61301,719,95037,Personal,27,0.47,8,Single,High School,Rejected
+64,107306,784,118850,Business,40,0.43,14,Married,High School,Rejected
+66,116164,641,123641,Personal,40,0.61,10,Single,Bachelor,Rejected
+28,37733,702,123519,Personal,10,0.47,8,Married,High School,Rejected
+38,68716,836,124271,Home,17,0.19,11,Married,Bachelor,Approved
+43,97262,781,60387,Personal,25,0.32,12,Married,Bachelor,Approved
+42,51617,727,30226,Education,21,0.31,11,Single,High School,Approved
+39,50658,707,111287,Auto,20,0.39,7,Married,High School,Rejected
+44,72200,786,142572,Education,25,0.51,2,Married,High School,Rejected
+66,112704,738,6634,Education,40,0.38,3,Divorced,High School,Approved
+30,45538,790,120855,Business,10,0.38,9,Divorced,High School,Rejected
+50,82498,738,9076,Home,28,0.35,2,Married,High School,Approved
+51,64825,791,111694,Home,30,0.47,13,Married,High School,Rejected
+58,102610,834,43210,Education,36,0.26,7,Single,Bachelor,Approved
+52,92403,821,133798,Auto,34,0.13,1,Single,Bachelor,Approved
+18,63666,604,37007,Home,0,0.45,3,Single,Bachelor,Rejected
+38,74486,755,93619,Home,19,0.41,13,Married,High School,Rejected
+65,112794,742,127315,Education,40,0.55,14,Single,High School,Rejected
+72,113045,850,71038,Home,40,0.05,1,Single,Master,Approved
+23,48354,760,148828,Business,2,0.33,6,Divorced,Bachelor,Rejected
+45,104251,691,146677,Education,27,0.37,4,Single,Master,Rejected
+34,44435,833,61558,Home,14,0.12,1,Single,High School,Approved
+22,50810,769,111052,Home,3,0.34,5,Single,Bachelor,Rejected
+48,94589,750,98079,Home,27,0.53,14,Married,Bachelor,Rejected
+22,25996,571,101816,Education,1,0.66,4,Married,High School,Rejected
+55,93466,791,138942,Auto,37,0.5,14,Single,Bachelor,Rejected
+20,37303,761,132942,Personal,0,0.3,11,Married,Bachelor,Rejected
+70,76562,771,140830,Home,40,0.54,10,Married,High School,Rejected
+40,68539,669,116342,Personal,20,0.49,14,Married,High School,Rejected
+54,87443,835,70138,Personal,33,0.28,11,Divorced,Bachelor,Approved
+70,111888,739,55250,Home,40,0.26,10,Married,Master,Approved
+54,87790,741,122857,Home,35,0.32,2,Married,High School,Rejected
+27,37393,846,120070,Personal,5,0.19,13,Single,High School,Approved
+27,33744,784,45558,Auto,6,0.3,7,Single,High School,Rejected
+36,78606,741,58092,Personal,17,0.42,12,Single,Bachelor,Approved
+34,48345,746,80121,Auto,16,0.51,8,Married,High School,Rejected
+38,77230,819,127140,Business,16,0.29,4,Married,PhD,Approved
+31,59832,716,135877,Auto,11,0.56,9,Married,High School,Rejected
+26,29218,693,60604,Education,5,0.45,3,Single,High School,Rejected
+63,97810,714,42039,Home,40,0.45,13,Married,Bachelor,Approved
+18,52854,730,74859,Business,0,0.21,6,Divorced,Master,Rejected
+68,105596,786,97506,Personal,40,0.62,11,Married,Bachelor,Rejected
+62,102257,699,105342,Auto,40,0.43,14,Married,Bachelor,Rejected
+30,101380,779,10461,Business,11,0.3,14,Married,PhD,Approved
+21,47951,774,45831,Education,1,0.27,7,Divorced,High School,Approved
+18,53208,809,56137,Auto,0,0.3,7,Married,Master,Rejected
+66,80619,850,39030,Personal,40,0.2,6,Married,High School,Approved
+57,92280,714,141803,Personal,35,0.5,9,Single,Bachelor,Rejected
+49,91390,789,26500,Auto,28,0.21,1,Single,Bachelor,Approved
+51,75336,758,38117,Education,31,0.39,13,Married,High School,Approved
+45,92495,839,99138,Home,25,0.28,9,Single,Master,Approved
+48,59029,777,38208,Home,28,0.45,13,Divorced,High School,Approved
+25,20000,641,89728,Personal,7,0.47,9,Single,High School,Rejected
+56,87452,821,89482,Education,35,0.25,4,Divorced,Bachelor,Approved
+43,74144,802,30960,Personal,21,0.34,13,Single,High School,Approved
+51,97359,824,146319,Home,32,0.13,12,Single,Bachelor,Approved
+71,88084,616,101342,Personal,40,0.61,12,Divorced,High School,Rejected
+71,97297,743,112918,Auto,40,0.51,5,Single,High School,Rejected
+20,20000,713,119761,Auto,0,0.14,3,Single,High School,Rejected
+67,90567,752,31038,Education,40,0.22,7,Single,High School,Approved
+29,39136,797,127232,Home,8,0.33,2,Married,Bachelor,Rejected
+18,48460,846,77485,Education,0,0.36,8,Single,Bachelor,Rejected
+71,122595,850,62773,Education,40,0.25,9,Married,Master,Approved
+61,122833,707,88391,Home,40,0.18,6,Married,Master,Approved
+22,43176,701,57633,Business,1,0.41,9,Married,High School,Approved
+47,94759,657,127226,Business,28,0.61,6,Married,Bachelor,Rejected
+47,61410,689,37803,Personal,29,0.36,3,Married,High School,Approved
+74,101827,842,120708,Business,40,0.31,10,Single,High School,Rejected
+34,63905,754,134997,Auto,14,0.29,3,Married,Bachelor,Approved
+65,70298,783,108838,Education,40,0.19,2,Single,High School,Approved
+64,88912,718,28545,Personal,40,0.25,5,Married,High School,Approved
+40,93471,673,67759,Education,18,0.52,13,Married,Master,Approved
+32,51361,833,111313,Home,11,0.05,14,Divorced,Bachelor,Approved
+54,107828,766,81488,Business,33,0.36,4,Married,Bachelor,Approved
+38,46266,803,122805,Home,17,0.35,12,Single,High School,Rejected
+31,44689,753,58866,Personal,13,0.37,6,Married,High School,Rejected
+19,54852,673,132145,Auto,1,0.46,5,Married,Master,Rejected
+28,24910,693,75499,Business,8,0.36,6,Single,High School,Rejected
+68,95068,728,83243,Home,40,0.28,4,Married,Bachelor,Approved
+56,73881,753,125779,Business,34,0.25,14,Married,High School,Approved
+55,97698,786,148932,Education,36,0.54,13,Divorced,Bachelor,Approved
+51,46485,767,87946,Auto,31,0.51,3,Married,High School,Rejected
+55,122665,662,123353,Business,37,0.78,1,Single,Master,Rejected
+67,127066,783,22670,Auto,40,0.31,5,Single,Master,Approved
+51,103314,850,89766,Education,31,0.25,6,Divorced,Bachelor,Approved
+35,37583,676,94694,Education,15,0.42,5,Married,High School,Rejected
+47,97571,696,55764,Home,27,0.41,5,Single,Master,Approved
+32,73914,709,120164,Personal,13,0.45,12,Single,Bachelor,Rejected
+44,74774,613,28810,Home,23,0.48,6,Married,High School,Approved
+68,119789,716,114660,Auto,40,0.44,4,Single,Bachelor,Approved
+51,77527,711,95894,Home,31,0.51,14,Single,High School,Rejected
+69,89440,721,20933,Business,40,0.53,12,Single,High School,Approved
+74,89420,701,6947,Home,40,0.53,4,Single,Bachelor,Approved
+55,91648,850,24715,Personal,34,0.05,11,Married,High School,Approved
+50,88396,827,35956,Personal,32,0.38,13,Married,Bachelor,Approved
+41,64839,850,85846,Auto,23,0.21,8,Single,High School,Approved
+32,79171,690,21303,Education,13,0.51,11,Single,Master,Approved
+47,94553,831,118318,Personal,29,0.05,8,Single,PhD,Approved
+72,111885,816,29031,Auto,40,0.57,12,Married,Master,Rejected
+59,93038,826,99786,Personal,39,0.22,3,Single,High School,Approved
+68,89514,793,92389,Personal,40,0.19,7,Married,High School,Approved
+34,72118,680,47707,Education,15,0.4,5,Married,Bachelor,Approved
+22,40838,728,80761,Business,2,0.29,5,Single,High School,Rejected
+46,63767,682,36535,Auto,28,0.62,12,Single,High School,Rejected
+21,39848,669,7991,Personal,0,0.55,13,Single,Bachelor,Approved
+27,52588,749,94680,Personal,6,0.27,3,Married,Bachelor,Rejected
+73,142734,850,12965,Home,40,0.51,2,Divorced,PhD,Approved
+34,51659,702,149802,Business,16,0.27,13,Single,High School,Rejected
+27,22689,794,34553,Education,7,0.27,3,Divorced,High School,Rejected
+34,47518,689,123802,Auto,13,0.46,7,Single,High School,Rejected
+37,95832,683,13301,Personal,19,0.57,3,Married,Master,Rejected
+41,88570,823,23936,Auto,20,0.28,11,Married,Bachelor,Approved
+22,65805,655,132978,Education,2,0.3,13,Married,Master,Rejected
+51,90140,710,132230,Business,30,0.4,2,Married,Master,Rejected
+23,42436,763,53848,Home,1,0.22,4,Married,Bachelor,Approved
+70,109750,803,7042,Business,40,0.58,12,Married,Bachelor,Rejected
+19,38662,837,42260,Home,0,0.21,5,Married,High School,Approved
+30,68070,832,41326,Auto,12,0.26,13,Married,Bachelor,Approved
+60,102483,595,47581,Business,40,0.62,7,Single,Bachelor,Rejected
+60,113585,722,139730,Business,40,0.38,1,Single,Bachelor,Rejected
+65,113594,654,86855,Business,40,0.64,14,Married,Master,Rejected
+28,91846,744,89614,Education,10,0.32,8,Married,PhD,Approved
+68,112497,590,107188,Auto,40,0.73,10,Married,Bachelor,Rejected
+64,110766,818,42874,Home,40,0.44,3,Married,Bachelor,Approved
+74,110990,740,56318,Business,40,0.24,14,Divorced,Bachelor,Approved
+40,68739,841,42165,Auto,22,0.23,11,Married,High School,Approved
+72,79513,850,61820,Education,40,0.13,6,Married,High School,Approved
+33,67675,750,50411,Education,15,0.15,4,Married,Bachelor,Approved
+48,76407,850,90312,Auto,27,0.25,14,Single,Bachelor,Approved
+28,39105,764,41479,Home,8,0.2,5,Single,High School,Approved
+71,108311,850,125567,Auto,40,0.05,10,Married,Master,Approved
+33,51449,685,104890,Auto,12,0.48,12,Single,High School,Rejected
+25,20000,680,44906,Personal,6,0.47,6,Divorced,High School,Rejected
+21,55672,700,134523,Education,3,0.4,2,Single,Bachelor,Rejected
+57,82653,820,78198,Home,35,0.18,13,Single,High School,Approved
+21,53521,607,77940,Personal,3,0.6,3,Divorced,High School,Rejected
+73,87953,779,14542,Auto,40,0.32,8,Married,High School,Approved
+42,78951,766,32774,Education,24,0.23,8,Single,Bachelor,Approved
+20,51825,798,144628,Personal,0,0.38,1,Married,Bachelor,Rejected
+49,87035,732,83342,Personal,29,0.38,10,Married,Bachelor,Approved
+20,47748,783,122887,Home,0,0.05,8,Married,Bachelor,Approved
+44,77444,838,131081,Auto,25,0.35,11,Single,High School,Rejected
+46,108324,742,19864,Home,24,0.37,2,Married,PhD,Rejected
+49,82452,741,100552,Personal,27,0.29,10,Divorced,High School,Rejected
+67,118208,799,63989,Personal,40,0.15,10,Single,PhD,Approved
+68,121034,784,61093,Home,40,0.16,13,Divorced,Bachelor,Approved
+36,78118,752,38749,Personal,14,0.43,8,Divorced,PhD,Approved
+38,70521,627,64739,Business,18,0.46,12,Married,High School,Approved
+22,27835,815,22305,Education,1,0.28,10,Married,Bachelor,Approved
+35,75305,725,82474,Auto,17,0.41,5,Single,High School,Rejected
+45,66108,761,21318,Education,23,0.28,1,Single,High School,Approved
+59,91051,810,57810,Auto,37,0.22,8,Married,Bachelor,Approved
+39,80151,767,131662,Personal,21,0.38,12,Divorced,High School,Rejected
+38,58111,780,126752,Home,16,0.18,5,Married,Bachelor,Approved
+23,35226,634,66800,Home,5,0.63,1,Married,High School,Rejected
+18,56047,839,75942,Personal,0,0.13,4,Single,High School,Approved
+22,51955,732,25661,Auto,2,0.39,13,Single,Bachelor,Approved
+58,84739,712,88394,Personal,40,0.37,1,Married,Bachelor,Rejected
+29,57267,700,35816,Auto,10,0.36,13,Single,Bachelor,Approved
+43,78882,603,17850,Personal,25,0.57,9,Married,Bachelor,Rejected
+63,121885,850,57919,Personal,40,0.05,10,Single,Master,Approved
+51,74555,789,32428,Personal,30,0.41,2,Married,High School,Approved
+66,110458,759,110023,Home,40,0.31,8,Single,Bachelor,Approved
+31,79219,830,119160,Auto,13,0.44,4,Married,PhD,Rejected
+43,74020,850,111898,Personal,23,0.36,9,Married,Bachelor,Rejected
+62,108118,792,77822,Education,40,0.34,2,Single,Bachelor,Approved
+44,71878,775,80604,Education,23,0.17,12,Single,Bachelor,Approved
+26,61959,777,139089,Home,4,0.25,3,Single,Bachelor,Rejected
+43,69078,577,14926,Business,21,0.82,2,Divorced,Bachelor,Rejected
+74,91433,826,49508,Home,40,0.44,10,Single,High School,Approved
+64,88950,751,130799,Business,40,0.51,14,Married,High School,Rejected
+74,109853,833,100933,Home,40,0.3,5,Divorced,Master,Approved
+39,56104,850,130030,Education,17,0.22,11,Married,High School,Rejected
+64,91880,725,119541,Personal,40,0.47,1,Single,Bachelor,Rejected
+73,85563,850,15002,Auto,40,0.06,12,Divorced,High School,Approved
+47,84302,837,53586,Personal,26,0.25,3,Single,Bachelor,Approved
+60,74226,779,73737,Education,39,0.3,1,Married,High School,Approved
+65,96235,830,134157,Auto,40,0.49,10,Divorced,High School,Rejected
+34,97103,777,32048,Business,13,0.41,14,Married,PhD,Approved
+43,96820,762,132912,Business,21,0.28,8,Married,Master,Approved
+53,94524,667,84517,Education,33,0.41,12,Single,Bachelor,Approved
+18,33493,663,126443,Auto,0,0.3,4,Single,Bachelor,Rejected
+25,53999,660,57634,Personal,6,0.51,3,Married,Bachelor,Rejected
+66,111230,803,66491,Education,40,0.39,8,Single,Bachelor,Approved
+52,81096,749,127416,Business,32,0.61,13,Divorced,Bachelor,Rejected
+69,78891,800,10565,Education,40,0.31,9,Divorced,High School,Approved
+32,63539,643,85483,Personal,14,0.53,8,Divorced,Bachelor,Rejected
+64,101286,779,111234,Home,40,0.36,6,Married,Bachelor,Rejected
+73,134838,836,77053,Home,40,0.25,14,Married,PhD,Approved
+39,58583,701,19287,Personal,21,0.74,3,Divorced,High School,Rejected
+31,60099,745,82365,Auto,9,0.55,8,Divorced,Bachelor,Rejected
+43,90218,698,138494,Education,22,0.39,13,Married,Bachelor,Rejected
+45,89383,750,34060,Personal,26,0.46,5,Single,Bachelor,Approved
+40,60561,760,46633,Home,20,0.19,5,Single,High School,Approved
+31,50432,747,110251,Business,11,0.19,12,Married,Bachelor,Rejected
+41,52780,758,18790,Personal,20,0.52,9,Married,High School,Approved
+19,38417,713,136059,Personal,0,0.35,1,Married,High School,Rejected
+62,100315,827,8668,Personal,40,0.33,7,Single,Bachelor,Approved
+43,72822,799,81280,Home,25,0.31,8,Single,Bachelor,Rejected
+31,79480,730,33754,Home,9,0.37,11,Single,Bachelor,Approved
+73,135244,832,90058,Personal,40,0.31,10,Single,Master,Approved
+68,88755,850,9509,Personal,40,0.05,3,Single,High School,Approved
+24,25173,609,138572,Auto,4,0.56,8,Married,High School,Rejected
+20,52233,754,123981,Business,0,0.33,1,Married,Bachelor,Rejected
+64,85099,673,80440,Education,40,0.62,8,Married,High School,Rejected
+40,67385,780,31921,Education,19,0.09,7,Single,High School,Approved
+63,85109,850,59551,Education,40,0.09,4,Single,High School,Approved
+60,103453,767,21683,Home,38,0.31,11,Married,High School,Approved
+64,114812,802,82952,Home,40,0.5,7,Divorced,Master,Approved
+62,113647,850,19833,Auto,40,0.17,10,Single,High School,Approved
+35,72450,780,23290,Home,17,0.16,14,Married,Bachelor,Approved
+55,96343,814,19003,Personal,35,0.41,11,Single,High School,Approved
+52,86098,767,128086,Business,31,0.3,7,Divorced,Bachelor,Rejected
+68,76886,769,76656,Business,40,0.43,13,Married,High School,Approved
+32,42937,780,46253,Business,14,0.31,10,Single,Bachelor,Rejected
+42,92266,842,93022,Business,23,0.41,13,Married,Bachelor,Rejected
+72,90680,788,92231,Education,40,0.55,12,Single,High School,Rejected
+54,80524,827,109791,Education,32,0.17,1,Divorced,Bachelor,Approved
+45,83682,714,37716,Personal,27,0.53,3,Married,High School,Approved
+27,68559,733,11880,Auto,8,0.09,7,Married,Bachelor,Approved
+56,97823,801,33949,Home,36,0.44,11,Married,High School,Approved
+74,106602,786,71064,Home,40,0.56,13,Married,Master,Rejected
+34,66464,783,48093,Education,16,0.27,5,Single,High School,Approved
+56,99840,785,92941,Business,34,0.45,9,Married,Bachelor,Approved
+39,75776,674,132668,Personal,21,0.28,7,Single,High School,Rejected
+43,72927,679,129240,Auto,25,0.44,3,Single,High School,Rejected
+61,106730,850,48322,Education,40,0.05,1,Married,Bachelor,Approved
+42,102599,737,53181,Personal,20,0.37,5,Single,Master,Approved
+34,59518,766,92972,Personal,14,0.41,14,Single,High School,Rejected
+30,55817,642,117431,Education,10,0.55,13,Married,High School,Rejected
+37,53619,686,95179,Personal,19,0.49,10,Single,High School,Rejected
+42,58275,850,88562,Business,20,0.33,13,Married,High School,Rejected
+21,20000,706,145284,Personal,1,0.39,5,Single,High School,Rejected
+27,49898,826,149922,Auto,7,0.13,7,Single,Bachelor,Approved
+20,37903,657,44767,Personal,0,0.6,14,Single,High School,Rejected
+58,89641,763,12322,Home,36,0.45,1,Married,High School,Approved
+62,95204,850,40911,Personal,40,0.07,10,Married,Bachelor,Approved
+35,68323,637,10678,Education,17,0.39,2,Single,High School,Approved
+64,119730,800,70265,Home,40,0.4,11,Single,High School,Approved
+53,70472,782,71918,Education,33,0.23,6,Divorced,High School,Approved
+64,102941,850,65510,Auto,40,0.36,8,Single,Bachelor,Approved
+39,49284,754,47202,Business,17,0.22,4,Divorced,High School,Approved
+51,87551,811,137777,Auto,29,0.14,3,Single,Bachelor,Approved
+64,92739,850,92983,Home,40,0.26,3,Married,High School,Approved
+25,44026,760,95016,Business,4,0.38,3,Single,Bachelor,Rejected
+57,79730,689,36051,Personal,35,0.49,2,Divorced,High School,Approved
+66,105872,799,122282,Home,40,0.36,1,Married,Bachelor,Rejected
+61,123216,683,82665,Business,39,0.49,5,Married,Master,Approved
+36,85164,732,129559,Education,17,0.45,10,Single,Bachelor,Rejected
+59,86855,789,127827,Business,38,0.19,5,Married,High School,Approved
+58,82881,846,34402,Education,39,0.45,5,Married,High School,Approved
+54,84963,766,7704,Education,32,0.45,4,Single,High School,Approved
+23,41501,677,32027,Business,5,0.61,3,Single,High School,Rejected
+69,88071,827,64092,Auto,40,0.41,12,Married,High School,Approved
+43,81350,850,10725,Auto,21,0.16,3,Single,Bachelor,Approved
+51,75668,761,69105,Education,33,0.27,2,Married,High School,Approved
+73,99696,850,97305,Home,40,0.07,5,Married,Bachelor,Approved
+62,86006,742,67993,Business,40,0.43,4,Divorced,Bachelor,Approved
+23,47720,759,102681,Home,4,0.6,6,Divorced,Bachelor,Rejected
+54,64874,751,113033,Auto,35,0.05,2,Divorced,High School,Approved
+74,113605,700,35027,Home,40,0.6,2,Single,Master,Rejected
+50,83794,743,148839,Personal,32,0.42,8,Divorced,High School,Rejected
+70,89948,850,92017,Personal,40,0.19,6,Single,Bachelor,Approved
+39,73101,747,23354,Auto,20,0.39,3,Married,Bachelor,Approved
+38,69654,796,53777,Home,16,0.19,5,Married,Bachelor,Approved
+23,47114,701,54966,Business,3,0.42,3,Single,Bachelor,Rejected
+23,28186,738,21515,Auto,2,0.36,11,Divorced,High School,Rejected
+72,93253,811,103698,Personal,40,0.4,2,Single,High School,Rejected
+65,109640,850,8573,Auto,40,0.21,3,Married,Bachelor,Approved
+21,34515,850,110410,Home,3,0.23,1,Married,High School,Approved
+47,94742,757,48915,Home,26,0.43,14,Married,Master,Approved
+28,52147,734,10060,Home,9,0.27,7,Single,High School,Approved
+47,57392,737,134471,Education,27,0.37,6,Married,High School,Rejected
+48,81873,680,60421,Home,30,0.42,5,Married,High School,Approved
+41,67196,814,50610,Personal,22,0.32,6,Single,High School,Approved
+72,106990,748,15933,Personal,40,0.52,8,Married,Bachelor,Approved
+26,56901,764,77168,Education,8,0.32,3,Single,Bachelor,Rejected
+72,86100,829,48898,Personal,40,0.32,3,Married,Bachelor,Approved
+20,75373,718,10589,Personal,1,0.26,12,Divorced,Master,Approved
+68,128386,709,16612,Auto,40,0.51,5,Married,Master,Approved
+48,92386,776,52611,Home,28,0.24,5,Married,Master,Approved
+57,90088,748,23888,Auto,35,0.54,14,Married,High School,Approved
+54,99388,764,24417,Auto,35,0.37,11,Married,Bachelor,Approved
+53,75169,565,50440,Personal,34,0.75,1,Single,High School,Rejected
+41,73417,735,16891,Business,21,0.25,4,Single,High School,Approved
+48,85691,696,77131,Home,30,0.54,9,Married,Bachelor,Approved
+23,51061,705,67093,Business,5,0.43,8,Married,High School,Rejected
+19,35342,772,33557,Personal,0,0.27,3,Married,High School,Approved
+37,65065,728,116129,Education,17,0.43,5,Single,High School,Rejected
+45,71790,722,88817,Auto,24,0.42,5,Single,High School,Rejected
+28,77327,732,7192,Personal,8,0.3,7,Single,Master,Approved
+21,32152,717,39946,Personal,0,0.41,8,Divorced,High School,Rejected
+32,42231,711,54884,Business,13,0.52,9,Married,High School,Rejected
+23,47125,689,51360,Education,1,0.43,7,Single,Bachelor,Rejected
+71,99163,766,68252,Auto,40,0.29,2,Single,High School,Approved
+66,127192,810,133651,Education,40,0.28,8,Divorced,Master,Approved
+47,78512,736,46472,Education,29,0.34,8,Single,High School,Approved
+73,84042,768,40455,Education,40,0.52,11,Married,Bachelor,Approved
+55,93867,850,33672,Home,34,0.24,13,Single,Bachelor,Approved
+68,116817,711,8756,Education,40,0.41,14,Divorced,Master,Approved
+74,93967,850,111927,Personal,40,0.12,2,Divorced,Bachelor,Rejected
+19,70537,720,75030,Home,1,0.44,13,Married,Master,Rejected
+32,24746,764,63151,Home,10,0.46,6,Single,High School,Rejected
+28,51866,623,39047,Education,9,0.65,13,Single,High School,Rejected
+25,47792,618,138293,Personal,3,0.49,10,Married,High School,Rejected
+43,89401,786,10164,Auto,21,0.29,1,Married,Master,Approved
+68,89256,850,38622,Education,40,0.12,11,Single,High School,Approved
+62,99675,711,40980,Home,40,0.43,7,Single,High School,Approved
+61,82363,755,124528,Auto,40,0.3,10,Married,High School,Rejected
+22,38107,742,89688,Auto,1,0.4,2,Married,High School,Rejected
+23,22321,736,83066,Home,1,0.24,5,Single,High School,Rejected
+43,97325,850,124947,Auto,23,0.32,14,Single,PhD,Rejected
+71,107959,850,93660,Personal,40,0.1,7,Divorced,Bachelor,Approved
+21,44733,737,113115,Personal,0,0.19,10,Married,Bachelor,Rejected
+36,51789,774,38043,Education,16,0.17,11,Married,Bachelor,Approved
+37,66653,684,126886,Education,15,0.48,9,Married,High School,Rejected
+50,73852,805,82831,Auto,32,0.23,14,Single,High School,Approved
+37,57606,703,71250,Home,15,0.56,1,Single,High School,Rejected
+66,106051,842,71345,Personal,40,0.23,9,Single,High School,Approved
+29,59476,587,90898,Business,8,0.66,11,Married,Bachelor,Rejected
+64,102732,850,136108,Education,40,0.06,5,Married,High School,Approved
+18,21369,688,95034,Personal,0,0.41,6,Single,High School,Rejected
+43,93709,711,98923,Auto,23,0.36,14,Divorced,Bachelor,Rejected
+31,68241,772,15273,Personal,11,0.17,8,Single,Master,Approved
+55,105288,850,132419,Personal,34,0.27,11,Divorced,Master,Approved
+54,94953,797,57460,Auto,33,0.31,14,Divorced,Master,Approved
+28,62684,739,115803,Education,10,0.39,2,Single,Bachelor,Rejected
+53,85809,758,81939,Education,33,0.21,12,Single,High School,Approved
+30,69168,727,19017,Business,11,0.41,7,Married,Bachelor,Approved
+60,75684,829,87901,Business,40,0.37,12,Married,High School,Rejected
+20,51749,599,118000,Education,2,0.47,4,Married,Bachelor,Rejected
+50,92619,789,44215,Education,29,0.22,9,Divorced,Bachelor,Approved
+23,39147,779,17583,Education,2,0.29,6,Married,High School,Approved
+67,97272,738,52025,Education,40,0.57,7,Single,Bachelor,Rejected
+73,94946,794,62943,Personal,40,0.21,11,Single,Master,Rejected
+27,46064,818,145586,Business,6,0.14,6,Married,High School,Approved
+22,58541,698,6511,Auto,0,0.26,11,Single,Master,Approved
+40,61302,791,87151,Home,19,0.08,8,Married,High School,Approved
+27,51553,622,29225,Auto,5,0.6,6,Single,Bachelor,Rejected
+61,107345,850,34152,Home,40,0.31,7,Single,Bachelor,Approved
+19,53871,652,111053,Personal,1,0.31,8,Single,Bachelor,Rejected
+30,54929,626,71107,Business,9,0.46,1,Married,Master,Rejected
+57,126910,827,129387,Home,37,0.24,10,Single,Master,Approved
+19,43178,738,65910,Education,0,0.32,12,Married,Bachelor,Rejected
+37,73270,760,47530,Personal,18,0.24,4,Married,High School,Approved
+18,55405,801,83753,Home,0,0.09,6,Married,Master,Approved
+54,75684,720,46999,Education,35,0.36,1,Married,High School,Approved
+26,66016,692,11609,Personal,5,0.5,4,Single,Master,Approved
+34,55999,752,54322,Home,14,0.36,6,Married,High School,Approved
+26,36256,753,10151,Education,6,0.49,7,Single,High School,Approved
+28,62725,850,11406,Business,8,0.19,13,Married,Bachelor,Approved
+32,44128,763,67678,Personal,12,0.24,6,Single,High School,Approved
+41,64848,751,52062,Home,23,0.16,11,Married,High School,Approved
+55,107865,780,116377,Education,37,0.4,4,Divorced,High School,Rejected
+72,93572,810,58830,Business,40,0.3,12,Married,High School,Approved
+52,83874,780,18133,Education,33,0.3,13,Married,High School,Approved
+47,54274,654,17209,Business,26,0.45,7,Married,High School,Approved
+48,99042,793,114828,Home,27,0.28,10,Single,Bachelor,Approved
+66,100664,766,79681,Education,40,0.51,14,Divorced,High School,Approved
+22,39355,767,59345,Education,1,0.39,2,Single,Bachelor,Rejected
+61,100467,777,47585,Auto,40,0.3,6,Divorced,High School,Approved
+67,123298,824,39638,Personal,40,0.12,5,Married,Master,Approved
+31,78464,685,25645,Education,12,0.45,2,Married,Master,Approved
+70,102909,833,23408,Business,40,0.39,9,Married,High School,Approved
+73,99877,850,17521,Personal,40,0.4,13,Married,Bachelor,Approved
+28,64776,776,92414,Home,8,0.4,7,Married,Master,Rejected
+26,86075,790,133432,Personal,6,0.27,14,Single,PhD,Approved
+51,93782,776,128520,Auto,29,0.33,3,Married,Bachelor,Rejected
+29,51663,765,43221,Home,8,0.28,7,Married,High School,Approved
+52,92990,730,105131,Education,33,0.54,11,Divorced,Bachelor,Rejected
+52,84502,772,21923,Home,32,0.31,11,Married,Bachelor,Approved
+18,70285,794,86761,Home,0,0.26,6,Single,Bachelor,Approved
+57,74634,638,12202,Auto,37,0.55,7,Single,High School,Approved
+39,90551,625,100675,Business,20,0.53,4,Married,Master,Rejected
+46,121797,670,115443,Home,26,0.39,13,Single,PhD,Approved
+25,50511,698,16218,Business,6,0.33,13,Single,High School,Approved
+28,36328,821,50692,Personal,8,0.29,10,Married,High School,Approved
+58,65250,724,102148,Auto,36,0.34,13,Married,High School,Rejected
+54,102097,757,11716,Education,32,0.22,8,Married,Master,Approved
+31,71613,678,21088,Home,12,0.42,8,Single,Bachelor,Approved
+47,88874,746,36001,Business,25,0.6,7,Married,Bachelor,Rejected
+52,101201,819,136022,Home,33,0.43,13,Single,Bachelor,Rejected
+38,76116,850,9286,Auto,16,0.18,7,Married,Bachelor,Approved
+54,91400,809,140811,Education,32,0.42,10,Single,High School,Rejected
+22,41741,801,35158,Personal,3,0.38,13,Divorced,Bachelor,Rejected
+36,55521,639,105393,Personal,15,0.42,13,Married,Bachelor,Approved
+31,92204,717,10605,Business,9,0.23,8,Married,PhD,Approved
+43,84014,724,61492,Personal,23,0.35,1,Married,Master,Approved
+21,47390,691,8321,Business,0,0.48,6,Married,Master,Approved
+42,91739,811,17170,Education,23,0.19,2,Single,Bachelor,Approved
+62,107503,814,61045,Home,40,0.28,1,Married,Bachelor,Approved
+59,105284,838,145005,Auto,40,0.31,12,Single,Bachelor,Rejected
+42,96492,617,145978,Education,24,0.5,10,Divorced,Master,Rejected
+35,48438,688,115540,Education,13,0.52,7,Married,High School,Rejected
+57,94672,850,106101,Personal,35,0.06,6,Single,High School,Approved
+25,22353,671,5818,Personal,5,0.5,5,Married,High School,Rejected
+56,81939,735,13434,Auto,35,0.53,5,Single,Bachelor,Approved
+57,79136,781,126494,Home,39,0.52,9,Single,High School,Rejected
+31,46391,768,35571,Education,9,0.27,9,Divorced,High School,Approved
+49,90053,850,45694,Personal,28,0.32,12,Married,High School,Approved
+68,98690,850,99426,Education,40,0.11,12,Married,High School,Approved
+55,115424,850,123792,Home,33,0.05,6,Single,Master,Approved
+50,77201,811,50485,Business,32,0.3,13,Single,High School,Approved
+40,64674,788,148141,Home,22,0.36,3,Divorced,Bachelor,Rejected
+32,65149,819,62198,Education,10,0.38,7,Single,Bachelor,Approved
+50,126759,791,103316,Education,31,0.47,4,Single,Master,Approved
+42,57599,645,93970,Auto,20,0.81,5,Married,High School,Rejected
+34,87393,727,77928,Education,12,0.29,7,Married,PhD,Approved
+50,87647,838,92798,Personal,30,0.19,12,Married,Bachelor,Approved
+64,140997,795,57290,Auto,40,0.43,7,Single,PhD,Approved
+72,121117,831,127664,Education,40,0.38,10,Single,Master,Approved
+19,39100,712,148004,Home,0,0.26,8,Single,High School,Rejected
+31,47665,737,16766,Education,12,0.49,1,Divorced,High School,Approved
+70,87589,850,93247,Home,40,0.23,5,Single,High School,Approved
+57,102790,725,18292,Home,37,0.33,12,Married,Bachelor,Approved
+57,81603,723,77944,Education,38,0.34,9,Married,High School,Approved
+68,107407,850,111446,Home,40,0.21,7,Married,High School,Approved
+56,104231,813,39533,Business,34,0.09,11,Divorced,Bachelor,Approved
+68,79003,850,85773,Auto,40,0.38,12,Single,High School,Rejected
+23,24042,653,129433,Education,1,0.56,13,Single,High School,Rejected
+23,53653,705,141850,Business,2,0.49,2,Married,Bachelor,Rejected
+20,31833,695,40059,Home,0,0.5,1,Single,High School,Rejected
+24,37525,731,127418,Home,3,0.23,8,Married,High School,Rejected
+68,103078,850,140938,Auto,40,0.38,9,Married,Bachelor,Rejected
+25,60051,782,78965,Business,7,0.14,10,Divorced,Bachelor,Approved
+59,115313,778,65661,Business,38,0.38,5,Single,Master,Approved
+69,110633,636,48352,Education,40,0.56,14,Divorced,Bachelor,Rejected
+32,70730,612,115051,Home,12,0.56,11,Single,Bachelor,Rejected
+64,121067,755,93373,Personal,40,0.65,6,Married,Bachelor,Rejected
+46,95353,719,39075,Education,27,0.5,2,Married,Master,Approved
+50,104888,719,96931,Education,30,0.42,11,Married,Master,Approved
+69,107810,730,29104,Education,40,0.48,5,Married,Master,Approved
+47,103762,762,70827,Auto,27,0.45,12,Divorced,Bachelor,Approved
+56,61245,850,74222,Auto,34,0.23,4,Divorced,High School,Approved
+44,85828,801,137714,Education,26,0.12,8,Divorced,High School,Approved
+53,80434,789,102013,Personal,33,0.48,8,Single,High School,Rejected
+46,101684,661,67845,Business,25,0.66,14,Divorced,Master,Rejected
+55,97343,760,13769,Business,36,0.49,5,Married,Bachelor,Approved
+74,105311,802,100369,Home,40,0.07,11,Single,Bachelor,Approved
+50,82380,713,55375,Business,31,0.27,8,Single,High School,Approved
+54,94633,825,17268,Business,34,0.32,6,Single,Master,Rejected
+44,56478,850,146916,Personal,22,0.07,10,Single,High School,Approved
+72,81549,850,79174,Business,40,0.14,6,Married,High School,Approved
+50,77974,717,107677,Personal,29,0.34,13,Divorced,High School,Rejected
+21,45043,693,147305,Auto,0,0.39,13,Married,Bachelor,Approved
+39,82680,714,35496,Personal,21,0.2,4,Married,Bachelor,Approved
+19,61647,745,83807,Auto,0,0.14,10,Divorced,Master,Rejected
+27,49585,680,24465,Personal,6,0.53,12,Single,High School,Approved
+22,40597,761,144322,Education,2,0.29,11,Divorced,Bachelor,Approved
+27,56081,710,65503,Auto,7,0.31,3,Married,Bachelor,Rejected
+50,83093,822,26310,Auto,28,0.27,9,Married,High School,Approved
+71,129093,834,135301,Business,40,0.23,5,Single,Master,Approved
+55,82703,707,98518,Auto,35,0.55,10,Married,Bachelor,Rejected
+30,46788,783,37206,Personal,8,0.22,10,Single,Bachelor,Approved
+48,99682,850,14764,Education,27,0.38,4,Married,Master,Approved
+64,102651,782,148914,Education,40,0.35,6,Single,Bachelor,Rejected
+53,78845,850,139048,Business,33,0.06,14,Divorced,High School,Approved
+62,112961,804,143498,Personal,40,0.39,4,Single,Bachelor,Rejected
+41,61393,813,31710,Personal,19,0.12,6,Single,High School,Approved
+69,93476,692,46387,Home,40,0.45,10,Married,High School,Approved
+73,96706,826,142558,Auto,40,0.17,8,Single,High School,Approved
+32,76741,723,117418,Business,14,0.43,8,Married,Bachelor,Rejected
+46,54939,778,27623,Education,27,0.29,12,Divorced,Bachelor,Approved
+25,32133,827,28806,Home,4,0.25,6,Married,High School,Approved
+22,42170,681,142045,Personal,4,0.38,1,Single,Bachelor,Rejected
+46,103753,822,119162,Auto,26,0.13,13,Married,Master,Approved
+64,85378,820,10521,Education,40,0.34,1,Married,High School,Approved
+21,33758,677,17891,Home,2,0.47,14,Married,High School,Rejected
+29,65521,740,87331,Personal,8,0.51,3,Single,Bachelor,Rejected
+62,83970,754,27474,Education,40,0.28,2,Married,High School,Approved
+19,48628,661,15687,Education,0,0.3,1,Married,Bachelor,Approved
+44,83038,813,103550,Personal,25,0.13,1,Single,High School,Approved
+48,93816,797,147081,Personal,27,0.24,12,Single,Bachelor,Approved
+68,89142,850,93762,Business,40,0.12,12,Married,Bachelor,Approved
+68,102082,784,93484,Education,40,0.42,12,Married,Bachelor,Approved
+53,113058,716,105475,Personal,33,0.48,6,Divorced,Master,Approved
+53,115027,719,49291,Home,33,0.28,7,Married,Master,Approved
+43,79976,801,53296,Auto,25,0.19,8,Single,Bachelor,Approved
+60,98602,719,45225,Business,40,0.4,3,Single,Bachelor,Approved
+44,68177,803,39828,Personal,25,0.22,1,Divorced,High School,Approved
+22,40131,642,38712,Auto,4,0.45,5,Divorced,Bachelor,Rejected
+37,66497,682,31823,Business,17,0.64,8,Divorced,High School,Rejected
+28,87686,850,141433,Education,6,0.22,12,Married,Master,Approved
+27,44446,732,96374,Auto,7,0.24,11,Single,High School,Rejected
+57,99675,782,85174,Business,38,0.13,14,Married,Bachelor,Approved
+55,90409,828,43052,Personal,34,0.37,11,Married,High School,Approved
+23,57219,814,28265,Personal,3,0.36,4,Single,Bachelor,Approved
+25,63244,682,95287,Business,4,0.31,2,Married,Master,Approved
+40,56521,749,47012,Education,18,0.35,9,Single,High School,Approved
+64,113904,850,15916,Business,40,0.19,12,Single,Master,Approved
+43,69146,821,130462,Home,25,0.1,13,Married,High School,Approved
+63,107989,736,80045,Business,40,0.24,9,Married,Bachelor,Approved
+60,109198,802,94860,Business,38,0.06,3,Divorced,Master,Approved
+29,35753,714,47634,Personal,11,0.22,7,Single,High School,Rejected
+43,99239,693,100479,Education,25,0.4,13,Single,PhD,Rejected
+30,52165,741,79992,Business,12,0.36,1,Single,High School,Approved
+57,88385,850,16369,Auto,39,0.08,8,Single,High School,Approved
+35,81664,632,24329,Personal,15,0.51,8,Single,Master,Approved
+42,67645,727,91700,Personal,22,0.32,13,Married,High School,Rejected
+50,110990,772,107960,Business,30,0.16,3,Married,PhD,Approved
+64,124297,821,17410,Auto,40,0.3,12,Married,PhD,Approved
+57,84910,765,138737,Business,35,0.26,5,Divorced,High School,Approved
+60,84713,773,7684,Auto,38,0.22,4,Married,Bachelor,Approved
+29,42410,622,24887,Personal,10,0.47,7,Single,High School,Approved
+61,128164,850,142252,Auto,39,0.18,11,Single,Bachelor,Approved
+53,66014,850,51779,Business,33,0.38,7,Divorced,High School,Approved
+65,85702,850,73095,Home,40,0.15,11,Married,High School,Approved
+21,20000,802,132510,Home,2,0.34,8,Married,High School,Rejected
+22,47162,687,106261,Auto,3,0.39,5,Divorced,Bachelor,Rejected
+73,154665,792,61068,Business,40,0.39,13,Divorced,PhD,Approved
+54,114169,804,23113,Education,33,0.36,11,Divorced,Master,Approved
+25,47862,705,47861,Home,6,0.31,5,Married,Bachelor,Approved
+59,126814,823,83487,Personal,40,0.19,8,Single,Bachelor,Approved
+66,102576,827,30617,Business,40,0.19,5,Divorced,Master,Approved
+45,75039,770,103330,Business,27,0.39,13,Married,High School,Rejected
+48,87649,826,138655,Home,28,0.16,14,Single,Bachelor,Approved
+26,81529,764,31250,Education,6,0.13,13,Married,PhD,Approved
+71,98070,722,8055,Personal,40,0.56,1,Married,High School,Rejected
+68,93180,850,77337,Education,40,0.31,11,Divorced,Bachelor,Approved
+46,105126,762,132615,Personal,28,0.45,3,Married,Master,Rejected
+31,78356,725,107255,Home,11,0.48,2,Single,Master,Rejected
+57,94789,850,65532,Business,39,0.36,12,Divorced,Bachelor,Approved
+58,104999,742,94376,Personal,37,0.29,10,Married,High School,Approved
+39,59681,805,14933,Business,21,0.3,5,Married,High School,Approved
+28,37613,667,36979,Auto,6,0.59,13,Single,High School,Rejected
+40,67723,797,50047,Auto,22,0.27,8,Single,Bachelor,Approved
+18,28366,723,9137,Home,0,0.38,9,Married,High School,Approved
+63,143347,723,16423,Home,40,0.45,9,Single,Master,Approved
+54,75472,712,94851,Home,32,0.39,1,Single,High School,Rejected
+38,60687,703,39482,Auto,17,0.51,1,Married,High School,Approved
+43,92005,737,57483,Personal,25,0.29,1,Married,Bachelor,Approved
+63,103185,740,39754,Education,40,0.45,1,Married,Bachelor,Approved
+53,73904,850,28363,Home,32,0.08,9,Single,High School,Approved
+71,109722,679,22085,Education,40,0.55,1,Married,Bachelor,Approved
+40,74087,694,61889,Education,21,0.52,7,Married,Bachelor,Approved
+74,86681,850,107090,Auto,40,0.3,6,Single,High School,Rejected
+18,39398,676,84951,Personal,0,0.42,9,Single,High School,Rejected
+71,119305,834,133227,Auto,40,0.48,11,Married,Master,Rejected
+72,117132,772,134925,Home,40,0.19,9,Divorced,Bachelor,Approved
+68,89080,850,61414,Auto,40,0.33,4,Married,High School,Approved
+57,102328,840,122159,Auto,37,0.15,9,Single,Master,Approved
+32,57242,625,91934,Auto,11,0.52,14,Single,PhD,Rejected
+38,50618,756,37691,Home,16,0.47,13,Divorced,Bachelor,Approved
+64,88340,825,59697,Home,40,0.31,14,Single,Bachelor,Approved
+26,73165,820,139116,Auto,7,0.29,6,Married,Master,Approved
+70,125286,729,8883,Auto,40,0.33,5,Married,PhD,Approved
+26,31258,719,36712,Education,4,0.22,9,Single,Bachelor,Rejected
+27,54190,781,118655,Personal,7,0.32,7,Married,Bachelor,Rejected
+69,94181,850,26545,Education,40,0.19,9,Married,Bachelor,Approved
+74,109630,794,23204,Personal,40,0.48,5,Married,Bachelor,Approved
+70,94382,785,28268,Personal,40,0.52,4,Single,High School,Approved
+43,86440,678,89383,Auto,24,0.49,10,Single,Bachelor,Rejected
+58,92917,826,124755,Education,39,0.17,3,Married,Master,Approved
+52,91954,751,101940,Personal,31,0.32,5,Married,Bachelor,Rejected
+69,103785,797,33436,Personal,40,0.44,9,Single,Bachelor,Approved
+42,67283,769,140197,Home,23,0.47,3,Single,Bachelor,Rejected
+43,44625,850,103524,Personal,24,0.07,1,Single,High School,Approved
+28,57413,743,91842,Auto,9,0.46,2,Divorced,Bachelor,Rejected
+55,105141,832,47973,Business,33,0.16,10,Married,Bachelor,Approved
+19,20000,796,81369,Home,0,0.33,5,Divorced,High School,Rejected
+24,29174,631,92533,Business,5,0.54,3,Single,High School,Rejected
+35,98815,767,38521,Auto,15,0.52,6,Divorced,PhD,Approved
+44,77249,665,143560,Business,24,0.55,11,Single,High School,Rejected
+51,70376,820,44974,Personal,29,0.19,8,Married,High School,Approved
+44,127310,738,128900,Business,22,0.23,6,Married,PhD,Approved
+34,51046,796,47448,Education,16,0.27,10,Single,Bachelor,Rejected
+60,84830,798,12938,Auto,40,0.33,9,Married,Bachelor,Approved
+61,130177,813,109262,Education,40,0.38,6,Single,Master,Approved
+68,66503,652,54934,Business,40,0.54,14,Single,High School,Approved
+71,109615,849,70526,Education,40,0.21,5,Married,Bachelor,Approved
+41,70554,804,102204,Home,19,0.26,4,Married,Bachelor,Approved
+42,83989,644,26487,Business,22,0.56,2,Married,Master,Rejected
+24,43733,809,17869,Education,2,0.18,6,Married,Bachelor,Approved
+69,92109,650,119576,Personal,40,0.46,2,Married,Bachelor,Rejected
+23,49316,727,87209,Business,5,0.34,5,Single,Bachelor,Rejected
+70,105174,850,87299,Home,40,0.41,1,Single,Bachelor,Approved
+41,75337,786,49933,Personal,23,0.23,3,Divorced,Bachelor,Approved
+50,85650,702,81579,Business,31,0.46,10,Single,Bachelor,Approved
+66,107541,820,145642,Personal,40,0.25,5,Married,Bachelor,Approved
+46,99095,832,142958,Business,25,0.14,13,Single,Bachelor,Approved
+60,100837,808,95177,Business,39,0.42,13,Married,Bachelor,Approved
+39,80199,849,72719,Auto,18,0.05,7,Married,Bachelor,Approved
+43,86338,823,99606,Education,24,0.26,8,Single,Master,Approved
+45,70659,754,139846,Business,26,0.39,7,Single,Bachelor,Rejected
+67,124533,723,34018,Home,40,0.46,7,Married,Master,Approved
+38,83164,626,90839,Education,17,0.53,11,Single,Master,Rejected
+66,116294,732,38545,Auto,40,0.62,2,Single,Bachelor,Rejected
+24,62754,541,7566,Education,3,0.57,6,Married,Bachelor,Rejected
+34,86390,649,81489,Education,12,0.38,5,Single,Master,Approved
+37,78673,629,70355,Business,17,0.52,11,Divorced,Bachelor,Approved
+58,84246,809,77940,Home,39,0.38,9,Married,Master,Approved
+66,109445,688,131731,Business,40,0.45,12,Single,Bachelor,Rejected
+37,80628,800,103382,Home,18,0.26,10,Married,Bachelor,Approved
+71,77282,729,128865,Home,40,0.42,11,Married,High School,Rejected
+39,75087,767,27129,Personal,20,0.28,4,Single,Bachelor,Approved
+45,102072,767,35845,Business,25,0.32,12,Married,PhD,Approved
+57,113775,751,84449,Auto,39,0.42,7,Single,Bachelor,Approved
+66,95440,667,15739,Education,40,0.66,11,Single,Bachelor,Rejected
+24,61071,634,138745,Personal,6,0.41,8,Single,Master,Rejected
+18,40359,723,36171,Auto,0,0.35,14,Single,Bachelor,Approved
+49,113994,833,94179,Business,31,0.23,6,Single,Bachelor,Approved
+30,71546,733,105022,Home,11,0.48,3,Married,Bachelor,Rejected
+47,98626,784,146696,Business,25,0.3,11,Married,Bachelor,Rejected
+40,43368,751,113906,Business,21,0.41,5,Married,High School,Rejected
+68,92307,726,57930,Personal,40,0.46,1,Married,Bachelor,Approved
+73,118385,770,54649,Auto,40,0.54,14,Married,Bachelor,Approved
+36,37898,731,68503,Personal,17,0.48,13,Married,High School,Rejected
+49,84783,808,121659,Auto,31,0.17,8,Married,Bachelor,Approved
+47,103053,845,101875,Personal,25,0.09,12,Single,Bachelor,Approved
+46,57865,731,143659,Education,25,0.46,12,Divorced,High School,Rejected
+66,86790,812,139599,Home,40,0.36,12,Single,Bachelor,Rejected
+62,90474,693,56538,Home,40,0.41,11,Single,High School,Approved
+46,64702,608,42455,Home,25,0.61,2,Married,Bachelor,Rejected
+47,112872,717,25243,Education,27,0.26,13,Single,Master,Approved
+33,58551,664,128793,Education,15,0.54,10,Single,Bachelor,Rejected
+57,77547,830,116371,Home,39,0.26,7,Married,High School,Approved
+36,54293,566,74231,Home,16,0.58,9,Married,High School,Rejected
+35,48455,718,79648,Auto,15,0.46,1,Married,High School,Rejected
+18,47523,849,37059,Auto,0,0.12,13,Married,Bachelor,Approved
+31,51715,773,77778,Business,11,0.29,4,Single,High School,Approved
+68,102827,609,80477,Personal,40,0.64,7,Single,Bachelor,Rejected
+64,78385,736,60283,Auto,40,0.62,14,Married,High School,Rejected
+67,127305,780,68853,Auto,40,0.44,9,Single,Master,Approved
+19,23065,690,25001,Auto,0,0.4,2,Married,High School,Rejected
+71,81309,799,7700,Auto,40,0.39,2,Single,High School,Approved
+45,98926,673,122990,Education,25,0.42,6,Married,Master,Rejected
+66,70713,802,18339,Business,40,0.33,3,Married,High School,Approved
+67,93908,764,131378,Auto,40,0.53,4,Married,High School,Rejected
+47,90457,704,34543,Personal,29,0.44,3,Married,Bachelor,Approved
+55,107218,797,40930,Auto,34,0.21,13,Married,Bachelor,Approved
+68,99996,739,34044,Education,40,0.45,1,Single,Bachelor,Approved
+21,43248,695,83673,Home,0,0.37,14,Single,High School,Rejected
+18,50296,694,117997,Home,0,0.3,14,Single,Bachelor,Rejected
+25,38732,608,88725,Business,6,0.63,6,Married,High School,Rejected
+46,88666,785,31012,Home,27,0.37,11,Single,High School,Approved
+72,120952,803,83513,Auto,40,0.06,11,Married,Master,Approved
+56,96816,799,102585,Education,38,0.31,13,Single,Bachelor,Rejected
+20,31238,706,26694,Business,0,0.5,2,Married,High School,Rejected
+49,83110,742,103760,Auto,29,0.21,2,Divorced,Bachelor,Rejected
+27,47236,688,37835,Home,9,0.49,7,Single,High School,Approved
+27,85206,734,123777,Personal,8,0.2,5,Single,Master,Rejected
+36,50919,745,23186,Auto,14,0.55,8,Single,High School,Approved
+63,90901,804,49391,Personal,40,0.26,14,Married,High School,Approved
+51,99478,850,110858,Personal,31,0.3,2,Married,Bachelor,Rejected
+50,98872,850,109199,Business,28,0.29,13,Single,Bachelor,Approved
+40,67473,743,33401,Education,18,0.44,10,Married,Bachelor,Approved
+72,91723,827,102764,Home,40,0.63,8,Single,High School,Rejected
+45,74022,683,63611,Home,24,0.35,7,Married,High School,Approved
+49,91799,841,17202,Auto,29,0.35,13,Married,Bachelor,Approved
+67,71379,807,38135,Home,40,0.26,10,Married,High School,Approved
+24,74327,797,93121,Business,3,0.11,14,Single,Master,Approved
+46,77228,762,118944,Home,28,0.28,8,Divorced,High School,Approved
+25,61439,716,118765,Auto,7,0.16,11,Married,Bachelor,Rejected
+18,33078,835,68535,Home,0,0.07,3,Single,Bachelor,Approved
+74,91523,747,122328,Education,40,0.34,8,Single,High School,Rejected
+72,113433,797,140579,Personal,40,0.27,6,Married,Bachelor,Approved
+20,51194,635,120473,Personal,0,0.56,2,Married,Master,Rejected
+41,53794,844,118056,Personal,20,0.22,6,Married,High School,Approved
+40,95604,721,20475,Education,18,0.45,5,Married,Master,Approved
+25,47328,581,84870,Business,6,0.45,3,Divorced,Bachelor,Rejected
+71,87914,696,89366,Auto,40,0.55,1,Single,High School,Rejected
+74,94653,736,128836,Education,40,0.32,7,Single,Bachelor,Rejected
+64,108199,756,97814,Auto,40,0.55,2,Divorced,High School,Approved
+54,104206,691,89285,Business,36,0.43,1,Married,Bachelor,Approved
+20,42446,643,45185,Education,0,0.52,1,Married,Bachelor,Rejected
+68,115576,776,69398,Home,40,0.71,7,Married,Master,Rejected
+50,107716,807,101682,Business,30,0.33,12,Divorced,PhD,Approved
+45,79898,696,81593,Personal,24,0.38,1,Married,Bachelor,Rejected
+64,111650,848,112518,Education,40,0.3,9,Married,Bachelor,Rejected
+25,27901,627,60535,Business,4,0.58,6,Married,High School,Rejected
+51,95555,695,114626,Business,33,0.74,4,Single,Bachelor,Rejected
+52,71326,719,119190,Education,30,0.46,12,Married,High School,Rejected
+49,103801,792,19060,Personal,30,0.11,4,Single,Bachelor,Approved
+41,67133,743,149679,Personal,19,0.22,13,Divorced,Bachelor,Rejected
+31,51271,703,68560,Business,9,0.52,12,Married,High School,Rejected
+49,85940,850,94610,Auto,28,0.18,14,Married,High School,Approved
+73,86228,850,37970,Business,40,0.26,5,Married,High School,Approved
+63,99114,796,49088,Education,40,0.25,2,Single,Bachelor,Approved
+60,114227,698,16683,Education,40,0.34,5,Single,Bachelor,Approved
+33,46687,700,139034,Education,13,0.39,2,Divorced,Bachelor,Rejected
+21,53805,748,105631,Personal,3,0.07,12,Divorced,Bachelor,Rejected
+69,89246,850,116789,Home,40,0.12,4,Single,Bachelor,Approved
+54,90224,823,50321,Education,32,0.12,10,Divorced,High School,Approved
+71,87479,850,68565,Education,40,0.14,11,Married,High School,Approved
+38,68092,734,125454,Auto,16,0.35,14,Married,Bachelor,Rejected
+31,55757,754,87095,Auto,12,0.38,5,Single,Bachelor,Rejected
+48,59172,757,118610,Business,30,0.5,6,Divorced,High School,Rejected
+72,102658,850,8532,Business,40,0.43,6,Married,High School,Approved
+65,88289,795,119527,Business,40,0.26,9,Divorced,High School,Approved
+35,99587,789,88463,Education,15,0.38,4,Married,Bachelor,Approved
+24,26398,697,10456,Auto,3,0.51,13,Married,High School,Approved
+27,47533,716,8413,Business,6,0.32,14,Married,Bachelor,Approved
+24,55527,719,12085,Auto,3,0.3,5,Single,Master,Approved
+50,70238,836,25563,Education,28,0.21,6,Single,High School,Approved
+40,119252,776,42575,Education,19,0.23,4,Single,PhD,Approved
+38,85101,726,12386,Business,20,0.45,6,Single,Bachelor,Approved
+36,52454,782,105244,Education,15,0.35,2,Married,Bachelor,Rejected
+65,117041,829,64150,Education,40,0.64,12,Married,Bachelor,Rejected
+36,74327,781,131053,Auto,15,0.25,13,Divorced,Bachelor,Approved
+53,99313,683,81566,Home,33,0.46,7,Single,Bachelor,Approved
+46,77157,766,149210,Personal,26,0.41,3,Married,Bachelor,Rejected
+35,43400,727,134549,Business,13,0.34,14,Single,High School,Rejected
+19,32870,837,33812,Home,1,0.28,10,Single,High School,Approved
+18,24468,670,93958,Business,0,0.44,4,Single,High School,Rejected
+64,103126,767,81181,Home,40,0.43,9,Married,High School,Approved
+22,24040,750,19628,Education,0,0.38,12,Single,High School,Rejected
+37,34532,755,29486,Business,16,0.41,13,Married,High School,Approved
+28,40985,804,128934,Home,6,0.36,5,Single,Bachelor,Rejected
+59,107620,850,44266,Personal,40,0.1,9,Divorced,Master,Approved
+19,57366,836,93268,Education,0,0.36,10,Married,Master,Rejected
+20,47160,759,51557,Business,0,0.31,13,Divorced,Bachelor,Rejected
+40,77038,732,21494,Business,21,0.64,10,Divorced,Bachelor,Rejected
+72,124609,751,39486,Home,40,0.45,10,Divorced,Master,Approved
+29,54477,828,66635,Business,8,0.38,12,Divorced,Bachelor,Rejected
+37,54830,712,136197,Education,18,0.42,10,Married,High School,Rejected
+22,80518,848,53814,Auto,2,0.2,6,Single,Master,Approved
+54,111053,848,128141,Home,36,0.26,8,Single,Bachelor,Approved
+55,101583,795,67363,Personal,35,0.3,5,Single,Bachelor,Approved
+47,82666,822,48162,Business,29,0.41,5,Married,High School,Approved
+26,20000,752,132083,Education,5,0.28,3,Married,High School,Rejected
+51,96774,850,12590,Business,30,0.27,7,Divorced,Master,Approved
+70,100677,850,39850,Personal,40,0.19,2,Divorced,Bachelor,Approved
+61,81892,766,148206,Education,40,0.35,11,Married,High School,Approved
+52,65542,781,135091,Personal,34,0.37,12,Married,High School,Rejected
+69,109205,780,30230,Education,40,0.41,3,Divorced,Bachelor,Approved
+39,88857,762,20058,Auto,20,0.25,2,Single,Bachelor,Approved
+61,89871,781,84837,Education,40,0.41,13,Married,High School,Approved
+41,99481,823,108397,Personal,22,0.19,8,Single,Master,Approved
+34,53574,633,32039,Home,16,0.32,4,Married,High School,Approved
+27,34583,746,43334,Auto,6,0.4,10,Single,High School,Rejected
+47,93191,814,48525,Business,26,0.31,8,Divorced,Bachelor,Approved
+73,75718,850,131681,Auto,40,0.12,8,Married,High School,Approved
+63,101365,792,89194,Auto,40,0.13,8,Single,Master,Approved
+40,62077,694,8972,Business,21,0.38,8,Single,Bachelor,Approved
+49,95535,752,69936,Education,28,0.44,8,Married,Bachelor,Approved
+34,51872,695,96703,Auto,14,0.4,12,Divorced,High School,Rejected
+67,93765,708,114877,Auto,40,0.44,9,Married,High School,Rejected
+68,106769,788,34519,Home,40,0.31,2,Married,High School,Approved
+34,54366,694,107417,Home,14,0.46,9,Single,Bachelor,Rejected
+31,76541,675,80864,Personal,13,0.4,8,Married,Bachelor,Rejected
+26,66536,711,60881,Business,7,0.25,11,Married,Master,Approved
+57,92016,751,29732,Education,35,0.43,10,Married,Bachelor,Approved
+19,60812,637,80909,Education,0,0.39,1,Single,Master,Rejected
+62,107377,639,10720,Personal,40,0.6,14,Married,Bachelor,Rejected
+42,63894,699,64115,Education,24,0.56,5,Married,High School,Rejected
+56,91603,850,120843,Education,37,0.34,11,Divorced,High School,Rejected
+26,53352,789,56940,Home,5,0.29,2,Divorced,Bachelor,Approved
+71,88006,792,141225,Education,40,0.58,10,Married,High School,Rejected
+39,52837,638,76762,Education,18,0.43,5,Married,High School,Rejected
+60,107383,722,89833,Personal,40,0.32,13,Single,Bachelor,Approved
+63,106433,850,23206,Personal,40,0.05,8,Married,Master,Approved
+21,20000,802,96471,Auto,0,0.24,9,Married,High School,Rejected
+43,72825,828,100169,Education,21,0.23,9,Single,Bachelor,Approved
+46,102948,703,15736,Education,25,0.33,1,Single,Master,Approved
+62,126428,816,111937,Education,40,0.44,7,Married,Bachelor,Approved
+51,77906,732,143043,Home,33,0.47,12,Single,High School,Rejected
+40,42257,726,61577,Education,20,0.58,11,Married,High School,Rejected
+54,91097,703,136003,Home,36,0.49,8,Married,Bachelor,Rejected
+28,66588,718,92702,Auto,10,0.15,10,Single,Bachelor,Rejected
+23,51797,725,83694,Business,1,0.5,3,Single,Master,Rejected
+35,54442,692,96310,Education,15,0.61,13,Married,Bachelor,Rejected
+38,62036,613,60155,Personal,17,0.6,6,Married,High School,Rejected
+59,93148,804,133491,Personal,39,0.17,11,Single,High School,Approved
+53,76774,817,147180,Education,31,0.32,3,Divorced,Bachelor,Rejected
+58,81050,749,82613,Home,40,0.49,9,Married,High School,Rejected
+55,91946,850,61938,Personal,33,0.18,13,Married,High School,Approved
+51,101528,822,106163,Personal,32,0.09,3,Married,Bachelor,Approved
+34,40526,803,73498,Auto,15,0.4,2,Divorced,High School,Rejected
+54,59611,800,22751,Auto,33,0.25,9,Married,High School,Approved
+42,77685,713,116161,Auto,20,0.11,11,Single,Bachelor,Rejected
+55,78039,727,37390,Personal,34,0.53,13,Divorced,High School,Approved
+29,43817,761,106213,Personal,8,0.37,14,Married,High School,Rejected
+40,82846,793,113712,Education,21,0.27,8,Single,Bachelor,Approved
+70,110437,822,65403,Education,40,0.21,8,Married,Master,Approved
+59,85678,677,31859,Home,40,0.38,2,Married,High School,Approved
+39,67509,697,104124,Personal,21,0.43,6,Divorced,Bachelor,Rejected
+38,45367,709,130940,Education,16,0.4,13,Married,High School,Rejected
+44,85147,796,32100,Education,23,0.12,13,Single,Bachelor,Approved
+74,121440,815,122350,Auto,40,0.42,5,Married,Master,Rejected
+48,71370,719,126792,Auto,28,0.45,14,Married,Bachelor,Rejected
+23,70251,814,59524,Auto,2,0.3,12,Single,Master,Approved
+44,65499,702,107757,Business,26,0.51,2,Married,High School,Approved
+57,96211,850,90049,Education,39,0.22,5,Married,High School,Approved
+51,96352,724,49974,Auto,31,0.54,4,Single,Master,Approved
+29,35743,745,58768,Auto,10,0.37,9,Married,High School,Rejected
+62,92517,776,53544,Personal,40,0.28,12,Single,High School,Rejected
+74,94035,752,16774,Auto,40,0.3,1,Single,Bachelor,Approved
+70,117251,751,82678,Personal,40,0.5,6,Single,Master,Approved
+24,55399,804,55135,Home,5,0.39,7,Single,Master,Approved
+27,39586,683,30158,Auto,9,0.45,12,Married,High School,Approved
+62,119681,708,76587,Personal,40,0.51,6,Single,Master,Approved
+34,51152,761,140187,Auto,14,0.27,5,Married,High School,Approved
+43,57852,842,64317,Home,21,0.37,12,Single,High School,Rejected
+38,75333,801,11371,Auto,18,0.32,4,Divorced,Bachelor,Approved
+45,68977,777,99226,Personal,25,0.5,5,Married,High School,Rejected
+63,89106,707,44355,Home,40,0.29,9,Married,High School,Approved
+19,38741,680,102956,Home,0,0.36,5,Single,Bachelor,Rejected
+71,100682,658,118538,Home,40,0.69,10,Married,High School,Rejected
+60,92362,783,107126,Business,39,0.54,8,Single,High School,Rejected
+18,20000,801,13338,Personal,0,0.19,7,Divorced,High School,Rejected
+68,111488,809,7477,Business,40,0.49,4,Married,Bachelor,Approved
+70,113754,675,47423,Home,40,0.45,10,Married,Bachelor,Approved
+53,96684,850,80973,Business,35,0.18,5,Married,Bachelor,Approved
+68,104849,834,34236,Auto,40,0.33,7,Single,Bachelor,Approved
+43,57411,755,136440,Business,22,0.21,6,Married,Bachelor,Approved
+46,93565,844,30839,Education,28,0.05,13,Married,Master,Approved
+38,68436,713,122537,Home,20,0.33,3,Married,High School,Approved
+28,35673,754,116902,Home,9,0.27,10,Married,High School,Approved
+57,115401,850,106051,Personal,38,0.18,3,Single,Master,Approved
+28,36413,807,12139,Auto,10,0.35,2,Single,High School,Approved
+53,128308,817,113314,Personal,34,0.05,14,Married,PhD,Approved
+66,108937,768,69262,Business,40,0.36,3,Married,Bachelor,Approved
+56,101704,723,142776,Education,35,0.35,11,Married,Bachelor,Rejected
+57,87606,788,137959,Education,36,0.45,10,Divorced,Bachelor,Rejected
+52,97067,766,16975,Education,34,0.11,13,Single,Bachelor,Approved
+71,105765,714,136616,Education,40,0.67,1,Divorced,High School,Rejected
+51,101984,631,89984,Auto,33,0.61,13,Divorced,Bachelor,Rejected
+72,105933,840,93366,Business,40,0.23,9,Divorced,Bachelor,Approved
+64,100690,783,125491,Education,40,0.57,2,Married,Master,Rejected
+41,60506,692,55382,Home,22,0.48,12,Single,High School,Approved
+71,106463,832,28926,Business,40,0.28,13,Single,High School,Approved
+39,73186,736,101538,Auto,20,0.26,3,Married,High School,Rejected
+22,49614,746,118117,Education,0,0.27,5,Single,Bachelor,Rejected
+73,112806,599,18333,Auto,40,0.77,10,Single,Master,Rejected
+50,77022,744,21942,Education,31,0.55,12,Married,High School,Approved
+53,103734,762,79397,Home,34,0.32,4,Single,Bachelor,Approved
+64,99405,785,26530,Business,40,0.33,13,Divorced,High School,Approved
+37,73626,715,52060,Home,17,0.48,5,Married,Bachelor,Approved
+36,89550,614,86292,Education,14,0.47,6,Married,Master,Approved
+52,75913,781,46104,Personal,31,0.21,5,Married,High School,Approved
+69,103970,791,7634,Business,40,0.39,10,Divorced,Bachelor,Approved
+60,130410,801,12288,Auto,40,0.27,1,Married,PhD,Approved
+34,83745,848,39253,Education,13,0.37,6,Married,Master,Approved
+62,115003,850,131628,Home,40,0.34,9,Single,Bachelor,Rejected
+60,112084,746,32005,Personal,40,0.5,3,Divorced,Bachelor,Approved
+51,64319,732,54824,Education,31,0.31,2,Married,High School,Approved
+26,39355,703,82702,Auto,4,0.37,6,Married,Bachelor,Rejected
+43,107036,850,22798,Home,24,0.07,12,Single,Master,Approved
+19,46765,712,60267,Business,0,0.4,14,Married,Bachelor,Rejected
+70,92156,850,139966,Personal,40,0.23,3,Single,High School,Approved
+26,39431,805,8846,Education,5,0.12,4,Divorced,High School,Approved
+26,59516,688,68571,Education,8,0.52,6,Divorced,High School,Rejected
+57,79537,850,19481,Education,36,0.34,12,Single,High School,Approved
+34,62166,781,129908,Education,14,0.05,13,Married,High School,Approved
+18,47336,843,47154,Home,0,0.23,12,Single,Bachelor,Approved
+42,46994,796,134447,Business,22,0.35,6,Married,High School,Rejected
+60,81751,850,13048,Auto,40,0.36,12,Single,High School,Approved
+57,97429,767,32386,Personal,39,0.28,2,Married,Bachelor,Approved
+59,97931,850,109794,Education,38,0.05,13,Single,High School,Approved
+42,75272,789,39713,Education,22,0.27,13,Single,High School,Approved
+56,84538,721,82481,Business,34,0.51,3,Married,High School,Rejected
+52,75772,725,44899,Business,34,0.56,13,Single,High School,Rejected
+20,37390,758,95217,Home,1,0.26,9,Married,Bachelor,Approved
+67,101375,671,19975,Home,40,0.63,2,Single,High School,Rejected
+54,84654,842,78247,Home,35,0.11,3,Married,Bachelor,Approved
+61,118961,838,115295,Personal,40,0.23,9,Divorced,Master,Approved
+61,128644,725,124045,Home,40,0.48,4,Married,Bachelor,Approved
+68,99802,790,17105,Education,40,0.46,1,Divorced,Bachelor,Approved
+47,87783,751,54645,Home,27,0.35,11,Divorced,Master,Approved
+55,76845,850,135291,Personal,33,0.18,13,Single,Bachelor,Approved
+51,100540,838,35146,Home,31,0.18,2,Single,High School,Approved
+29,43986,793,139940,Home,7,0.24,3,Married,High School,Approved
+36,76809,730,49294,Education,17,0.19,9,Divorced,Master,Approved
+54,82108,824,80596,Education,36,0.37,9,Divorced,High School,Approved
+61,83370,747,141505,Education,40,0.34,11,Single,High School,Rejected
+66,86364,836,27612,Home,40,0.18,6,Single,Bachelor,Approved
+34,85881,729,39120,Education,12,0.3,14,Single,Master,Rejected
+27,42338,829,26294,Business,8,0.05,11,Married,High School,Approved
+74,112049,785,89300,Auto,40,0.4,6,Married,Bachelor,Approved
+72,90065,803,87119,Auto,40,0.46,3,Single,High School,Rejected
+66,106312,837,86096,Education,40,0.21,5,Married,Bachelor,Approved
+64,67651,806,140496,Personal,40,0.23,11,Married,High School,Approved
+29,55578,637,45615,Education,11,0.39,4,Married,High School,Approved
+33,68616,783,31863,Education,13,0.37,10,Single,Master,Approved
+41,71179,747,34469,Home,23,0.47,10,Divorced,Bachelor,Approved
+36,63721,830,108101,Personal,16,0.23,12,Married,Bachelor,Approved
+25,30413,752,94446,Education,4,0.25,9,Married,Bachelor,Approved
+48,67674,794,117613,Business,29,0.32,9,Married,High School,Rejected
+38,62478,767,122456,Auto,16,0.19,1,Single,Bachelor,Approved
+34,45721,719,68872,Business,13,0.31,8,Single,High School,Rejected
+40,45988,788,37208,Business,22,0.19,9,Married,High School,Approved
+54,87277,803,56998,Business,32,0.41,5,Single,High School,Approved
+71,108980,829,61994,Personal,40,0.21,4,Married,Bachelor,Approved
+33,69359,730,64895,Personal,12,0.39,10,Married,Master,Approved
+23,70684,676,37894,Personal,1,0.57,4,Married,PhD,Rejected
+25,59381,714,26990,Auto,4,0.41,2,Single,Bachelor,Approved
+42,58925,800,78230,Home,21,0.38,9,Single,High School,Rejected
+35,56594,771,41087,Education,16,0.15,5,Married,Bachelor,Approved
+42,92164,700,13673,Education,22,0.56,11,Single,Master,Rejected
+29,29621,712,37187,Home,7,0.52,3,Married,High School,Rejected
+32,87421,667,28553,Education,13,0.33,6,Married,PhD,Approved
+43,62493,790,48780,Business,22,0.29,9,Married,High School,Approved
+58,144052,850,109794,Auto,39,0.23,9,Married,PhD,Approved
+62,140233,689,87158,Education,40,0.62,12,Single,Master,Rejected
+43,105126,669,6420,Auto,21,0.47,13,Single,Master,Approved
+64,89281,848,49310,Home,40,0.24,5,Divorced,High School,Approved
+49,99073,728,48953,Education,31,0.51,8,Divorced,High School,Approved
+27,43082,751,9987,Auto,5,0.55,4,Married,High School,Approved
+33,39703,767,37456,Business,13,0.35,5,Divorced,High School,Approved
+24,35445,699,123763,Business,3,0.3,7,Married,High School,Rejected
+34,56430,741,90398,Home,12,0.2,7,Single,Bachelor,Rejected
+40,59520,766,122183,Personal,18,0.46,13,Single,Bachelor,Rejected
+43,69257,796,94782,Education,24,0.29,7,Divorced,Bachelor,Approved
+38,69027,770,127740,Business,17,0.28,8,Single,Bachelor,Approved
+39,69042,762,34681,Business,21,0.35,11,Married,High School,Approved
+24,91682,789,13323,Home,4,0.23,5,Married,PhD,Approved
+31,35552,691,72393,Business,12,0.58,1,Married,High School,Rejected
+32,59967,624,101123,Education,12,0.5,11,Married,Bachelor,Rejected
+70,109865,850,96354,Home,40,0.36,9,Single,Bachelor,Approved
+24,70518,833,103808,Auto,6,0.22,9,Single,Master,Approved
+26,42945,850,13484,Home,4,0.23,7,Married,High School,Approved
+68,100653,850,75459,Education,40,0.22,12,Married,Bachelor,Approved
+65,117729,850,132162,Education,40,0.17,6,Married,Bachelor,Approved
+25,35957,703,86456,Auto,4,0.4,13,Married,High School,Rejected
+67,112577,839,59890,Home,40,0.25,13,Single,Bachelor,Approved
+40,83192,844,18319,Education,18,0.25,5,Divorced,Master,Approved
+46,114583,710,112697,Education,26,0.23,5,Married,PhD,Approved
+35,36539,691,131193,Auto,15,0.5,3,Single,High School,Rejected
+48,66632,715,64432,Personal,30,0.24,10,Married,High School,Approved
+47,68425,722,142972,Home,27,0.54,1,Married,High School,Rejected
+69,91000,850,72696,Education,40,0.31,6,Divorced,High School,Approved
+56,113812,835,61485,Business,38,0.16,8,Single,High School,Approved
+52,75681,723,127359,Auto,33,0.42,14,Married,High School,Rejected
+35,80733,721,142293,Personal,13,0.48,2,Single,PhD,Rejected
+59,134024,842,30294,Personal,38,0.22,8,Single,Master,Approved
+56,91788,800,146110,Auto,34,0.36,8,Married,High School,Rejected
+34,37934,670,13255,Personal,13,0.4,10,Married,High School,Approved
+31,63152,749,114429,Education,9,0.36,8,Married,Bachelor,Rejected
+48,80352,796,92464,Personal,28,0.28,10,Single,High School,Approved
+41,79638,764,136444,Home,22,0.48,3,Single,Bachelor,Rejected
+52,94758,780,117848,Business,31,0.31,10,Married,Bachelor,Rejected
+61,113677,850,28855,Education,40,0.26,8,Single,Master,Approved
+62,110037,850,39758,Auto,40,0.09,11,Single,Bachelor,Approved
+51,89586,826,145679,Business,33,0.09,12,Single,Bachelor,Approved
+20,20046,665,110094,Education,1,0.38,12,Married,Bachelor,Rejected
+54,84462,753,79089,Business,35,0.34,14,Single,High School,Approved
+60,85240,705,10383,Personal,38,0.48,4,Married,Bachelor,Approved
+57,109134,721,65112,Auto,36,0.52,3,Single,Bachelor,Approved
+43,51691,850,136787,Auto,22,0.31,11,Single,High School,Rejected
+72,65469,687,145909,Home,40,0.49,9,Married,High School,Rejected
+40,42307,710,84486,Personal,20,0.27,8,Single,High School,Rejected
+61,119585,781,78528,Home,40,0.33,10,Married,Master,Approved
+56,88865,718,104354,Home,38,0.32,13,Single,High School,Rejected
+32,36873,622,75278,Personal,14,0.59,13,Married,High School,Rejected
+73,79276,850,18369,Education,40,0.16,2,Single,High School,Approved
+66,104919,788,65428,Home,40,0.36,13,Single,Bachelor,Approved
+21,44222,779,141116,Business,3,0.25,13,Married,High School,Rejected
+46,104899,807,70123,Education,28,0.31,13,Divorced,PhD,Approved
+39,93791,836,95914,Personal,20,0.3,14,Single,Master,Rejected
+42,57613,773,143333,Auto,20,0.36,8,Married,Bachelor,Rejected
+30,66158,739,23064,Education,12,0.55,11,Married,Bachelor,Approved
+35,57057,667,18690,Home,13,0.64,11,Married,High School,Rejected
+50,78742,759,138129,Business,29,0.45,3,Married,High School,Rejected
+33,71443,807,106025,Personal,11,0.2,10,Single,Bachelor,Approved
+62,99277,810,105867,Auto,40,0.32,12,Divorced,High School,Rejected
+59,106969,782,19559,Business,39,0.39,14,Single,High School,Approved
+61,104586,850,149764,Auto,39,0.29,6,Single,Bachelor,Approved
+19,48498,770,53429,Personal,0,0.31,5,Divorced,High School,Rejected
+72,110559,783,21972,Education,40,0.34,8,Married,Master,Approved
+52,77446,850,46530,Home,33,0.47,9,Married,High School,Approved
+59,102349,740,128297,Personal,39,0.43,11,Married,Bachelor,Rejected
+51,81072,798,6365,Business,31,0.26,7,Married,Bachelor,Approved
+47,58893,697,54683,Education,25,0.44,6,Single,Bachelor,Approved
+72,98692,761,99356,Auto,40,0.61,6,Married,High School,Rejected
+30,52200,850,134406,Education,11,0.12,1,Single,Bachelor,Approved
+30,67991,685,63896,Education,8,0.28,5,Married,Master,Approved
+35,80345,756,104339,Business,13,0.27,14,Divorced,Bachelor,Approved
+49,77720,820,142794,Home,28,0.36,8,Single,High School,Rejected
+49,107402,797,25100,Education,30,0.08,6,Married,Bachelor,Approved
+52,92705,740,125763,Education,31,0.55,12,Single,Bachelor,Rejected
+56,106054,711,66645,Home,37,0.36,1,Single,Bachelor,Approved
+63,117593,796,74551,Home,40,0.39,5,Divorced,Master,Approved
+69,81513,794,9840,Auto,40,0.38,13,Single,High School,Approved
+46,86517,850,91069,Auto,24,0.27,11,Married,Bachelor,Approved
+66,100640,799,90990,Home,40,0.45,12,Married,Bachelor,Approved
+46,90445,655,53105,Personal,26,0.35,5,Divorced,Bachelor,Approved
+70,114295,850,10699,Home,40,0.05,12,Married,Master,Approved
+61,133246,832,141994,Auto,40,0.33,3,Married,PhD,Approved
+74,104047,797,92200,Business,40,0.31,8,Married,Bachelor,Approved
+33,58769,690,102806,Business,12,0.45,9,Divorced,High School,Rejected
+73,85756,662,149670,Education,40,0.76,6,Married,High School,Rejected
+61,116869,796,131473,Business,40,0.41,6,Married,Bachelor,Rejected
+64,110951,632,7822,Auto,40,0.67,2,Single,Master,Rejected
+74,92698,808,95585,Business,40,0.25,10,Single,High School,Approved
+27,33623,815,92420,Personal,7,0.26,2,Married,High School,Approved
+47,81657,752,18052,Home,27,0.31,6,Divorced,High School,Rejected
+42,81813,711,88574,Home,20,0.41,12,Divorced,Master,Rejected
+56,75332,739,135171,Auto,35,0.25,8,Divorced,High School,Rejected
+37,59436,850,124879,Education,18,0.11,2,Married,Bachelor,Approved
+22,46030,748,149341,Home,0,0.35,9,Married,Bachelor,Rejected
+18,65910,822,21551,Business,0,0.18,13,Married,Master,Approved
+47,88831,709,74915,Personal,26,0.52,12,Married,Bachelor,Approved
+66,103557,780,12661,Education,40,0.45,14,Single,Bachelor,Approved
+20,24894,774,77503,Education,1,0.24,9,Married,High School,Rejected
+62,102213,696,100406,Education,40,0.42,14,Divorced,Bachelor,Approved
+31,62094,850,90930,Home,13,0.27,4,Single,Bachelor,Approved
+73,137526,850,149603,Education,40,0.34,4,Divorced,PhD,Approved
+47,70838,771,129534,Auto,26,0.34,4,Single,High School,Rejected
+67,107397,799,136904,Business,40,0.3,11,Married,High School,Rejected
+21,30396,755,146257,Personal,0,0.47,5,Married,High School,Rejected
+35,53108,802,139564,Business,13,0.18,8,Married,High School,Approved
+54,114714,797,63859,Auto,36,0.43,2,Married,Master,Approved
+42,62732,715,49630,Auto,24,0.4,11,Divorced,High School,Approved
+65,108540,811,6076,Business,40,0.14,5,Married,Bachelor,Approved
+18,25793,749,118868,Home,0,0.23,14,Single,High School,Rejected
+70,89417,849,103343,Auto,40,0.19,2,Married,High School,Approved
+63,116592,827,68705,Education,40,0.3,11,Single,Bachelor,Approved
+32,46146,814,119870,Personal,14,0.36,11,Single,High School,Rejected
+26,44373,831,100395,Personal,7,0.21,8,Single,High School,Approved
+32,35186,765,108800,Auto,10,0.5,1,Divorced,Bachelor,Rejected
+66,103146,709,50760,Education,40,0.51,7,Married,Bachelor,Approved
+74,85078,735,128476,Business,40,0.54,3,Married,High School,Rejected
+41,107702,850,40276,Personal,21,0.05,4,Single,PhD,Approved
+21,44137,699,66913,Education,1,0.64,14,Single,Bachelor,Rejected
+29,58415,768,78608,Education,8,0.37,8,Divorced,Bachelor,Rejected
+54,75713,745,18348,Home,33,0.36,3,Married,High School,Approved
+54,83363,728,51678,Auto,33,0.33,12,Divorced,High School,Approved
+60,72853,850,119369,Education,40,0.15,13,Single,High School,Approved
+23,34114,668,5318,Business,2,0.4,13,Single,High School,Approved
+56,92629,729,82354,Personal,38,0.59,7,Divorced,Bachelor,Rejected
+73,131678,850,31011,Home,40,0.37,12,Married,Master,Approved
+63,95467,849,23787,Business,40,0.18,1,Single,Bachelor,Approved
+41,72952,759,117286,Personal,22,0.12,9,Single,High School,Approved
+28,58384,724,114160,Auto,9,0.31,13,Married,Bachelor,Rejected
+30,23712,816,148588,Business,8,0.24,6,Married,High School,Rejected
+51,85737,763,104032,Personal,33,0.46,3,Married,Bachelor,Rejected
+42,86478,724,107305,Home,22,0.56,7,Single,Bachelor,Rejected
+24,58910,798,13752,Personal,4,0.42,13,Single,Bachelor,Approved
+69,122006,819,129345,Education,40,0.34,5,Divorced,PhD,Approved
+21,47128,748,85506,Home,1,0.33,8,Single,High School,Rejected
+25,50754,772,115382,Business,4,0.36,8,Married,Bachelor,Rejected
+37,91348,744,103328,Auto,15,0.18,12,Married,Master,Rejected
+46,68881,714,17657,Home,24,0.44,9,Single,Bachelor,Approved
+71,100440,813,86119,Home,40,0.19,6,Married,Bachelor,Approved
+70,124159,782,26491,Home,40,0.52,4,Married,Master,Approved
+68,86868,767,108010,Personal,40,0.3,13,Married,High School,Rejected
+62,90792,778,133801,Education,40,0.47,2,Married,Master,Rejected
+63,88092,844,47180,Auto,40,0.13,3,Single,High School,Approved
+27,37353,680,23540,Auto,8,0.47,5,Married,Bachelor,Approved
+60,109293,769,12943,Education,40,0.55,8,Married,Master,Approved
+51,65471,762,125730,Personal,33,0.16,12,Married,High School,Approved
+74,116325,786,13911,Personal,40,0.33,10,Single,Bachelor,Approved
+43,80463,850,68000,Education,24,0.4,2,Married,High School,Approved
+58,138415,850,74305,Education,40,0.41,5,Divorced,PhD,Approved
+66,117699,718,7479,Business,40,0.3,14,Married,Master,Approved
+20,45283,722,15112,Personal,0,0.27,9,Married,Bachelor,Approved
+73,116318,796,114575,Home,40,0.39,2,Married,Bachelor,Approved
+23,47665,643,51809,Auto,5,0.4,8,Divorced,Master,Rejected
+22,22248,850,37205,Personal,2,0.26,3,Divorced,High School,Rejected
+22,55040,766,142629,Education,0,0.23,8,Single,Bachelor,Approved
+71,117122,737,115947,Home,40,0.53,4,Married,Bachelor,Approved
+64,95897,805,39826,Business,40,0.37,4,Single,High School,Approved
+40,52550,850,131201,Business,22,0.05,12,Married,High School,Approved
+66,99895,696,92691,Home,40,0.53,7,Single,High School,Approved
+26,52614,826,121558,Home,6,0.26,5,Married,High School,Approved
+52,113682,778,106925,Education,31,0.36,4,Single,Master,Approved
+37,48559,799,101320,Education,19,0.41,7,Married,Bachelor,Rejected
+66,106245,831,37401,Auto,40,0.13,12,Married,Bachelor,Approved
+59,95852,706,147637,Auto,40,0.31,3,Single,High School,Rejected
+52,72843,785,95236,Business,32,0.55,9,Divorced,High School,Rejected
+67,91866,783,69702,Home,40,0.51,14,Married,High School,Approved
+35,63865,818,147184,Business,16,0.31,13,Married,Bachelor,Rejected
+34,54384,775,84297,Education,12,0.46,5,Married,Bachelor,Rejected
+41,109605,719,113327,Personal,23,0.48,12,Single,Master,Rejected
+20,50150,670,144957,Education,2,0.47,3,Married,Bachelor,Rejected
+49,78940,815,137448,Personal,30,0.18,2,Single,Bachelor,Approved
+52,79233,726,142011,Home,32,0.6,7,Married,Bachelor,Approved
+55,106890,812,138918,Home,37,0.28,12,Married,Master,Approved
+30,48444,643,77353,Home,8,0.37,7,Single,Bachelor,Rejected
+73,91465,814,12430,Auto,40,0.3,12,Divorced,High School,Approved
+64,109855,850,147223,Auto,40,0.38,13,Single,Bachelor,Rejected
+42,81344,796,39484,Personal,21,0.22,5,Divorced,Bachelor,Approved
+26,44998,850,129506,Business,5,0.32,4,Single,Bachelor,Rejected
+21,39206,670,142852,Business,0,0.38,13,Married,High School,Rejected
+31,88778,703,33604,Personal,11,0.53,11,Single,Master,Approved
+54,126400,677,112385,Auto,36,0.52,2,Married,PhD,Approved
+51,69179,676,22762,Education,33,0.52,2,Married,High School,Approved
+28,71502,655,124272,Personal,7,0.48,7,Single,Master,Rejected
+58,105600,809,94230,Business,36,0.63,10,Married,High School,Rejected
+73,79417,804,146628,Personal,40,0.31,7,Married,High School,Rejected
+20,27738,696,84091,Personal,2,0.33,4,Married,High School,Rejected
+45,68074,771,119919,Home,25,0.32,14,Divorced,High School,Rejected
+46,105916,755,135731,Auto,27,0.34,4,Married,Master,Rejected
+26,20000,839,15004,Home,5,0.13,4,Single,High School,Rejected
+20,43058,611,108726,Auto,0,0.39,11,Single,High School,Rejected
+42,77422,687,5247,Personal,23,0.42,2,Married,High School,Approved
+51,75252,825,116902,Auto,33,0.31,13,Married,High School,Rejected
+29,70566,793,50995,Business,9,0.09,13,Single,High School,Approved
+59,115777,744,64423,Home,39,0.35,9,Single,Bachelor,Approved
+26,49244,752,66969,Personal,5,0.16,1,Married,High School,Approved
+32,89875,759,34052,Business,12,0.41,8,Divorced,Master,Approved
+57,128587,809,54214,Auto,38,0.37,6,Single,Master,Approved
+42,65780,796,73858,Auto,24,0.38,13,Married,High School,Rejected
+22,63290,717,45765,Business,3,0.19,10,Married,Master,Approved
+28,29564,619,148538,Auto,6,0.54,7,Married,High School,Rejected
+51,69226,820,50284,Home,30,0.38,12,Single,High School,Approved
+41,58391,807,55034,Education,21,0.21,5,Married,High School,Approved
+32,45654,686,38161,Auto,10,0.44,6,Divorced,High School,Approved
+55,113482,765,58565,Personal,35,0.36,6,Single,Bachelor,Approved
+25,34475,588,66314,Auto,7,0.63,13,Married,Bachelor,Rejected
+22,49449,726,124378,Personal,4,0.27,9,Single,High School,Rejected
+65,94881,850,56929,Auto,40,0.16,10,Single,Bachelor,Approved
+43,63454,764,13086,Auto,23,0.39,13,Married,High School,Approved
+35,57256,697,104209,Personal,13,0.5,4,Married,Bachelor,Rejected
+23,56042,615,123409,Home,5,0.7,12,Single,High School,Rejected
+54,73000,662,87563,Education,32,0.85,11,Married,High School,Rejected
+65,95214,850,118212,Education,40,0.12,12,Married,High School,Approved
+30,47732,723,110317,Home,8,0.33,13,Married,High School,Rejected
+45,70899,780,50602,Auto,25,0.16,5,Married,Bachelor,Approved
+22,62032,650,141677,Education,2,0.31,4,Single,Master,Rejected
+30,55543,661,81213,Home,9,0.72,1,Divorced,High School,Rejected
+34,57267,850,117355,Home,14,0.23,10,Married,Bachelor,Approved
+67,113289,755,57545,Education,40,0.35,6,Married,Bachelor,Approved
+57,113689,743,113720,Personal,38,0.26,5,Married,Master,Rejected
+62,101636,802,20009,Business,40,0.2,4,Single,High School,Approved
+49,104474,702,35246,Personal,28,0.62,6,Single,Bachelor,Rejected
+46,77421,808,33185,Auto,25,0.12,12,Married,Master,Approved
+68,91618,774,129868,Personal,40,0.34,5,Married,Bachelor,Rejected
+20,27114,716,91488,Business,1,0.36,3,Divorced,High School,Rejected
+73,104654,811,51642,Business,40,0.35,2,Divorced,High School,Approved
+57,93824,813,14185,Home,39,0.3,13,Single,High School,Approved
+51,76052,684,69366,Auto,29,0.59,6,Married,Bachelor,Rejected
+57,107289,850,22505,Home,37,0.05,4,Married,Bachelor,Approved
+44,58362,645,33022,Personal,25,0.42,11,Single,High School,Approved
+30,68705,765,85196,Personal,10,0.42,13,Married,Bachelor,Rejected
+62,110389,787,79385,Education,40,0.39,10,Married,Bachelor,Approved
+50,82318,850,75272,Home,31,0.23,3,Married,Bachelor,Approved
+23,47340,700,8909,Home,2,0.53,14,Single,Bachelor,Approved
+41,102246,700,136866,Home,20,0.52,8,Single,Master,Rejected
+36,38079,713,88481,Home,18,0.22,12,Single,High School,Rejected
+33,85511,716,63527,Business,15,0.17,9,Married,Master,Approved
+57,72931,850,28807,Education,36,0.14,7,Single,High School,Approved
+45,64338,780,15856,Auto,23,0.38,2,Married,High School,Approved
+50,79577,841,142867,Auto,30,0.36,8,Married,High School,Rejected
+65,110131,850,146221,Auto,40,0.3,11,Married,High School,Rejected
+58,86737,669,97205,Business,38,0.66,13,Married,High School,Rejected
+30,58155,645,108303,Education,9,0.28,13,Married,High School,Rejected
+60,111595,806,74098,Education,40,0.38,11,Married,Master,Approved
+62,85049,745,121382,Business,40,0.32,5,Married,High School,Rejected
+42,80870,660,124443,Home,20,0.64,11,Married,Bachelor,Rejected
+70,92017,850,140278,Personal,40,0.05,10,Married,High School,Approved
+59,113715,765,107900,Home,38,0.3,7,Married,Master,Approved
+53,87944,705,134611,Auto,31,0.44,5,Single,Bachelor,Rejected
+44,79332,755,25897,Home,24,0.32,2,Married,High School,Approved
+55,97615,733,140442,Business,37,0.15,12,Divorced,Bachelor,Rejected
+24,42291,671,92236,Auto,5,0.38,12,Single,Bachelor,Rejected
+22,42451,748,106751,Personal,4,0.11,12,Single,Bachelor,Rejected
+60,111699,743,126918,Auto,40,0.45,4,Single,Bachelor,Rejected
+62,127565,759,53671,Home,40,0.29,13,Married,Bachelor,Approved
+74,99760,806,108533,Education,40,0.26,11,Single,Bachelor,Approved
+68,126486,727,65874,Education,40,0.51,5,Married,Bachelor,Approved
+48,70391,850,113459,Education,27,0.2,6,Single,High School,Approved
+40,90201,850,98679,Auto,22,0.12,5,Single,Master,Approved
+59,76397,818,131750,Education,37,0.21,10,Married,High School,Approved
+27,52019,665,75400,Business,6,0.66,11,Single,Bachelor,Rejected
+49,65938,850,14676,Personal,29,0.2,1,Divorced,High School,Approved
+60,93636,782,9234,Education,38,0.4,1,Single,Bachelor,Approved
+70,118479,710,117451,Business,40,0.48,3,Married,PhD,Approved
+47,85161,800,89259,Business,25,0.21,9,Single,High School,Approved
+56,96143,772,144598,Auto,37,0.21,11,Single,High School,Approved
+48,91216,742,39626,Auto,29,0.38,2,Divorced,Bachelor,Approved
+35,84059,729,6207,Personal,17,0.38,10,Divorced,Master,Approved
+53,97444,766,134330,Personal,35,0.55,5,Single,Bachelor,Rejected
+19,22230,718,87844,Home,0,0.23,9,Married,High School,Rejected
+31,62161,714,57097,Personal,9,0.29,7,Married,Master,Approved
+30,68674,576,125069,Auto,11,0.78,11,Single,Bachelor,Rejected
+46,69377,814,141501,Business,28,0.08,8,Single,High School,Approved
+29,48257,812,58591,Home,10,0.05,2,Divorced,High School,Approved
+56,83875,850,143663,Personal,37,0.14,5,Divorced,Bachelor,Approved
+19,26845,634,116248,Business,0,0.52,9,Divorced,High School,Rejected
+49,60466,793,82313,Auto,28,0.28,1,Married,High School,Approved
+30,82840,766,109249,Education,12,0.28,1,Married,Master,Approved
+63,99952,850,45459,Home,40,0.21,10,Single,High School,Approved
+44,97096,709,107331,Business,25,0.49,8,Single,Bachelor,Rejected
+66,83710,850,107599,Auto,40,0.14,2,Single,High School,Approved
+58,89221,826,83405,Auto,37,0.26,9,Married,Bachelor,Approved
+34,64814,803,94399,Home,16,0.21,10,Married,Bachelor,Approved
+57,81506,842,140733,Home,39,0.05,9,Married,High School,Approved
+48,91312,802,49802,Personal,28,0.28,4,Divorced,Bachelor,Approved
+51,65472,791,23782,Personal,33,0.34,2,Divorced,High School,Approved
+41,72456,761,115446,Home,20,0.23,3,Divorced,Master,Approved
+62,116535,850,137970,Home,40,0.31,10,Single,Master,Rejected
+52,100265,850,72963,Business,32,0.31,1,Married,Bachelor,Approved
+65,94725,765,81303,Personal,40,0.33,3,Married,Bachelor,Approved
+23,44491,753,88956,Auto,4,0.19,5,Single,High School,Approved
+36,75653,776,41123,Personal,18,0.18,3,Divorced,Bachelor,Approved
+47,85967,697,61198,Personal,27,0.36,3,Divorced,High School,Approved
+24,29477,753,57872,Home,5,0.13,10,Single,High School,Approved
+27,37935,787,9902,Home,6,0.32,6,Single,Bachelor,Approved
+58,94485,704,53554,Personal,39,0.6,3,Married,High School,Rejected
+49,92798,850,144352,Education,30,0.34,3,Married,Bachelor,Rejected
+51,78524,839,85490,Education,31,0.08,9,Divorced,High School,Approved
+45,72021,775,62465,Personal,25,0.38,2,Single,Bachelor,Approved
+32,52751,660,37800,Education,10,0.47,1,Single,High School,Approved
+47,62665,795,102143,Personal,26,0.23,10,Single,High School,Approved
+54,98020,793,123529,Home,34,0.31,8,Single,Bachelor,Rejected
+46,112404,698,83871,Home,28,0.22,13,Single,PhD,Approved
+39,75543,733,76713,Home,18,0.28,14,Divorced,Bachelor,Rejected
+21,20000,788,46206,Auto,0,0.25,3,Single,High School,Rejected
+37,60496,760,8926,Home,17,0.42,7,Married,High School,Approved
+49,108575,631,118682,Home,28,0.6,2,Single,Master,Approved
+53,95659,753,48056,Personal,33,0.36,11,Single,Bachelor,Approved
+67,106438,746,73495,Education,40,0.12,11,Married,High School,Approved
+21,62071,612,89147,Education,0,0.73,12,Married,Master,Rejected
+44,106687,797,61714,Home,25,0.44,8,Married,Master,Approved
+34,96924,775,134613,Home,14,0.47,9,Married,PhD,Rejected
+29,81793,804,142711,Home,9,0.34,8,Single,Master,Rejected
+39,74666,769,7478,Personal,20,0.38,8,Married,Master,Approved
+34,54329,819,69546,Personal,16,0.3,8,Single,High School,Rejected
+27,32230,685,124147,Personal,9,0.49,14,Married,High School,Rejected
+71,106404,796,93373,Education,40,0.28,7,Single,Bachelor,Approved
+18,48841,757,34974,Auto,0,0.42,2,Married,Bachelor,Rejected
+39,80074,724,49183,Education,18,0.5,8,Single,Bachelor,Approved
+43,69399,613,144490,Personal,23,0.54,5,Married,High School,Rejected
+73,101631,818,105361,Business,40,0.5,6,Divorced,Bachelor,Rejected
+35,61464,782,62148,Auto,16,0.2,4,Married,Bachelor,Approved
+67,66574,691,117007,Home,40,0.59,1,Married,High School,Rejected
+31,45688,760,117239,Education,10,0.45,13,Divorced,High School,Rejected
+64,116378,819,113747,Auto,40,0.4,5,Married,Bachelor,Approved
+46,85083,697,106245,Business,26,0.41,3,Single,Bachelor,Rejected
+29,44152,737,28382,Auto,10,0.33,9,Single,High School,Approved
+53,98930,750,31649,Education,35,0.28,4,Married,Bachelor,Approved
+52,90622,745,115559,Personal,33,0.29,10,Married,Bachelor,Rejected
+69,106949,590,103099,Home,40,0.54,2,Single,Bachelor,Approved
+29,39450,684,35373,Personal,9,0.36,4,Single,High School,Approved
+24,42011,709,27791,Personal,4,0.39,3,Divorced,Bachelor,Rejected
+46,65247,619,28115,Education,24,0.36,3,Single,High School,Approved
+28,71028,698,118109,Personal,8,0.25,5,Married,Master,Rejected
+50,92251,850,88489,Personal,29,0.05,1,Single,High School,Approved
+23,42943,624,28877,Education,4,0.47,5,Married,Bachelor,Rejected
+64,88405,753,45273,Education,40,0.45,8,Single,High School,Approved
+32,57433,660,61035,Business,10,0.35,10,Married,Bachelor,Rejected
+49,82523,838,148477,Personal,28,0.19,12,Single,Bachelor,Approved
+68,95131,698,116141,Auto,40,0.62,9,Married,High School,Rejected
+28,82379,706,46767,Home,10,0.3,12,Married,Bachelor,Approved
+40,53791,611,125456,Home,18,0.39,1,Single,High School,Rejected
+43,68158,746,146045,Education,22,0.24,14,Married,High School,Rejected
+51,75376,850,63565,Education,33,0.15,2,Married,Bachelor,Approved
+63,86064,840,94461,Business,40,0.44,2,Single,High School,Rejected
+51,120552,828,133577,Personal,30,0.12,6,Married,Master,Approved
+46,83450,748,115159,Education,26,0.38,1,Single,Bachelor,Approved
+21,54523,682,28091,Education,3,0.38,11,Married,Bachelor,Rejected
+34,46272,850,24584,Home,15,0.18,1,Single,High School,Approved
+52,94075,819,109861,Personal,31,0.16,2,Single,Bachelor,Approved
+30,79327,819,127235,Business,12,0.23,12,Single,Bachelor,Approved
+58,72399,822,119688,Education,36,0.26,13,Married,High School,Approved
+56,137365,850,21550,Education,37,0.12,4,Married,Master,Approved
+32,35540,742,138135,Education,14,0.18,2,Married,High School,Rejected
+72,115144,850,97816,Home,40,0.36,4,Single,Master,Approved
+46,62140,747,16631,Education,27,0.65,3,Single,High School,Approved
+46,96275,832,6125,Education,26,0.5,3,Married,Master,Approved
+28,50010,674,55581,Home,9,0.37,9,Married,Bachelor,Rejected
+69,80752,760,27485,Education,40,0.52,8,Single,High School,Approved
+49,60132,676,113539,Personal,28,0.52,12,Married,High School,Approved
+19,51440,759,88554,Personal,0,0.3,12,Single,Bachelor,Rejected
+64,132620,794,79398,Home,40,0.39,10,Married,PhD,Approved
+31,44504,676,137762,Personal,13,0.5,9,Divorced,High School,Rejected
+37,56822,688,20740,Business,16,0.52,1,Divorced,High School,Approved
+39,57053,807,93560,Education,18,0.52,12,Married,Bachelor,Rejected
+28,57063,776,90877,Business,6,0.2,5,Single,Bachelor,Approved
+44,80062,597,14156,Personal,24,0.53,12,Married,Bachelor,Approved
+20,47369,614,119968,Home,2,0.63,12,Married,Bachelor,Rejected
+34,56191,624,101589,Home,14,0.57,4,Single,High School,Rejected
+61,136435,789,68389,Business,40,0.19,11,Married,Master,Approved
+73,108229,850,138880,Personal,40,0.15,14,Divorced,Bachelor,Approved
+45,64001,786,75938,Education,24,0.42,9,Divorced,High School,Rejected
+46,75173,655,72500,Personal,28,0.57,14,Single,Bachelor,Rejected
+38,48091,714,65734,Personal,18,0.38,3,Married,Bachelor,Rejected
+64,91278,766,145701,Home,40,0.31,5,Married,High School,Rejected
+33,54903,824,37337,Auto,15,0.34,8,Single,Bachelor,Approved
+54,57097,776,92095,Education,35,0.5,10,Married,High School,Rejected
+37,68491,798,68829,Education,18,0.3,5,Married,Bachelor,Rejected
+23,65394,656,74830,Home,2,0.42,9,Married,Master,Rejected
+36,58443,669,51939,Personal,14,0.33,2,Single,High School,Approved
+74,100612,850,17965,Home,40,0.22,6,Married,High School,Approved
+22,68757,850,17228,Personal,0,0.2,5,Divorced,Master,Approved
+20,84025,613,53419,Auto,0,0.43,9,Married,PhD,Approved
+18,30319,850,101913,Auto,0,0.05,7,Married,Bachelor,Approved
+55,99004,750,54229,Business,37,0.42,8,Single,Bachelor,Approved
+32,65798,759,148894,Personal,10,0.32,7,Single,Bachelor,Rejected
+51,106963,663,35070,Home,31,0.49,13,Married,Master,Approved
+52,107948,657,129045,Home,33,0.44,10,Single,Master,Rejected
+66,90280,678,12135,Home,40,0.36,10,Divorced,High School,Approved
+42,77455,850,104093,Business,20,0.19,5,Single,Bachelor,Approved
+41,77231,797,104626,Education,22,0.2,11,Married,Bachelor,Rejected
+29,50037,790,44441,Home,9,0.25,13,Single,Bachelor,Approved
+35,51971,765,121190,Auto,16,0.48,14,Divorced,Bachelor,Rejected
+32,63959,658,101108,Home,14,0.62,5,Single,Bachelor,Rejected
+61,135574,850,80043,Home,40,0.4,13,Single,PhD,Approved
+33,51465,729,8062,Home,14,0.26,11,Single,High School,Approved
+44,77029,761,95236,Education,25,0.28,4,Married,High School,Approved
+25,65306,707,57214,Home,6,0.28,2,Single,Bachelor,Rejected
+63,88959,784,58409,Education,40,0.51,14,Single,High School,Approved
+42,60531,834,146940,Education,21,0.28,9,Single,High School,Approved
+34,56731,725,73089,Business,14,0.34,10,Married,High School,Rejected
+46,85265,633,99047,Auto,24,0.55,10,Single,Bachelor,Rejected
+70,115574,850,22428,Home,40,0.26,12,Single,Master,Approved
+25,60590,663,113283,Home,6,0.43,10,Single,Bachelor,Rejected
+32,64536,682,39734,Home,14,0.49,10,Married,Bachelor,Approved
+44,64748,704,70107,Education,24,0.36,3,Married,High School,Rejected
+63,109336,715,91889,Personal,40,0.64,11,Married,Bachelor,Rejected
+67,101988,682,117168,Auto,40,0.6,11,Divorced,Bachelor,Rejected
+69,105946,821,89170,Home,40,0.39,3,Divorced,Bachelor,Approved
+24,41975,739,147751,Personal,6,0.23,3,Single,High School,Rejected
+20,38171,785,39782,Personal,0,0.24,8,Married,High School,Approved
+46,76481,708,75160,Personal,26,0.38,6,Married,High School,Approved
+61,107670,850,123296,Auto,40,0.19,1,Divorced,Bachelor,Approved
+70,93912,762,58077,Personal,40,0.39,12,Married,Master,Approved
+41,92433,685,33534,Home,20,0.6,13,Married,Master,Rejected
+20,48978,662,43636,Home,0,0.36,14,Married,Bachelor,Rejected
+37,79509,750,104108,Business,19,0.35,3,Divorced,Bachelor,Rejected
+63,110439,693,55486,Education,40,0.48,4,Single,Master,Approved
+32,29779,717,99096,Personal,14,0.43,13,Single,High School,Approved
+42,72561,761,38435,Education,23,0.18,2,Single,High School,Approved
+47,88254,778,38152,Education,27,0.28,6,Single,Master,Approved
+31,55721,679,114620,Education,9,0.63,10,Married,High School,Rejected
+24,61713,647,63952,Education,5,0.4,12,Single,Master,Rejected
+34,82728,789,24638,Education,12,0.2,1,Single,PhD,Approved
+61,108496,815,122436,Home,40,0.32,1,Divorced,Bachelor,Rejected
+37,91661,850,21396,Auto,17,0.08,8,Married,Master,Approved
+53,100065,850,141475,Personal,33,0.07,4,Married,Bachelor,Approved
+26,57516,652,28838,Personal,5,0.5,1,Single,Bachelor,Approved
+55,76922,777,43919,Home,36,0.35,7,Single,High School,Approved
+65,74730,850,82895,Home,40,0.43,9,Married,High School,Rejected
+74,86103,685,52995,Education,40,0.52,10,Married,High School,Approved
+39,60542,623,80593,Auto,18,0.4,7,Single,Bachelor,Rejected
+71,94325,795,136172,Personal,40,0.46,1,Divorced,High School,Rejected
+70,98742,840,99191,Business,40,0.39,1,Divorced,High School,Rejected
+70,91726,636,75514,Home,40,0.54,12,Divorced,High School,Approved
+19,44990,627,15988,Business,0,0.62,1,Married,Bachelor,Rejected
+41,104895,696,124392,Personal,22,0.38,8,Single,PhD,Rejected
+25,92303,740,120137,Home,5,0.37,7,Married,PhD,Rejected
+28,40195,720,82229,Personal,9,0.4,14,Married,Bachelor,Rejected
+30,65938,810,106471,Home,12,0.33,3,Single,Master,Rejected
+34,81267,696,43148,Personal,12,0.29,3,Married,Bachelor,Approved
+25,38450,704,149895,Business,4,0.51,12,Single,Bachelor,Rejected
+38,74310,801,29696,Auto,16,0.29,3,Married,Bachelor,Approved
+35,59867,770,16629,Home,15,0.28,2,Single,High School,Approved
+47,79737,624,139928,Business,26,0.48,14,Married,Master,Rejected
+35,33657,724,36051,Personal,14,0.5,14,Single,High School,Rejected
+63,117647,647,38469,Business,40,0.7,4,Married,Bachelor,Rejected
+64,95270,648,77372,Home,40,0.53,7,Married,Bachelor,Approved
+48,64043,748,48406,Business,29,0.47,9,Married,High School,Approved
+55,80291,772,92754,Personal,37,0.5,3,Divorced,High School,Rejected
+49,81795,744,40017,Education,31,0.33,10,Married,Bachelor,Approved
+28,44262,753,15705,Auto,6,0.43,7,Divorced,High School,Approved
+62,93179,802,91911,Auto,40,0.44,12,Single,Bachelor,Approved
+42,55342,781,97469,Education,20,0.27,4,Single,Bachelor,Approved
+50,104563,802,78654,Home,32,0.34,1,Single,Bachelor,Approved
+55,87670,783,97185,Business,36,0.49,5,Single,Bachelor,Rejected
+58,92979,809,50318,Business,37,0.35,8,Married,Bachelor,Approved
+25,57798,590,138286,Education,3,0.44,3,Single,Bachelor,Rejected
+28,59202,570,79070,Education,9,0.48,10,Married,Bachelor,Approved
+39,84623,768,54869,Personal,19,0.48,4,Married,Bachelor,Approved
+68,113451,684,8255,Personal,40,0.61,3,Married,Bachelor,Rejected
+41,85465,757,125478,Auto,20,0.26,10,Married,Master,Approved
+58,97219,802,32841,Home,38,0.6,14,Married,High School,Rejected
+34,67677,687,10334,Home,14,0.42,14,Single,Bachelor,Approved
+29,66016,694,110134,Education,8,0.48,8,Single,Master,Rejected
+74,92904,775,45522,Auto,40,0.45,10,Married,High School,Approved
+63,76905,749,35697,Auto,40,0.45,8,Married,High School,Approved
+49,95338,850,146794,Personal,28,0.25,14,Married,Bachelor,Approved
+32,53541,688,106936,Business,11,0.47,4,Divorced,High School,Rejected
+33,49203,845,128935,Home,12,0.13,11,Married,High School,Approved
+71,115817,710,21029,Auto,40,0.66,2,Married,PhD,Rejected
+39,86544,784,70550,Personal,20,0.41,12,Single,Bachelor,Approved
+45,74870,641,144280,Personal,27,0.52,3,Married,High School,Rejected
+37,97270,607,80507,Personal,15,0.45,3,Married,PhD,Approved
+50,115193,769,93719,Business,28,0.36,4,Single,PhD,Approved
+27,51632,717,93499,Auto,8,0.27,11,Single,Bachelor,Rejected
+57,80555,850,106383,Education,36,0.24,13,Married,High School,Rejected
+49,114192,729,144199,Education,31,0.47,2,Single,Master,Rejected
+67,99832,773,20646,Personal,40,0.46,2,Single,Bachelor,Approved
+50,84256,729,27713,Personal,28,0.43,3,Married,Bachelor,Approved
+19,58724,696,37267,Business,0,0.33,12,Single,Master,Approved
+50,90498,754,8864,Personal,31,0.41,1,Divorced,Bachelor,Approved
+50,71821,839,81197,Auto,32,0.29,8,Single,High School,Approved
+58,101798,797,122201,Personal,39,0.25,6,Married,Bachelor,Approved
+30,49933,733,77246,Personal,11,0.31,3,Married,High School,Rejected
+47,79451,816,37380,Auto,29,0.32,1,Divorced,Bachelor,Approved
+50,91344,619,46284,Home,32,0.57,3,Single,Bachelor,Rejected
+30,61309,850,123178,Education,8,0.15,1,Married,High School,Approved
+69,104368,759,128556,Personal,40,0.35,3,Married,Bachelor,Rejected
+43,58195,778,60277,Auto,25,0.44,4,Married,High School,Rejected
+39,48025,678,20316,Education,19,0.65,6,Married,High School,Rejected
+56,83348,702,140960,Business,34,0.26,7,Married,Bachelor,Rejected
+19,46271,774,16325,Home,0,0.18,7,Divorced,High School,Approved
+55,110580,810,79922,Personal,37,0.46,9,Single,Bachelor,Approved
+56,68103,756,118949,Home,34,0.37,8,Single,High School,Rejected
+43,83137,758,135856,Personal,24,0.32,13,Married,Bachelor,Rejected
+63,132248,731,109564,Personal,40,0.42,4,Single,Master,Approved
+67,104595,816,81803,Personal,40,0.48,6,Divorced,Bachelor,Approved
+32,58083,686,20419,Home,12,0.46,11,Married,Bachelor,Approved
+51,146908,847,50854,Business,33,0.4,1,Married,PhD,Approved
+59,70946,782,138976,Auto,40,0.55,8,Single,High School,Rejected
+72,116325,850,114796,Auto,40,0.38,6,Single,High School,Approved
+61,104099,788,104427,Business,39,0.36,2,Married,Bachelor,Rejected
+66,102904,737,85535,Business,40,0.46,8,Divorced,High School,Approved
+57,116993,850,93855,Personal,36,0.16,4,Divorced,PhD,Approved
+28,31744,786,32633,Personal,6,0.44,9,Single,High School,Rejected
+20,37200,827,121958,Auto,2,0.3,4,Single,Bachelor,Rejected
+23,45489,696,29055,Personal,1,0.15,1,Single,Bachelor,Rejected
+26,43577,850,139718,Personal,7,0.41,7,Divorced,High School,Rejected
+23,57168,762,149245,Business,1,0.28,10,Single,Bachelor,Approved
+26,20385,845,12025,Home,5,0.11,5,Single,High School,Rejected
+56,102068,773,17549,Education,37,0.22,10,Single,Bachelor,Approved
+48,83949,642,19853,Education,30,0.6,11,Single,High School,Rejected
+49,117321,721,66156,Personal,31,0.27,12,Divorced,Master,Approved
+58,127594,850,147398,Personal,38,0.4,5,Married,PhD,Rejected
+67,85719,809,139535,Education,40,0.19,4,Single,High School,Approved
+29,42579,639,32163,Business,9,0.67,6,Single,High School,Rejected
+25,55860,714,103136,Education,6,0.36,1,Single,Bachelor,Rejected
+25,52025,712,128296,Education,6,0.25,3,Single,High School,Rejected
+67,107899,745,19075,Education,40,0.48,11,Single,Master,Approved
+45,74637,674,99245,Personal,25,0.66,12,Married,Bachelor,Rejected
+37,40685,831,48315,Personal,16,0.29,7,Single,High School,Approved
+64,124277,769,108245,Education,40,0.24,11,Single,Master,Approved
+24,65013,598,21010,Personal,6,0.69,8,Single,Bachelor,Rejected
+28,59290,770,111548,Education,9,0.33,12,Married,Master,Rejected
+37,84887,763,5605,Business,16,0.31,9,Married,Master,Approved
+33,59790,837,42315,Personal,13,0.05,1,Married,High School,Approved
+21,39345,679,13652,Home,1,0.34,4,Married,High School,Approved
+23,85727,829,125179,Personal,2,0.15,2,Married,PhD,Approved
+39,76601,849,98439,Business,19,0.27,2,Single,Master,Approved
+43,69194,850,85266,Business,21,0.05,1,Divorced,High School,Approved
+20,61140,659,43541,Personal,2,0.54,5,Single,Master,Approved
+58,115701,718,69658,Auto,40,0.13,2,Married,Bachelor,Approved
+59,94491,850,61327,Education,40,0.06,4,Married,High School,Approved
+31,68344,787,98434,Education,11,0.21,9,Married,Master,Approved
+28,44788,629,48654,Business,8,0.54,11,Divorced,High School,Rejected
+35,92185,726,20930,Personal,16,0.28,3,Married,Master,Approved
+71,84936,765,135682,Auto,40,0.3,8,Divorced,High School,Rejected
+29,62788,730,139590,Home,11,0.42,10,Married,Bachelor,Rejected
+40,43633,720,11775,Education,18,0.33,13,Divorced,High School,Approved
+29,65490,691,10378,Auto,10,0.54,6,Divorced,Bachelor,Approved
+30,60937,850,51402,Education,11,0.31,10,Divorced,Bachelor,Approved
+42,72140,758,84712,Personal,22,0.32,5,Married,High School,Rejected
+62,110208,628,30060,Education,40,0.69,2,Single,Bachelor,Rejected
+68,100928,721,132067,Home,40,0.36,11,Single,Bachelor,Rejected
+36,47036,755,133334,Personal,17,0.38,13,Married,High School,Rejected
+72,109235,850,123684,Business,40,0.32,3,Divorced,Master,Rejected
+63,84925,834,98104,Auto,40,0.05,8,Married,High School,Approved
+53,106370,627,27765,Education,35,0.48,12,Divorced,Bachelor,Approved
+62,87437,798,121677,Personal,40,0.6,12,Married,Bachelor,Rejected
+25,39142,801,99385,Personal,3,0.54,9,Single,Bachelor,Rejected
+46,74589,826,107649,Education,24,0.27,11,Single,High School,Approved
+72,118289,832,13174,Business,40,0.32,11,Single,Bachelor,Approved
+70,95168,787,50820,Education,40,0.4,7,Single,Bachelor,Approved
+72,94531,822,131518,Business,40,0.4,1,Married,Bachelor,Approved
+49,114571,769,77582,Education,27,0.45,12,Divorced,Master,Approved
+68,103764,802,140258,Personal,40,0.38,12,Married,Bachelor,Rejected
+61,81054,755,21722,Home,40,0.3,13,Married,High School,Approved
+35,62946,755,113157,Home,15,0.37,13,Single,High School,Rejected
+23,41034,679,76504,Personal,4,0.5,6,Single,High School,Rejected
+35,62866,576,115760,Home,17,0.79,7,Married,High School,Rejected
+36,42575,785,45452,Business,14,0.28,12,Single,High School,Approved
+39,65248,719,33270,Personal,21,0.38,6,Single,High School,Approved
+54,96462,795,46129,Business,36,0.3,10,Married,High School,Approved
+49,82907,777,11387,Personal,31,0.4,11,Single,High School,Approved
+73,99198,790,29394,Business,40,0.5,13,Divorced,High School,Approved
+58,104031,768,132113,Business,40,0.32,2,Single,High School,Rejected
+20,34276,837,81827,Home,0,0.05,13,Single,High School,Rejected
+45,73848,750,116110,Personal,23,0.5,9,Single,Bachelor,Rejected
+27,64271,778,40241,Education,7,0.37,3,Single,Bachelor,Approved
+68,78942,827,33337,Home,40,0.3,6,Married,High School,Approved
+52,87776,828,105992,Business,30,0.27,6,Married,Bachelor,Approved
+46,74880,728,9804,Business,26,0.4,8,Married,High School,Approved
+71,57826,850,62450,Education,40,0.25,13,Married,High School,Approved
+32,49024,765,64529,Education,11,0.26,4,Single,High School,Approved
+50,95996,850,127766,Business,32,0.16,6,Married,Bachelor,Rejected
+24,38140,737,36334,Education,3,0.25,1,Single,Bachelor,Rejected
+29,49758,728,68452,Auto,11,0.44,9,Single,High School,Rejected
+66,91899,850,142583,Home,40,0.14,12,Married,High School,Approved
+47,97839,740,112018,Personal,25,0.52,9,Married,Master,Rejected
+38,71894,762,44440,Education,20,0.17,7,Married,High School,Approved
+48,83789,779,68118,Education,30,0.37,11,Single,High School,Approved
+41,97899,710,90263,Auto,21,0.42,13,Single,Master,Approved
+37,73757,754,131775,Personal,16,0.47,1,Divorced,Master,Rejected
+54,95826,694,54217,Auto,34,0.47,3,Single,Bachelor,Approved
+21,61344,745,73517,Personal,3,0.34,12,Single,Bachelor,Rejected
+45,62353,768,148857,Home,23,0.32,5,Single,High School,Rejected
+61,105542,850,59740,Education,40,0.44,4,Single,High School,Approved
+37,77191,793,106119,Home,17,0.39,5,Single,Bachelor,Rejected
+41,80095,840,18950,Personal,22,0.3,7,Married,High School,Approved
+67,94326,740,77209,Education,40,0.41,9,Married,Bachelor,Approved
+66,118453,782,72278,Auto,40,0.32,1,Divorced,Master,Approved
+68,134398,823,43488,Business,40,0.26,5,Single,PhD,Approved
+49,79561,842,41277,Auto,29,0.29,3,Single,High School,Approved
+58,91614,778,8534,Business,36,0.42,3,Married,Bachelor,Approved
+53,81423,778,85221,Auto,35,0.21,11,Married,Bachelor,Approved
+70,123781,714,76121,Personal,40,0.52,2,Married,Master,Approved
+51,72835,850,79090,Home,31,0.27,6,Married,High School,Approved
+53,76293,850,114777,Business,34,0.05,14,Single,High School,Rejected
+19,23071,701,6634,Personal,0,0.43,6,Married,High School,Rejected
+32,52238,831,21908,Home,14,0.05,3,Married,High School,Approved
+51,64231,850,85653,Home,30,0.2,1,Single,High School,Approved
+53,91058,612,72258,Education,32,0.71,7,Divorced,Bachelor,Rejected
+23,39712,684,74400,Education,2,0.51,2,Married,Bachelor,Rejected
+56,80908,740,121107,Education,38,0.5,8,Single,High School,Rejected
+59,108538,771,134468,Business,40,0.18,3,Single,Bachelor,Approved
+68,96514,795,117436,Business,40,0.32,1,Single,High School,Rejected
+68,116938,850,36131,Home,40,0.54,10,Married,Master,Approved
+71,129678,730,66760,Business,40,0.45,9,Single,Master,Approved
+29,75772,693,72370,Home,7,0.52,5,Single,PhD,Approved
+20,44801,540,134841,Personal,0,0.62,1,Single,Master,Rejected
+62,76636,751,59470,Auto,40,0.45,10,Married,High School,Approved
+35,38745,749,124688,Home,13,0.17,11,Married,High School,Rejected
+57,87371,735,58283,Home,37,0.44,6,Married,Bachelor,Approved
+38,108711,783,135263,Personal,19,0.31,10,Single,Master,Rejected
+32,29497,744,138425,Education,10,0.16,3,Divorced,High School,Rejected
+50,84374,741,18878,Education,30,0.48,11,Married,High School,Approved
+52,107748,679,122743,Education,32,0.53,4,Divorced,Master,Rejected
+43,66746,696,81668,Home,23,0.34,8,Married,High School,Rejected
+25,43442,767,13203,Home,5,0.4,5,Married,Bachelor,Approved
+53,96254,816,15322,Business,32,0.05,12,Married,Bachelor,Approved
+65,80860,720,81831,Business,40,0.52,6,Single,High School,Rejected
+47,78227,701,40925,Auto,26,0.47,10,Married,High School,Approved
+40,83555,754,27247,Auto,19,0.39,4,Married,Bachelor,Approved
+59,102151,841,112930,Business,39,0.16,6,Married,Bachelor,Approved
+61,134306,850,124496,Home,40,0.1,3,Divorced,PhD,Approved
+31,50827,614,82631,Personal,11,0.65,10,Married,High School,Rejected
+31,50316,773,51335,Business,11,0.2,12,Single,High School,Approved
+19,55241,732,93961,Home,0,0.37,1,Single,Bachelor,Rejected
+72,114958,850,39723,Business,40,0.2,6,Married,Bachelor,Approved
+54,83711,850,9991,Education,36,0.05,14,Married,High School,Approved
+22,46227,745,18763,Business,4,0.42,13,Single,Bachelor,Approved
+55,89116,805,49863,Education,34,0.44,1,Single,High School,Approved
+62,88437,850,22408,Home,40,0.1,10,Married,High School,Approved
+58,89637,741,119177,Education,39,0.52,12,Married,High School,Rejected
+71,95303,850,94767,Business,40,0.27,3,Divorced,High School,Approved
+64,114755,850,6011,Education,40,0.19,12,Married,Bachelor,Approved
+31,62608,850,43392,Personal,10,0.18,8,Married,Bachelor,Approved
+73,99128,677,63990,Education,40,0.48,7,Married,Bachelor,Approved
+56,133470,849,83780,Education,37,0.06,8,Divorced,Master,Approved
+42,79803,834,28536,Auto,23,0.16,10,Married,High School,Approved
+37,42319,759,92746,Personal,15,0.41,10,Divorced,High School,Rejected
+19,20882,709,10585,Home,0,0.39,2,Divorced,High School,Rejected
+56,77639,741,62210,Education,37,0.2,10,Divorced,High School,Approved
+23,56485,662,141528,Personal,2,0.54,7,Single,Bachelor,Rejected
+34,87351,836,127365,Home,16,0.18,14,Single,Bachelor,Approved
+42,72937,751,14775,Personal,22,0.32,4,Single,Bachelor,Approved
+74,91692,825,19099,Auto,40,0.3,1,Single,High School,Approved
+45,59973,850,107341,Home,25,0.3,11,Single,High School,Rejected
+19,62001,722,46842,Home,0,0.32,3,Single,Bachelor,Rejected
+52,83248,775,62163,Education,30,0.32,5,Single,High School,Approved
+54,87753,796,127863,Business,34,0.31,14,Married,Bachelor,Rejected
+22,55476,748,100608,Home,1,0.32,10,Married,PhD,Rejected
+18,40375,679,145931,Home,0,0.51,8,Single,High School,Rejected
+57,93275,810,114478,Auto,36,0.32,2,Married,Bachelor,Rejected
+29,63927,647,60700,Auto,7,0.45,2,Married,Bachelor,Approved
+73,92936,791,7539,Auto,40,0.37,8,Married,High School,Approved
+53,79157,696,113609,Education,35,0.4,14,Divorced,Bachelor,Rejected
+62,81932,755,83735,Home,40,0.47,9,Single,High School,Rejected
+40,53458,836,62824,Auto,18,0.18,10,Single,High School,Approved
+64,98242,755,17281,Auto,40,0.44,13,Married,Bachelor,Approved
+48,101661,729,14946,Personal,27,0.32,13,Single,Master,Approved
+28,47513,758,129128,Personal,9,0.21,1,Married,High School,Approved
+27,55393,790,129016,Auto,5,0.47,14,Single,High School,Rejected
+20,64722,816,81427,Education,0,0.29,2,Single,Master,Approved
+71,134911,757,31111,Business,40,0.41,4,Single,Master,Approved
+31,55231,804,38290,Personal,10,0.05,12,Single,Bachelor,Approved
+33,62652,706,9837,Personal,14,0.46,3,Married,High School,Approved
+27,63688,680,16801,Home,5,0.74,1,Married,Master,Rejected
+46,56829,676,134342,Home,24,0.35,4,Single,High School,Rejected
+27,45907,719,102157,Auto,7,0.31,11,Single,Bachelor,Rejected
+29,20000,779,45916,Home,9,0.28,13,Single,High School,Rejected
+47,97040,755,149137,Home,29,0.43,11,Single,Bachelor,Rejected
+58,71098,774,67546,Business,36,0.3,2,Divorced,High School,Approved
+18,59081,680,50474,Education,0,0.45,10,Single,Bachelor,Rejected
+22,32757,667,98766,Auto,3,0.61,5,Married,High School,Rejected
+37,38451,692,41388,Business,16,0.48,1,Divorced,High School,Rejected
+25,42822,687,81167,Auto,6,0.32,14,Single,Bachelor,Rejected
+60,120406,825,100364,Education,39,0.18,8,Married,Master,Approved
+29,69700,766,79667,Auto,9,0.29,10,Divorced,PhD,Approved
+18,35899,623,84843,Home,0,0.33,2,Married,High School,Rejected
+74,89836,850,8709,Education,40,0.15,11,Married,Bachelor,Approved
+71,97610,801,53754,Business,40,0.51,3,Married,Bachelor,Approved
+37,58987,707,91257,Business,18,0.44,3,Married,High School,Rejected
+45,70676,792,10094,Personal,24,0.19,4,Single,High School,Approved
+74,112977,849,145487,Business,40,0.08,7,Divorced,Bachelor,Approved
+60,106934,745,12472,Personal,40,0.46,13,Married,Master,Approved
+54,94415,822,41131,Home,35,0.1,9,Married,Bachelor,Approved
+64,115929,850,89943,Business,40,0.36,3,Divorced,Bachelor,Approved
+54,95917,800,88737,Education,36,0.29,1,Married,Bachelor,Approved
+29,46442,595,28115,Personal,9,0.47,11,Single,High School,Approved
+54,97624,768,32961,Business,34,0.47,10,Single,Bachelor,Approved
+66,118012,850,52083,Home,40,0.23,1,Married,Bachelor,Approved
+66,85340,779,52182,Education,40,0.48,12,Married,High School,Approved
+73,106100,850,132987,Education,40,0.31,11,Married,Master,Rejected
+61,80321,819,7017,Home,40,0.35,6,Divorced,High School,Approved
+73,136888,850,140295,Business,40,0.36,5,Divorced,PhD,Approved
+45,53304,708,66852,Auto,26,0.69,10,Married,High School,Rejected
+64,84555,844,55509,Business,40,0.33,7,Single,High School,Approved
+32,48754,834,11531,Personal,12,0.1,7,Married,High School,Approved
+23,40334,675,140738,Personal,2,0.24,3,Married,Bachelor,Rejected
+61,93268,698,49023,Business,40,0.46,7,Married,High School,Approved
+37,74744,709,45059,Personal,15,0.31,9,Married,Bachelor,Approved
+67,109549,668,45023,Auto,40,0.35,8,Married,Bachelor,Approved
+31,44524,739,9236,Auto,10,0.29,3,Single,Bachelor,Approved
+19,30791,850,110109,Education,0,0.05,10,Single,High School,Approved
+26,52574,697,131682,Personal,4,0.23,5,Married,Bachelor,Rejected
+54,75690,815,29941,Business,33,0.34,13,Single,High School,Approved
+37,72133,850,98067,Education,16,0.08,13,Single,Bachelor,Approved
+43,70274,824,106349,Auto,25,0.17,14,Single,High School,Approved
+46,96591,838,81629,Education,25,0.3,8,Married,Master,Approved
+18,34957,734,16651,Home,0,0.3,2,Single,Bachelor,Approved
+72,104733,850,95380,Personal,40,0.41,14,Married,Bachelor,Approved
+52,108669,775,54823,Business,30,0.31,14,Married,Bachelor,Approved
+23,27576,730,149661,Auto,1,0.4,7,Married,High School,Rejected
+54,91473,800,44768,Education,34,0.24,11,Married,High School,Approved
+70,120388,744,90558,Business,40,0.38,10,Single,Master,Approved
+22,53492,594,117784,Personal,1,0.57,10,Married,Master,Rejected
+50,73534,785,109389,Business,31,0.39,7,Divorced,High School,Rejected
+66,104831,850,136306,Personal,40,0.31,11,Married,Bachelor,Rejected
+68,111552,850,77370,Personal,40,0.21,12,Divorced,Bachelor,Approved

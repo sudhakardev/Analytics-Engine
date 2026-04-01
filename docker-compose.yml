@@ -1,0 +1,62 @@
+version: "3.9"
+
+services:
+  # ─── PostgreSQL Database ──────────────────────────────────────────────────────
+  db:
+    image: postgres:16-alpine
+    container_name: fde_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: fde_db
+      POSTGRES_USER: fde_user
+      POSTGRES_PASSWORD: fde_password
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U fde_user -d fde_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ─── FastAPI Backend ──────────────────────────────────────────────────────────
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: fde_backend
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: postgresql+asyncpg://fde_user:fde_password@db:5432/fde_db
+      SECRET_KEY: ${SECRET_KEY:-change-in-production}
+      DEBUG: "false"
+      ALLOWED_ORIGINS: '["http://localhost","http://localhost:80","http://frontend"]'
+    volumes:
+      - model_storage:/app/ml/saved_models
+      - upload_storage:/app/uploads
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+
+  # ─── React Frontend ───────────────────────────────────────────────────────────
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: fde_frontend
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+
+volumes:
+  postgres_data:
+    name: fde_postgres_data
+  model_storage:
+    name: fde_model_storage
+  upload_storage:
+    name: fde_upload_storage
